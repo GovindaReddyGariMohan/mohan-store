@@ -14,9 +14,10 @@ function App() {
     const cartItemIds = localStorage.getItem('cart')?.split(",");
     let filterId
     if(cartItemIds.length!==1){
-      filterId = Plpproducts.filter((items) => cartItemIds?.some((id) => items.id === id))
-    }
+      filterId = Plpproducts.filter((items) => cartItemIds.some((id) => items.id === id))
       dispatch(addItem(filterId))
+    }
+      
   })
   return (
     <div>
