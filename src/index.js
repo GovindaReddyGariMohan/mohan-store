@@ -8,10 +8,12 @@ import store from './redux/store';
 import { BrowserRouter } from 'react-router-dom';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <BrowserRouter basename='mohan-store'>
-    <Provider store={store}>
+
+  <Provider store={store}>
+    <BrowserRouter basename='mohan-store'>
       <App />
-    </Provider>
-  </BrowserRouter>
+    </BrowserRouter>
+  </Provider>
+
 );
 reportWebVitals();
