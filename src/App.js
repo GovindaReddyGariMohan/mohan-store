@@ -17,7 +17,7 @@ function App() {
   })
   return (
     <div>
-      <HashRouter basename={'/mohan-store'}>
+      <HashRouter>
         <Navbar />
         <div className="App">
           <Router />
