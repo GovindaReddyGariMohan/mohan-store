@@ -1,7 +1,7 @@
 import './app.scss';
 import React, { useEffect } from "react";
 import Navbar from './Components/Navbar/Navbar';
-import { BrowserRouter } from 'react-router-dom';
+import { HashRouter } from 'react-router-dom';
 import Footer from './Components/Footer/Footer';
 import Router from "./router";
 import Profile from './Profile/Profile';
@@ -17,14 +17,14 @@ function App() {
   })
   return (
     <div>
-      <BrowserRouter>
+      <HashRouter>
         <Navbar />
         <div className="App">
           <Router />
         </div>
         <Profile />
         <Footer />
-      </BrowserRouter>
+      </HashRouter>
     </div>
   )
 }
