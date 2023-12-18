@@ -12,24 +12,24 @@ const Router = () => {
             element: <Home />,
         },
         {
-            path: "shop/:id",
+            path: "/shop/:id",
             element: <Shop />
         },
         {
-            path: "shop/men/:id",
+            path: "/shop/men/:id",
             element: <Plp />
         },
         {
-            path: "shop/womens/:id",
+            path: "/shop/womens/:id",
             element: <Plp />
         },
 
         {
-            path: "shop/:id/:id/:userId",
+            path: "/shop/:id/:id/:userId",
             element: <Pdp />
         },
         {
-            path: 'bag',
+            path: '/bag',
             element: <Cart />
         }
     ]);
