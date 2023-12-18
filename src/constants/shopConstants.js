@@ -153,7 +153,6 @@ const catagory = {
             type: "Section",
             images: [
 
-
                 {
                     imgUrl: 'https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/19/a9f68785-e282-425a-b270-c978c387b0f31597840342635-Content-ethnicwear-color-whites.jpg',
                     linkUrl: '#/shop/men/kurtas'
