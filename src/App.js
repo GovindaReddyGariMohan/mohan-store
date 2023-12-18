@@ -12,8 +12,11 @@ function App() {
   const dispatch = useDispatch()
   useEffect(() => {
     const cartItemIds = localStorage.getItem('cart')?.split(",");
-    const filterId = Plpproducts.filter((items) => cartItemIds.some((id) => items.id === id))
-    dispatch(addItem(filterId))
+    let filterId
+    if(cartItemIds.length!==1){
+      filterId = Plpproducts.filter((items) => cartItemIds?.some((id) => items.id === id))
+    }
+      dispatch(addItem(filterId))
   })
   return (
     <div>
