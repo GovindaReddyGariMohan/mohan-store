@@ -12,7 +12,7 @@ const Cart = () => {
     const dispatch = useDispatch()
     useEffect(() => {
         const items = localStorage.getItem('cart')
-        console.log('cart items',items.length)
+        console.log('cart items',items)
         if (items.length >= 2) {
             const cartItemIds = items.split(",");
             if (cartItemIds.length > 0) {
