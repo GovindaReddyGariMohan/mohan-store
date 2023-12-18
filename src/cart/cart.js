@@ -12,9 +12,15 @@ const Cart = () => {
     const dispatch = useDispatch()
     useEffect(() => {
         const items = localStorage.getItem('cart')
-        const cartItemIds = items.split(",");
-        const filterId = Plpproducts.filter((items) => cartItemIds.some((id) => items.id === id))
-        dispatch(addItem(filterId))
+        if (items.length >= 2) {
+            const cartItemIds = items.split(",");
+            if (cartItemIds.length > 0) {
+                const filterId = Plpproducts.filter((items) => cartItemIds.some((id) => items.id === id))
+                dispatch(addItem(filterId))
+               
+            }
+        }
+
         dispatch(toggleProfileModal(true))
         return () => dispatch(toggleProfileModal(false))
     }, [])

@@ -11,9 +11,9 @@ import { addItem } from './redux/actions/cartActions';
 function App() {
   const dispatch = useDispatch()
   useEffect(() => {
-    const cartItemIds = localStorage.getItem('cart')?.split(",");
+    const cartItemIds = localStorage.getItem('cart').split(",");
     let filterId
-    if(cartItemIds.length!==1){
+    if(cartItemIds.length>=2){
       filterId = Plpproducts.filter((items) => cartItemIds.some((id) => items.id === id))
       dispatch(addItem(filterId))
     }
