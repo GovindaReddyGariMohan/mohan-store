@@ -13,7 +13,7 @@ const Cart = () => {
     useEffect(() => {
         const items = localStorage.getItem('cart')
         console.log('cart items',items)
-        if (items.length >= 2) {
+        if (items.length !== null) {
             const cartItemIds = items.split(",");
             if (cartItemIds.length > 0) {
                 const filterId = Plpproducts.filter((items) => cartItemIds.some((id) => items.id === id))
