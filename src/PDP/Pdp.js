@@ -24,7 +24,7 @@ const Pdp = () => {
     const dispatch = useDispatch()
     const [showModelOnscroll, setShowModelOnscroll] = useState(true)
     const onScrollFire = async () => {
-        console.log("kkk")
+       
         if (window.scrollY > 100) {
             dispatch(toggleProfileModal(true))
         }
@@ -35,7 +35,7 @@ const Pdp = () => {
 
     }
     useEffect(() => {
-        console.log("ds")
+        
         setTimeout(() => {
             dispatch(toggleProfileModal(true))
         }, 30000)
