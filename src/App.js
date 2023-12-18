@@ -13,7 +13,7 @@ function App() {
   useEffect(() => {
     const cartItemIds = localStorage.getItem('cart');
 
-    if (cartItemIds.length > 2) {
+    if (cartItemIds.length >= 2) {
       const cart = cartItemIds.split(",")
       let filterId
       if (cart.length >= 2) {
