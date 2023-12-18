@@ -1,0 +1,25 @@
+.poster {
+    padding-top: 100px;
+}
+
+.poster .poster-offer img {
+    width: 100%;
+}
+
+.poster-men-women img {
+    width: 50%;
+}
+
+/* coupans */
+.coupan-title img {
+    height: 80px;
+    width: 100%;
+}
+
+.offer-coupan img {
+    width: 50%;
+}
+
+.title-sponser img {
+    width: 100%;
+}

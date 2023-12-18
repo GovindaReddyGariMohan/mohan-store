@@ -1,0 +1,30 @@
+.profile-data .profile-imag {
+    height: 300px;
+    width: 300px;
+    padding: 50px;
+}
+
+.close {
+    height: 20px;
+    width: 20px;
+    position: relative;
+    bottom: 390px;
+    left: 680px;
+}
+
+.profile-data button {
+    border: none;
+    background-color: crimson;
+    color: white;
+    font-weight: 800;
+    padding: 13px 30px;
+    border-radius: 3px;
+    margin-left: 290px;
+    margin-bottom: 10px;
+}
+
+.profile-details {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

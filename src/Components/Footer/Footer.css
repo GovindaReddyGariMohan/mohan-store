@@ -1,0 +1,36 @@
+.mobile-app img {
+    width: 100px;
+    height: 40px;
+}
+
+.return img {
+    height: 55px;
+    width: 55px;
+}
+
+.return-content span {
+    text-align: center;
+    position: relative;
+    bottom: 35px;
+    left: 10px;
+}
+
+.return {
+    width: 290px;
+}
+
+.Footer {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    background-color: beige;
+}
+
+.Footer li {
+    list-style: none;
+}
+
+.social-app i {
+    padding: 10px 0px 10px 10px;
+    font-size: 30px;
+}

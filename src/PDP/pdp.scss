@@ -1,0 +1,91 @@
+.order-page {
+    margin-top: 80px;
+
+    .col-7,
+    .col-5 {
+        padding: 0px;
+    }
+}
+
+.order-images img {
+    padding: 10px;
+    height: 300px;
+    width: 35%;
+    cursor: zoom-in;
+}
+
+.order-images img:hover {
+    transform: scale(1.1);
+}
+
+.order-details {
+    .details {
+        text-align: start;
+    }
+
+    .rating {
+        border: solid 1px;
+        padding: 10px;
+        width: 150px;
+        line-height: 10px;
+    }
+
+    .description {
+        color: #535766;
+        line-height: 0px;
+        font-size: 20px;
+        width: 100%;
+    }
+
+    .rating i {
+        font-size: 13px;
+        color: chartreuse;
+    }
+
+    .tax {
+        line-height: 0.5px;
+        color: forestgreen;
+    }
+
+    .onesize-button {
+        height: 50px;
+        width: 100px;
+        border-radius: 23px;
+        color: #ff3e6c;
+        border-color: #ff3e6c;
+    }
+
+    .add-btn button {
+        padding: 15px 30px;
+    }
+
+    .add-btn {
+        margin: 20px 0px;
+    }
+
+    .wishlist {
+        margin: 15px;
+        border: none;
+    }
+
+    .add-to-bag-button {
+        background-color: #ff3e6c;
+        border: 1px solid #ff3e6c;
+        border-radius: 3px;
+        color: #fff;
+        font-weight: bold;
+    }
+
+    .seller {
+        color: #ff3e6c;
+        font-weight: 800;
+    }
+
+    .totalprice {
+        font-size: 15px;
+    }
+
+    .price span {
+        color: #ff3e6c;
+    }
+}

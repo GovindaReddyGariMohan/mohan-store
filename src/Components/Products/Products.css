@@ -1,0 +1,28 @@
+/* Drop-offers */
+.drop-offer img {
+    width: 100%;
+}
+
+.shop-products img {
+    height: 200px;
+    width: 143px;
+}
+
+/* category */
+.category img {
+    width: 100%;
+}
+
+.shop-category {
+    text-align: center;
+}
+
+.shop-category img {
+    height: 300px;
+    width: 239px;
+}
+
+/* products */
+.more-offers img {
+    width: 100%;
+}

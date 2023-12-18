@@ -1,0 +1,121 @@
+.carosel {
+    margin-top: 100px;
+}
+
+.carosel img {
+    width: 100%;
+}
+
+.carosel-Dots {
+    font-size: 40px;
+}
+
+.carosel {
+    position: relative;
+}
+
+.next-button {
+    position: absolute;
+    bottom: 200px;
+    right: 20px;
+}
+
+.prev-button {
+    position: absolute;
+    bottom: 200px;
+    left: 20px;
+}
+
+/* top brands */
+.brand-title {
+    text-align: start;
+    padding: 25px;
+}
+
+/* bag catagory */
+.bag-title {
+    text-align: start;
+    padding: 25px;
+}
+
+.bag-imag img {
+    height: 250px;
+    width: 200px;
+    padding: 10px;
+}
+
+/* explore-brand */
+.explore-brands {
+    text-align: start;
+    padding: 20px;
+}
+
+.explore-brand {
+    text-align: center;
+}
+
+.explore-brand img {
+    height: 360px;
+    width: 240px;
+    padding: 15px;
+}
+
+/* myntra lux */
+.myntra-lux {
+    text-align: start;
+    padding: 20px;
+}
+
+.myntra-luxe img {
+    height: 300px;
+    width: 200px;
+    padding: 15px;
+}
+
+/* indian wear */
+.indian-wear {
+    text-align: start;
+    padding: 20px;
+}
+
+.indian-wear-style img {
+    height: 300px;
+    width: 250px;
+    padding: 15px;
+}
+
+/* sports wear */
+.sports-wear {
+    text-align: start;
+    padding: 20px;
+}
+
+.sports-wear-style img {
+    height: 300px;
+    width: 250px;
+    padding: 15px;
+}
+
+/* foot wear */
+.foot-wear {
+    text-align: start;
+    padding: 20px;
+}
+
+.foot-wear-style img {
+    height: 300px;
+    width: 250px;
+    padding: 15px;
+}
+
+/* accesory */
+.trending-accesory {
+    text-align: start;
+    padding: 20px;
+}
+
+.accesory-wear-style img {
+    height: 300px;
+    width: 250px;
+    padding: 15px;
+}
