@@ -17,14 +17,14 @@ function App() {
   })
   return (
     <div>
-      {/* <HashRouter> */}
+      <HashRouter basename={'/mohan-store'}>
         <Navbar />
         <div className="App">
           <Router />
         </div>
         <Profile />
         <Footer />
-      {/* </HashRouter> */}
+      </HashRouter>
     </div>
   )
 }
