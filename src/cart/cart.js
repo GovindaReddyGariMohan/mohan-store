@@ -11,11 +11,8 @@ const Cart = () => {
     const { cartData, cartTotal } = useSelector((state) => state.cart)
     const dispatch = useDispatch()
     useEffect(() => {
-        const items=localStorage.getItem('cart')
-        let cartItemIds
-        if(items.length){
-             cartItemIds = items.split(",");
-        }
+        const items = localStorage.getItem('cart')
+        const cartItemIds = items.split(",");
         const filterId = Plpproducts.filter((items) => cartItemIds.some((id) => items.id === id))
         dispatch(addItem(filterId))
         dispatch(toggleProfileModal(true))
