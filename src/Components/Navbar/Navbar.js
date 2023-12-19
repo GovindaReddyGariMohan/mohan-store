@@ -2,7 +2,7 @@ import React from "react";
 import './Navbar.css';
 import { Link } from "react-router-dom";
 import { useSelector } from "react-redux";
-import Logo from '../../assets/store-logo.jpeg'
+import Logo from '../../assets/Mstore.png'
 const Navbar = () => {
     const { cartData } = useSelector((state) => state.cart)
     return (
