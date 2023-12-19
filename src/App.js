@@ -12,7 +12,6 @@ function App() {
   const dispatch = useDispatch()
   useEffect(() => {
     const cartItemIds = localStorage.getItem('cart');
-   console.log('cartItemIds.length',cartItemIds)
     if (cartItemIds !== null) {
       const cart = cartItemIds.split(",")
       let filterId
