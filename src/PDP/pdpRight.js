@@ -1,17 +1,27 @@
 import React from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { addItem } from "../redux/actions/cartActions";
+import { addWishlist } from "../redux/actions/wishlistActions";
 const Pdpleft = (props) => {
     const productDetails = props.productDetails
     const dispatch = useDispatch()
-    const { cartData } = useSelector((state) => state.cart)
+     const { cartData } = useSelector((state) => state.cart)
+    const { wishlistData } = useSelector((state) => state.wishlist) || {}
     const handleAddToCart = async () => {
-        let arr = []
         const get = localStorage.getItem('cart');
         let item = productDetails[0].id
         localStorage.setItem("cart", `${item},${get}`)
         setTimeout(() => {
             dispatch(addItem(productDetails, true))
+        }, 500)
+
+    }
+    const handleWishlist = () => {
+        const getItems = localStorage.getItem('wishlist')
+        let item = productDetails[0].id
+        localStorage.setItem("wishlist", `${item},${getItems}`)
+        setTimeout(() => {
+            dispatch(addWishlist(productDetails, true))
         }, 500)
     }
     return (
@@ -32,7 +42,7 @@ const Pdpleft = (props) => {
                             </button>
                             <div className="add-btn">
                                 <button className="add-to-bag-button pointer" onClick={handleAddToCart}> <i className="fa-solid fa-briefcase"></i>  ADD TO BAG</button>
-                                <button className="wishlist"><i className="fa-regular fa-heart"></i> WISHLIST</button>
+                                <button className="wishlist" onClick={() => handleWishlist(val.id)}><i className="fa-regular fa-heart"></i> WISHLIST</button>
                             </div>
                             <hr />
                             <p><b> <i className="fa-solid fa-indian-rupee-sign"></i> {val.price}</b></p>

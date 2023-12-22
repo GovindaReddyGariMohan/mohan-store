@@ -4,7 +4,7 @@ import Cart from "./cart/cart";
 import Plp from "./PLP/Plp";
 import Shop from "./Components/Shop/Shopproduct";
 import Pdp from "./PDP/Pdp";
-
+import Wishlist from "./wishlist/Wishlist";
 const Router = () => {
     return useRoutes([
         {
@@ -31,6 +31,10 @@ const Router = () => {
         {
             path: 'bag',
             element: <Cart />
+        },
+        {
+            path:'wishlist',
+            element:<Wishlist/>
         }
     ]);
 }

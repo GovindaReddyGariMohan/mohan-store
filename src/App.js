@@ -1,5 +1,5 @@
 import './app.scss';
-import React, { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 import Navbar from './Components/Navbar/Navbar';
 import { HashRouter } from 'react-router-dom';
 import Footer from './Components/Footer/Footer';
@@ -10,6 +10,7 @@ import Plpproducts from './constants/plpPdpConstants';
 import { addItem } from './redux/actions/cartActions';
 function App() {
   const dispatch = useDispatch()
+  // const [backendData, setBackendData] = useState([{}])
   useEffect(() => {
     const cartItemIds = localStorage.getItem('cart');
     if (cartItemIds !== null) {
@@ -20,9 +21,15 @@ function App() {
         dispatch(addItem(filterId))
       }
     }
+    // fetch("/api").then(
+    //   response => response.json()
+    // ).then(
+    //   data => {
+    //     setBackendData(data)
+    //   }
 
-
-  })
+    // )
+  }, [])
   return (
     <div>
       <HashRouter>
@@ -32,6 +39,21 @@ function App() {
         </div>
         <Profile />
         <Footer />
+        {/* <div>
+
+          {
+            (typeof backendData.users === 'undefined')?(
+              <p>loading...</p>
+            ):(
+              backendData.users.map((val,index)=>{
+               return  <p>{val}</p>
+              })
+            )
+
+
+          }
+
+        </div> */}
       </HashRouter>
     </div>
   )

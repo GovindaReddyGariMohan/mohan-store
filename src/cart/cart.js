@@ -22,6 +22,7 @@ const Cart = () => {
         dispatch(toggleProfileModal(true))
         return () => dispatch(toggleProfileModal(false))
     }, [])
+    console.log('cartData',cartData)
     const cartItems = localStorage.getItem('cart')
     if (cartItems === null  ) {
         return(

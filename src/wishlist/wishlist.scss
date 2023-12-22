@@ -1,0 +1,72 @@
+.add-wishlist {
+   margin-top: 100px;
+    text-align: start;
+    padding: 50px;
+
+    .title {
+        font-weight: 800;
+        margin-left: 15px;
+
+    }
+
+    .wishlist-items {
+        line-height: 10px;
+        padding-top: 10px;
+
+        .wislistItem {
+            padding: 10px;
+        }
+
+        .item {
+            border: solid 1px;
+            border-color: rgba(245, 245, 220, 0.761);
+
+            img,
+            .move-to-bag {
+                cursor: pointer;
+            }
+
+            .move-to-bag {
+                width: 100%;
+                border: none;
+                background-color: white;
+                border-top: solid 1px;
+                padding: 15px;
+                border-color: rgba(245, 245, 220, 0.761);
+                color: #FF3F6C;
+                font-weight: 600;
+            }
+
+            .close-item {
+                position: relative;
+                width: 20px;
+                height: 20px;
+                bottom: 360px;
+                left: 190px;
+                border: solid 1px;
+                border-radius: 20px;
+                background-color: rgba(255, 255, 255, 0.5);
+            }
+        }
+
+        .product-price,
+        .description {
+            text-align: center;
+        }
+
+    }
+
+    .price {
+        font-weight: 700;
+    }
+
+    .totalPrice {
+        font-size: 12px;
+        color: rgb(111, 109, 109);
+    }
+
+    .offer {
+        font-size: 12px;
+        color: orange;
+    }
+}
