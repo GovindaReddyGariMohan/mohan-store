@@ -22,10 +22,10 @@ const Cart = () => {
         dispatch(toggleProfileModal(true))
         return () => dispatch(toggleProfileModal(false))
     }, [])
-    console.log('cartData',cartData)
+
     const cartItems = localStorage.getItem('cart')
-    if (cartItems === null  ) {
-        return(
+    if (cartItems === null) {
+        return (
             <div className="cart-items">Cart is Empty Please Add The Items to The Cart</div>
         )
     } else {

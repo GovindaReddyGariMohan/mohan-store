@@ -39,7 +39,7 @@ const Wishlist = () => {
     }
     const listItems=localStorage.getItem('wishlist')
     if (listItems===null) {
-        <div>Wishlist is Empty Please Add Items</div>
+        <div className='wish-list-empty'>Wishlist is Empty Please Add Items</div>
     } else {
         return wishlistData && (
             <div className='add-wishlist'>
