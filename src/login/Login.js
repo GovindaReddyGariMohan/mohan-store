@@ -8,7 +8,7 @@ const Login = () => {
                 <div className='input-field'>
                     <div className='form-title'><b>Login</b> or <b>Signup</b></div>
                     <div>
-                        <input type='text' placeholder='+91 | Mobile Number' />
+                        <input type='tel' placeholder='+91 | Mobile Number' />
                     </div>
                     <p className='terms-and-services'>By continuing, I agree to the <span>Terms of Use</span> & <span>Privacy Policy</span></p>
                     <button>CONTINUE</button>
