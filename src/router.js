@@ -5,6 +5,7 @@ import Plp from "./PLP/Plp";
 import Shop from "./Components/Shop/Shopproduct";
 import Pdp from "./PDP/Pdp";
 import Wishlist from "./wishlist/Wishlist";
+import Login from "./login/Login";
 const Router = () => {
     return useRoutes([
         {
@@ -35,6 +36,10 @@ const Router = () => {
         {
             path:'wishlist',
             element:<Wishlist/>
+        },
+        {
+            path:'profile',
+            element:<Login/>
         }
     ]);
 }

@@ -1,0 +1,55 @@
+.signup {
+    margin-top: 40px;
+    background-color: antiquewhite;
+    height: 655px;
+    width: 100%;
+    position: relative;
+    top: 30px;
+
+    .signup-content {
+        position: absolute;
+        top: 50px;
+        background-color: white;
+        left: 430px;
+        width: 40%;
+        height: 530px;
+        text-align: start;
+        bottom: 20px;
+
+        .input-field {
+            padding: 30px;
+            line-height: 40px;
+
+            .terms-and-services span {
+                color: #FF3C6F;
+                font-weight: 700;
+            }
+            button{
+                border: none;
+                background-color: #FF3C6F;
+                color: white;
+                padding: 15px;
+                width: 100%;
+                font-size: 16px;
+            }
+            .help span{
+             color: #FF3C6F;
+             font-weight: 700;
+            }
+        }
+
+        .form-title b {
+            font-size: 20px;
+        }
+
+        input {
+            padding: 10px;
+            width: 500px;
+        }
+    }
+
+}
+
+Footer {
+    display: none;
+}
