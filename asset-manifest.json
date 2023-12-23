@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/mohan-store/static/css/main.bcd02dce.css",
-    "main.js": "/mohan-store/static/js/main.cbee70b7.js",
+    "main.js": "/mohan-store/static/js/main.84542331.js",
     "static/js/787.86e753dd.chunk.js": "/mohan-store/static/js/787.86e753dd.chunk.js",
     "static/media/AadhaarImag.jpeg": "/mohan-store/static/media/AadhaarImag.8f179ec9cdc8a7852475.jpeg",
     "static/media/Mstore.png": "/mohan-store/static/media/Mstore.465237e79cd98ae10bc1.png",
     "static/media/discount.png": "/mohan-store/static/media/discount.7ca5b422b753d5b4c3c8.png",
     "index.html": "/mohan-store/index.html",
     "main.bcd02dce.css.map": "/mohan-store/static/css/main.bcd02dce.css.map",
-    "main.cbee70b7.js.map": "/mohan-store/static/js/main.cbee70b7.js.map",
+    "main.84542331.js.map": "/mohan-store/static/js/main.84542331.js.map",
     "787.86e753dd.chunk.js.map": "/mohan-store/static/js/787.86e753dd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bcd02dce.css",
-    "static/js/main.cbee70b7.js"
+    "static/js/main.84542331.js"
   ]
 }
