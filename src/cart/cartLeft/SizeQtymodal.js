@@ -1,7 +1,8 @@
 import React from "react";
-import closeIcon from '../../assets/close.png'
+import closeIcon from '../../assets/close.png';
+import Plpproducts from "../../constants/plpPdpConstants";
 const SizeQtyModal = ({ handleClose, type, submitHandler, productSize, setProductSize, cartleft, setQtyNum, qtyNum, cartItems, index, ...props }) => {
-
+    const plpItems=Plpproducts.filter((value)=>value.id===index)
     return (
         <>
             <div className="header">
@@ -17,10 +18,10 @@ const SizeQtyModal = ({ handleClose, type, submitHandler, productSize, setProduc
 
                             <div >
                                 <div className="select-quantity">
-                                    <div class="checkbox-wrapper row">
+                                    <div className="checkbox-wrapper row">
                                         {[...Array(10)].map((e, i) => {
                                             return (
-                                                <div onClick={() => setQtyNum(i + 1)} className={qtyNum === (i + 1) ? 'checked col-1 quqntity' : 'col-1 quqntity'}>
+                                                <div onClick={() => setQtyNum(i + 1)} className={qtyNum === (i + 1) ? 'checked col-1 quqntity' : 'col-1 quqntity'} key={Math.random()}>
                                                     <div>{i + 1}</div>
                                                 </div>
                                             )
@@ -38,12 +39,12 @@ const SizeQtyModal = ({ handleClose, type, submitHandler, productSize, setProduc
                                     <div className="madel-top">
                                         <div className="size">
                                             <div>
-                                                <img src={cartItems[index].imgUrl} alt="size" />
+                                                <img src={plpItems[0].imgUrl} alt="size" />
                                             </div>
                                             <div>
-                                                <div className="imag-title"><b>{cartItems[index].title}</b></div>
-                                                <div className="imag-discription">{cartItems[index].pdpImages?.details[0].description}</div>
-                                                <div className="imag-price"><b>₹{cartItems[index].price}</b> <del>₹{cartItems[index].totalPrice}</del> <span>{cartItems[index].offer}</span></div>
+                                                <div className="imag-title"><b>{plpItems[0].title}</b></div>
+                                                <div className="imag-discription">{plpItems[0].pdpImages?.details[0].description}</div>
+                                                <div className="imag-price"><b>₹{plpItems[0].price}</b> <del>₹{plpItems[0].totalPrice}</del> <span>{plpItems[0].offer}</span></div>
                                             </div>
                                         </div>
                                     </div>
@@ -61,7 +62,7 @@ const SizeQtyModal = ({ handleClose, type, submitHandler, productSize, setProduc
                                                 })}
                                             </div>
                                         </div>
-                                        <div className="seller">Seller:<b>{cartItems[index].pdpImages.details[0].seller}</b></div>
+                                        <div className="seller">Seller:<b>{plpItems[0].pdpImages.details[0].seller}</b></div>
                                     </div>
                                     <button onClick={submitHandler}>DONE</button>
                                 </div>

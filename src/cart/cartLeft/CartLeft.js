@@ -54,6 +54,7 @@ const Cartleft = ({ ...props }) => {
         setIsOpenModal({ show: !isOpenModal.show, name: "qty" })
         setQty(qty ? false : true)
     }
+
     const [productSize, setProductSize] = useState(0)
     const [sizes, setSizes] = useState(productSize)
     const [qtyNum, setQtyNum] = useState(0)
@@ -115,7 +116,7 @@ const Cartleft = ({ ...props }) => {
                     cartData && cartData.length && cartData.map((cartItem, index) => (
                         <div className="cart-images-details" key={`cart-itm${index}`}>
                             <div className="cart-item" key={`cart-item${index}`}>
-                                <div className="cart-images">
+                                <div className="cart-images" key={Math.random()}>
                                     <div>
                                         <Link to={`/shop/${cartItem.catogory}/${cartItem.subCatogory}/${cartItem.id}`}><img src={cartItem.imgUrl} alt="cart" /></Link>
                                         <input type="checkbox" className="img-checkbox" />
@@ -125,7 +126,7 @@ const Cartleft = ({ ...props }) => {
                                             <div className="imag-title"><b>{cartItem.title}</b></div>
                                             <div className="imag-discription">{cartItem.pdpImages.details.description}</div>
                                             <div className="imag-seller">Sold by:{cartItem.pdpImages.details.seller}</div>
-                                            <div className="imag-qty"><span onClick={() => openHandler(index)}><b>Size:{sizes} <i className="fa-solid fa-caret-down"></i></b></span> <span onClick={qualityHandler}><b>Qty:{qtys} <i className="fa-solid fa-caret-down"></i></b></span></div>
+                                            <div className="imag-qty"><span onClick={() => openHandler(cartItem.id)}><b>Size:{sizes} <i className="fa-solid fa-caret-down"></i></b></span> <span onClick={qualityHandler}><b>Qty:{qtys} <i className="fa-solid fa-caret-down"></i></b></span></div>
                                             <div className="imag-price"><b>₹{cartItem.price}</b> <del>₹{cartItem.totalPrice}</del> <span>({cartItem.offer})</span></div>
                                             <div className="return"><i className="fa-solid fa-rotate-left"></i> <b>14 days</b> return available</div>
                                         </div>

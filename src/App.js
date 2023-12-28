@@ -1,7 +1,8 @@
 import './app.scss';
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import Navbar from './Components/Navbar/Navbar';
 import { HashRouter } from 'react-router-dom';
+//import { useParams } from 'react-router-dom';
 import Footer from './Components/Footer/Footer';
 import Router from "./router";
 import Profile from './Profile/Profile';
@@ -21,9 +22,10 @@ function App() {
       }
     }
   }, [])
+  
   return (
     <div>
-      <HashRouter>
+      <HashRouter >
         <Navbar />
         <div className="App">
           <Router />

@@ -1,38 +1,69 @@
-import React from "react";
-import './Navbar.css';
-import { Link } from "react-router-dom";
+import React, { useState } from "react";
+import './Navbar.scss';
+import { Link, useLocation } from "react-router-dom";
 import { useSelector } from "react-redux";
 import Logo from '../../assets/Mstore.png'
 const Navbar = () => {
     const { cartData } = useSelector((state) => state.cart)
-    return (
-        <div className="nav-bar">
-            <Link to='/'> <div className="nav-logo">
-                <img src={Logo} alt="logo" />
+    const path = useLocation().pathname.split('/')[1]
+    const [active, setActive] = useState(false)
+    const handleNavbar = () => {
+        setActive(active ? false : true)
+    }
+    if (path === 'bag') {
+        return (
+            <div className="bag-nav-bar">
+                <Link to='/'>
+                    <div className="nav-logo">
+                        <img src={Logo} alt="logo" />
+                    </div>
+                </Link>
+                <div className="bag-process">
+                    <div>BAG</div>
+                    <div>--------ADDRESS--------</div>
+                    <div>PAYMENT</div>
+                </div>
+                <div className="secure-icon">
+                    <img src="https://constant.myntassets.com/checkout/assets/img/sprite-secure.png" alt="navbar" />
+                    <div>100% SECURE</div>
+                </div>
             </div>
-            </Link>
-            <div>
-                <ul className="nav-items">
-                    <li><Link to='shop/men' >MEN</Link></li>
-                    <li><Link to='shop/womens' >WOMEN</Link></li>
-                    <li><Link to='shop/men' >KIDS</Link></li>
-                    <li><Link to='shop/womens' >HOME & LIVING</Link></li>
-                    <li><Link to='shop/men' >BEAUTY</Link></li>
-                    <li><Link to='shop/womens' >STUDIO <sup>NEW</sup></Link></li>
-                </ul>
+        )
+    } else {
+        return (
+            <div className="nav-bar">
+                <Link to='/'>
+                    <div className="nav-logo">
+                        <img src={Logo} alt="logo" />
+                    </div>
+                </Link>
+                <i className={active ? "fas fa-times " : "fas fa-bars active"} onClick={handleNavbar}></i>
+                <div>
+                    <ul className={active ? "nav-items " : "active-item nav-items"} >
+                        <li><Link to='shop/men' >MEN</Link></li>
+                        <li><Link to='shop/womens' >WOMEN</Link></li>
+                        <li><Link to='shop/men' >KIDS</Link></li>
+                        <li><Link to='shop/womens' >HOME & LIVING</Link></li>
+                        <li><Link to='shop/men' >BEAUTY</Link></li>
+                        <li><Link to='shop/womens' >STUDIO <sup className="new">NEW</sup></Link></li>
+                    </ul>
+                </div>
+                <div className="nav-search">
+                    <input type="text" placeholder="Search for products,Brands and more" />
+                </div>
+                <div>
+                    <ul className="nav-items2">
+                        <li><Link to='/profile' >Profile <div className="font-icon"><i className="fa-solid fa-user"></i></div></Link></li>
+                        <li><Link to='/wishlist' >Wishlist <div className="font-icon"><i className="fa-regular fa-heart"></i></div></Link></li>
+                        <li><Link to='/bag' >Bag <div className="font-icon"><i className="fa-solid fa-bag-shopping"></i><span className="cart-length">{cartData?.length}</span></div></Link></li>
+                    </ul>
+                </div>
+
+
             </div>
-            <div className="nav-search">
-                <input type="text" placeholder="Search for products,Brands and more" />
-            </div>
-            <div>
-                <ul className="nav-items2">
-                    <li><Link to='/profile' >Profile <div className="font-icon"><i className="fa-solid fa-user"></i></div></Link></li>
-                    <li><Link to='/wishlist' >Wishlist <div className="font-icon"><i className="fa-regular fa-heart"></i></div></Link></li>
-                    <li><Link to='/bag' >Bag <div className="font-icon"><i className="fa-solid fa-bag-shopping"></i><span className="cart-length">{cartData?.length}</span></div></Link></li>
-                </ul>
-            </div>
-        </div>
-    )
+        )
+    }
+
 }
 
 export default Navbar;

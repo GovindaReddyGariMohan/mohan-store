@@ -5,7 +5,7 @@ import Footervalue from '../../constants/Footer-constant';
 const Footer = () => {
     const [data] = useState({ ...Footervalue })
     return (
-        <div className='Footer'>
+        <div className='Footer'> 
             {
                 Footervalue.map((value) => {
                     return (<Switchfooter type={value.type} {...value} key={Math.random()} />)

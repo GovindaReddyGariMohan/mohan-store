@@ -1,5 +1,5 @@
 import './wishlist.scss'
-import react, { useEffect } from 'react'
+import react, { useEffect, useState } from 'react'
 import { useDispatch, useSelector } from "react-redux";
 import Close from '../assets/close.png'
 import Plpproducts from '../constants/plpPdpConstants'
@@ -18,6 +18,8 @@ const Wishlist = () => {
             }
         }
     }, [])
+
+
     const removeWishlist = (removeId) => {
         let wishlistId = localStorage.getItem('wishlist').split(",");
         wishlistId = wishlistId.filter(element => element !== removeId);
@@ -37,9 +39,10 @@ const Wishlist = () => {
             dispatch(addItem(wishlistToCart, true))
         }, 500)
     }
-    const listItems=localStorage.getItem('wishlist')
-    if (listItems===null) {
-        return<div className='wish-list-empty'>Wishlist is Empty Please Add Items</div>
+    const listItems = localStorage.getItem('wishlist')
+
+    if (listItems === null) {
+        return <div className='wish-list-empty'>Wishlist is Empty Please Add Items</div>
     } else {
         return wishlistData && (
             <div className='add-wishlist'>
@@ -49,7 +52,7 @@ const Wishlist = () => {
                         wishlistData.map((value) => {
                             return (
                                 <div className='col-2 wislistItem' key={Math.random()}>
-    
+
                                     <div className='item'>
                                         <img src={value.imgUrl} alt='wishlist' />
                                         <p className='description'>{value.description}</p>
@@ -58,16 +61,17 @@ const Wishlist = () => {
                                         <button className='move-to-bag' onClick={() => handleAddtobag(value.id)}>
                                             MOVE TO BAG
                                         </button>
-    
+
                                     </div>
                                 </div>
                             )
                         })
                     }
                 </div>
+
             </div>
         )
     }
-    
+
 }
 export default Wishlist;

@@ -20,11 +20,6 @@ const Router = () => {
             path: "shop/:id/:id",
             element: <Plp />
         },
-        // {
-        //     path: "shop/womens/:id",
-        //     element: <Plp />
-        // },
-
         {
             path: "shop/:id/:id/:userId",
             element: <Pdp />
@@ -38,7 +33,7 @@ const Router = () => {
             element:<Wishlist/>
         },
         {
-            path:'profile',
+            path:':id',
             element:<Login/>
         }
     ]);
