@@ -16,7 +16,7 @@ const Profile = () => {
             {
                 isProfileModalOpen &&
                 <Modal>
-                    <div className='profile-data'>
+                    <div className='profile-data'> 
                         <div className='profile-details'>
                             <img src={Profileitems.image[0].imgUrl} alt="" className='profile-imag' />
                             <span>Iam React FullStack Developer Please Download My Profile</span>

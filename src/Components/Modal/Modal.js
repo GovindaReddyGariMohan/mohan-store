@@ -7,7 +7,7 @@ const Modal = (props) => {
         close()
     }
     return (
-        <div className="modal-container">
+        <div className="modal-container"> 
             <div className="modal-ineer">
                 {children ? children :
                     <>
