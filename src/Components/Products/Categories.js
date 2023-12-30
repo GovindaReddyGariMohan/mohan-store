@@ -1,7 +1,7 @@
 import './Products.css';
 import ShopCategory from '../../constants/Shop-category';
 import { Link } from 'react-router-dom';
-const Categories = () => {
+const Categories = () => { 
     return (
         <>
             <div className="category">

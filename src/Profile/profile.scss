@@ -79,3 +79,28 @@
         margin-bottom: 10px;
     }
 }
+@media screen and (max-width:450px){
+    .profile-data .profile-imag {
+        height: 120px;
+        width: 120px;
+        padding: 20px;
+    }
+
+    .close {
+        height: 20px;
+        width: 20px;
+        position: relative;
+        bottom: 150px;
+        left: 420px;
+    }
+    .profile-data button {
+        border: none;
+        background-color: crimson;
+        color: white;
+        font-weight: 800;
+        padding: 13px 30px;
+        border-radius: 3px;
+        margin-left: 130px;
+        margin-bottom: 10px;
+    }
+}

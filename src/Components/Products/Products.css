@@ -42,4 +42,7 @@
     .shop-category img{
         display: none;
     }
+    .category{
+        display: none;
+    }
 }
