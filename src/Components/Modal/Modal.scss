@@ -41,3 +41,15 @@
         }
     }
 }
+@media screen and (max-width:550px){
+    .modal-container {
+        .modal-ineer {
+            width: 90%;
+            margin: 0 auto;
+            position: relative;
+            top: 30%;
+            background-color: #fff;
+            z-index: 12345;
+        }
+    }
+}
