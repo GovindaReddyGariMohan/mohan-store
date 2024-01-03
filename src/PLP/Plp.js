@@ -42,7 +42,7 @@ const Plp = () => {
         <div>
             <div className="plp-top"><Plptop plpTop={sub} /></div>
             <div className="plp-container">
-                <div className="row">
+                <div className="row plp-content">
                     <div className="col-3 left">
                         <Plpleft sub={sub} setSub={setSub} />
                     </div>

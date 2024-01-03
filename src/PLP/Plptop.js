@@ -26,7 +26,7 @@ const Plptop = (props) => {
                     <div>Sort by:<b>Recommended</b></div>
                     <i className="fa-solid fa-chevron-down"></i>
                 </div>
-            </div>
+            </div> 
         </div>
     )
 }

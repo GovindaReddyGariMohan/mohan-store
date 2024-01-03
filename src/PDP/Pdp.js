@@ -45,7 +45,7 @@ const Pdp = () => {
     }, [showModelOnscroll])
     return (
         <div className='order-page'>
-            <div className='row '>
+            <div className='row '> 
                 <div className='col-7'>
                     <Pdpleft image={pdpImages} />
                 </div>

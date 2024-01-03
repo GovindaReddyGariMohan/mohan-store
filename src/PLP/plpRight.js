@@ -11,7 +11,7 @@ const Plpright = (props) => {
                         {
                             plpProduct.map((val) => {
                                 return (
-                                    <div className="col-2" key={Math.random()}>
+                                    <div  key={Math.random()}>
                                         <Link to={val.linkUrl}>
                                             <img src={val.imgUrl} alt="imag" key={Math.random()} />
                                             <h4>{val.title}</h4>

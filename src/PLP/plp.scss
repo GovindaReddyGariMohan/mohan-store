@@ -182,6 +182,39 @@
 
 
 }
-.no-items-there{
+
+.no-items-there {
     color: red;
+}
+
+@media screen and (max-width:428px) {
+    .plp-container {
+        .plp-content {
+            display: flex;
+            flex-direction: column;
+            margin-left: 20px;
+            margin-top: 65px;
+
+
+            .left {
+                display: none;
+            }
+        }
+    }
+
+    .plp-top {
+        display: none;
+    }
+
+    .plpright {
+        border-left: none;
+
+        .plp-right-images img {
+            width: 165px;
+            height: 200px;
+        }
+        
+
+       
+    }
 }
