@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import './pdp.scss'
 const Pdpleft = (props) => {
   const orderitem = props.image
-  console.log('orderitem', orderitem)
   const [images, setImages] = useState(props.image)
   const handleClickevent = () => {
     let activindex;
@@ -35,11 +34,11 @@ const Pdpleft = (props) => {
     } else {
       tempImgs[len].isActive = true
     }
-    setImages([...tempImgs]) 
+    setImages([...tempImgs])
   }
   return (
     <>
-      <div className="order-images"> 
+      <div className="order-images">
         {
           orderitem && orderitem.length && orderitem.map((val) => {
             return (
@@ -50,7 +49,7 @@ const Pdpleft = (props) => {
       </div>
       <div className="pdp-carosel">
         <div>
-          { 
+          {
             images.map((val) => {
               return (
                 val.isActive && <img src={val.imagUrl} alt="imag" dot={val.id} key={Math.random()} />
@@ -59,13 +58,10 @@ const Pdpleft = (props) => {
           }
         </div>
         <button onClick={() => handleClickevent()} className="pdp-next-button">
-          
-          {/* <i className="fa-solid fa-arrow-left"></i> */}
           <i className="fa-solid fa-angle-left"></i>
         </button>
         <button onClick={handlePrevevent} className="pdp-prev-button">
-        {/* <i className="fa-solid fa-arrow-right"></i> */}
-        <i className="fa-solid fa-chevron-right"></i>
+          <i className="fa-solid fa-chevron-right"></i>
         </button>
       </div>
     </>
