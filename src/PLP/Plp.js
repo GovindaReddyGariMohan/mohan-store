@@ -16,7 +16,7 @@ const Plp = () => {
     const [sub, setSub] = useState(pathName.filter((val) => val.subCatogory === subCatogoryName))
     const dispatch = useDispatch()
     const [showModelOnscroll, setShowModelOnscroll] = useState(true)
-    const onScrollFire =  () => {
+    const onScrollFire = () => {
 
         if (window.scrollY > 100) {
             dispatch(toggleProfileModal(true))

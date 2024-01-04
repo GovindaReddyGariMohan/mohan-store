@@ -1,4 +1,5 @@
 import React from "react";
+import './pdp.scss'
 import { useDispatch, useSelector } from "react-redux";
 import { addItem } from "../redux/actions/cartActions";
 import { addWishlist } from "../redux/actions/wishlistActions";
@@ -36,7 +37,7 @@ const Pdpleft = (props) => {
                             <hr />
                             <h3 className="price">Rs.{val.price} <del className="totalprice">MRP RS.{val.totalprice}</del> <span>({val.offer}OFF)</span></h3>
                             <p className="tax">inclusive of all taxes</p>
-                            <h4>SELECT SIZE</h4>
+                            <h4 className="onesize">SELECT SIZE</h4>
                             <button className="onesize-button">
                                 OneSize
                             </button>
@@ -45,9 +46,9 @@ const Pdpleft = (props) => {
                                 <button className="wishlist" onClick={() => handleWishlist(val.id)}><i className="fa-regular fa-heart"></i> WISHLIST</button>
                             </div>
                             <hr />
-                            <p><b> <i className="fa-solid fa-indian-rupee-sign"></i> {val.price}</b></p>
-                            <p>Seller:<span className="seller">{val.seller}</span></p>
-                            <hr />
+                            <p className="item-price"><b> <i className="fa-solid fa-indian-rupee-sign"></i> {val.price}</b></p>
+                            <p className="item-seller">Seller:<span className="seller">{val.seller}</span></p>
+                            <hr className="seller-border"/>
                         </div>
                     )
                 })

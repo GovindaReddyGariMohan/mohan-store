@@ -13,16 +13,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/06acbe97-ca0f-495f-a74b-31a1f78edfd11668174033686D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/06acbe97-ca0f-495f-a74b-31a1f78edfd11668174033686D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/09a19c04-991b-4ce4-a1d6-729ece25bba31668174033713D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/09a19c04-991b-4ce4-a1d6-729ece25bba31668174033713D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/09a19c04-991b-4ce4-a1d6-729ece25bba31668174033713D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/09a19c04-991b-4ce4-a1d6-729ece25bba31668174033713D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/06acbe97-ca0f-495f-a74b-31a1f78edfd11668174033686D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/06acbe97-ca0f-495f-a74b-31a1f78edfd11668174033686D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps2.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -52,16 +56,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352382/2017/12/19/11513667734081-m-6911513667734061-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352382/2017/12/19/11513667734081-m-6911513667734061-3.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352382/2017/12/19/11513667734098-m-6911513667734061-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352382/2017/12/19/11513667734098-m-6911513667734061-2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352382/2017/12/19/11513667734117-m-6911513667734061-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352382/2017/12/19/11513667734117-m-6911513667734061-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352382/2020/1/22/372fc187-bf6f-4469-a6b0-16e0adf055821579689685050-CASIO-Youth-Series-Men-Black-Dial-Analog-Digital-Watch-AEQ-1-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352382/2020/1/22/372fc187-bf6f-4469-a6b0-16e0adf055821579689685050-CASIO-Youth-Series-Men-Black-Dial-Analog-Digital-Watch-AEQ-1-4.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -91,16 +99,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/251075/2018/3/5/11520248697117-Casio-Edifice-Men-Silver-Analogue-Watch-EX093-EFR-526D-1AVUDF-2691520248696877-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/251075/2018/3/5/11520248697117-Casio-Edifice-Men-Silver-Analogue-Watch-EX093-EFR-526D-1AVUDF-2691520248696877-2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/251075/2018/3/5/11520248697100-Casio-Edifice-Men-Silver-Analogue-Watch-EX093-EFR-526D-1AVUDF-2691520248696877-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/251075/2018/3/5/11520248697100-Casio-Edifice-Men-Silver-Analogue-Watch-EX093-EFR-526D-1AVUDF-2691520248696877-3.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/251075/2018/3/5/11520248697081-Casio-Edifice-Men-Silver-Analogue-Watch-EX093-EFR-526D-1AVUDF-2691520248696877-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/251075/2018/3/5/11520248697081-Casio-Edifice-Men-Silver-Analogue-Watch-EX093-EFR-526D-1AVUDF-2691520248696877-4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/251075/2018/3/5/11520248697058-Casio-Edifice-Men-Silver-Analogue-Watch-EX093-EFR-526D-1AVUDF-2691520248696877-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/251075/2018/3/5/11520248697058-Casio-Edifice-Men-Silver-Analogue-Watch-EX093-EFR-526D-1AVUDF-2691520248696877-5.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -130,16 +142,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16365590/2021/12/4/d4255008-9838-4a3c-b32a-18c9212b25b81638597635806D1MilanoMenBlackSkeletonDialBlackStrapsAnalogueAutomaticMoti1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16365590/2021/12/4/d4255008-9838-4a3c-b32a-18c9212b25b81638597635806D1MilanoMenBlackSkeletonDialBlackStrapsAnalogueAutomaticMoti1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/dc5f7030-777a-4768-9cd4-e1938e1f756f1668174033751D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/dc5f7030-777a-4768-9cd4-e1938e1f756f1668174033751D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683950/2022/5/8/ddf41e66-05b8-4bfd-9245-82e0533c35961652023211314D1MilanoMenGreenBrassDialStainlessSteelStrapsAnalogueWatch-P1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683950/2022/5/8/ddf41e66-05b8-4bfd-9245-82e0533c35961652023211314D1MilanoMenGreenBrassDialStainlessSteelStrapsAnalogueWatch-P1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683944/2023/2/28/de667cb7-6b85-44ed-a938-7c8ead5b810b1677566752054-D1-Milano-Men-Blue-Brass-Dial--Straps-Analogue-Watch-PCBJ21--7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683944/2023/2/28/de667cb7-6b85-44ed-a938-7c8ead5b810b1677566752054-D1-Milano-Men-Blue-Brass-Dial--Straps-Analogue-Watch-PCBJ21--7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -169,16 +185,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683944/2022/5/8/a7b3f0eb-82ef-4d72-a3f6-98069acd8e341652023171758D1MilanoMenBlueBrassDialBlueStainlessSteelStrapsAnalogueWatc1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683944/2022/5/8/a7b3f0eb-82ef-4d72-a3f6-98069acd8e341652023171758D1MilanoMenBlueBrassDialBlueStainlessSteelStrapsAnalogueWatc1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683944/2022/5/8/afeaa9b7-b77f-4ab8-8fe0-b51c2f137d7d1652023171778D1MilanoMenBlueBrassDialBlueStainlessSteelStrapsAnalogueWatc2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683944/2022/5/8/afeaa9b7-b77f-4ab8-8fe0-b51c2f137d7d1652023171778D1MilanoMenBlueBrassDialBlueStainlessSteelStrapsAnalogueWatc2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/6/29/bcb71e36-4f3c-487f-9210-e84bb63fe0c61624955215418-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/6/29/bcb71e36-4f3c-487f-9210-e84bb63fe0c61624955215418-5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683944/2022/5/8/bcbb2324-baaa-49ef-8fc3-4dd821a95f491652023171822D1MilanoMenBlueBrassDialBlueStainlessSteelStrapsAnalogueWatc6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683944/2022/5/8/bcbb2324-baaa-49ef-8fc3-4dd821a95f491652023171822D1MilanoMenBlueBrassDialBlueStainlessSteelStrapsAnalogueWatc6.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -208,16 +228,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/06acbe97-ca0f-495f-a74b-31a1f78edfd11668174033686D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/06acbe97-ca0f-495f-a74b-31a1f78edfd11668174033686D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/09a19c04-991b-4ce4-a1d6-729ece25bba31668174033713D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/09a19c04-991b-4ce4-a1d6-729ece25bba31668174033713D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/09a19c04-991b-4ce4-a1d6-729ece25bba31668174033713D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/09a19c04-991b-4ce4-a1d6-729ece25bba31668174033713D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/06acbe97-ca0f-495f-a74b-31a1f78edfd11668174033686D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/06acbe97-ca0f-495f-a74b-31a1f78edfd11668174033686D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps2.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -247,16 +271,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352382/2017/12/19/11513667734081-m-6911513667734061-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352382/2017/12/19/11513667734081-m-6911513667734061-3.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352382/2017/12/19/11513667734098-m-6911513667734061-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352382/2017/12/19/11513667734098-m-6911513667734061-2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352382/2017/12/19/11513667734117-m-6911513667734061-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352382/2017/12/19/11513667734117-m-6911513667734061-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352382/2020/1/22/372fc187-bf6f-4469-a6b0-16e0adf055821579689685050-CASIO-Youth-Series-Men-Black-Dial-Analog-Digital-Watch-AEQ-1-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352382/2020/1/22/372fc187-bf6f-4469-a6b0-16e0adf055821579689685050-CASIO-Youth-Series-Men-Black-Dial-Analog-Digital-Watch-AEQ-1-4.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -286,16 +314,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/251075/2018/3/5/11520248697117-Casio-Edifice-Men-Silver-Analogue-Watch-EX093-EFR-526D-1AVUDF-2691520248696877-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/251075/2018/3/5/11520248697117-Casio-Edifice-Men-Silver-Analogue-Watch-EX093-EFR-526D-1AVUDF-2691520248696877-2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/251075/2018/3/5/11520248697100-Casio-Edifice-Men-Silver-Analogue-Watch-EX093-EFR-526D-1AVUDF-2691520248696877-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/251075/2018/3/5/11520248697100-Casio-Edifice-Men-Silver-Analogue-Watch-EX093-EFR-526D-1AVUDF-2691520248696877-3.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/251075/2018/3/5/11520248697081-Casio-Edifice-Men-Silver-Analogue-Watch-EX093-EFR-526D-1AVUDF-2691520248696877-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/251075/2018/3/5/11520248697081-Casio-Edifice-Men-Silver-Analogue-Watch-EX093-EFR-526D-1AVUDF-2691520248696877-4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/251075/2018/3/5/11520248697058-Casio-Edifice-Men-Silver-Analogue-Watch-EX093-EFR-526D-1AVUDF-2691520248696877-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/251075/2018/3/5/11520248697058-Casio-Edifice-Men-Silver-Analogue-Watch-EX093-EFR-526D-1AVUDF-2691520248696877-5.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -325,16 +357,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16365590/2021/12/4/d4255008-9838-4a3c-b32a-18c9212b25b81638597635806D1MilanoMenBlackSkeletonDialBlackStrapsAnalogueAutomaticMoti1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16365590/2021/12/4/d4255008-9838-4a3c-b32a-18c9212b25b81638597635806D1MilanoMenBlackSkeletonDialBlackStrapsAnalogueAutomaticMoti1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/dc5f7030-777a-4768-9cd4-e1938e1f756f1668174033751D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/dc5f7030-777a-4768-9cd4-e1938e1f756f1668174033751D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683950/2022/5/8/ddf41e66-05b8-4bfd-9245-82e0533c35961652023211314D1MilanoMenGreenBrassDialStainlessSteelStrapsAnalogueWatch-P1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683950/2022/5/8/ddf41e66-05b8-4bfd-9245-82e0533c35961652023211314D1MilanoMenGreenBrassDialStainlessSteelStrapsAnalogueWatch-P1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683944/2023/2/28/de667cb7-6b85-44ed-a938-7c8ead5b810b1677566752054-D1-Milano-Men-Blue-Brass-Dial--Straps-Analogue-Watch-PCBJ21--7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683944/2023/2/28/de667cb7-6b85-44ed-a938-7c8ead5b810b1677566752054-D1-Milano-Men-Blue-Brass-Dial--Straps-Analogue-Watch-PCBJ21--7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -364,16 +400,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683944/2022/5/8/a7b3f0eb-82ef-4d72-a3f6-98069acd8e341652023171758D1MilanoMenBlueBrassDialBlueStainlessSteelStrapsAnalogueWatc1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683944/2022/5/8/a7b3f0eb-82ef-4d72-a3f6-98069acd8e341652023171758D1MilanoMenBlueBrassDialBlueStainlessSteelStrapsAnalogueWatc1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683944/2022/5/8/afeaa9b7-b77f-4ab8-8fe0-b51c2f137d7d1652023171778D1MilanoMenBlueBrassDialBlueStainlessSteelStrapsAnalogueWatc2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683944/2022/5/8/afeaa9b7-b77f-4ab8-8fe0-b51c2f137d7d1652023171778D1MilanoMenBlueBrassDialBlueStainlessSteelStrapsAnalogueWatc2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/6/29/bcb71e36-4f3c-487f-9210-e84bb63fe0c61624955215418-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/6/29/bcb71e36-4f3c-487f-9210-e84bb63fe0c61624955215418-5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683944/2022/5/8/bcbb2324-baaa-49ef-8fc3-4dd821a95f491652023171822D1MilanoMenBlueBrassDialBlueStainlessSteelStrapsAnalogueWatc6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683944/2022/5/8/bcbb2324-baaa-49ef-8fc3-4dd821a95f491652023171822D1MilanoMenBlueBrassDialBlueStainlessSteelStrapsAnalogueWatc6.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -403,16 +443,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/06acbe97-ca0f-495f-a74b-31a1f78edfd11668174033686D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/06acbe97-ca0f-495f-a74b-31a1f78edfd11668174033686D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/09a19c04-991b-4ce4-a1d6-729ece25bba31668174033713D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/09a19c04-991b-4ce4-a1d6-729ece25bba31668174033713D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/09a19c04-991b-4ce4-a1d6-729ece25bba31668174033713D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/09a19c04-991b-4ce4-a1d6-729ece25bba31668174033713D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/06acbe97-ca0f-495f-a74b-31a1f78edfd11668174033686D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/06acbe97-ca0f-495f-a74b-31a1f78edfd11668174033686D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps2.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -442,16 +486,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352382/2017/12/19/11513667734081-m-6911513667734061-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352382/2017/12/19/11513667734081-m-6911513667734061-3.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352382/2017/12/19/11513667734098-m-6911513667734061-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352382/2017/12/19/11513667734098-m-6911513667734061-2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352382/2017/12/19/11513667734117-m-6911513667734061-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352382/2017/12/19/11513667734117-m-6911513667734061-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352382/2020/1/22/372fc187-bf6f-4469-a6b0-16e0adf055821579689685050-CASIO-Youth-Series-Men-Black-Dial-Analog-Digital-Watch-AEQ-1-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352382/2020/1/22/372fc187-bf6f-4469-a6b0-16e0adf055821579689685050-CASIO-Youth-Series-Men-Black-Dial-Analog-Digital-Watch-AEQ-1-4.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -481,16 +529,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/251075/2018/3/5/11520248697117-Casio-Edifice-Men-Silver-Analogue-Watch-EX093-EFR-526D-1AVUDF-2691520248696877-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/251075/2018/3/5/11520248697117-Casio-Edifice-Men-Silver-Analogue-Watch-EX093-EFR-526D-1AVUDF-2691520248696877-2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/251075/2018/3/5/11520248697100-Casio-Edifice-Men-Silver-Analogue-Watch-EX093-EFR-526D-1AVUDF-2691520248696877-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/251075/2018/3/5/11520248697100-Casio-Edifice-Men-Silver-Analogue-Watch-EX093-EFR-526D-1AVUDF-2691520248696877-3.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/251075/2018/3/5/11520248697081-Casio-Edifice-Men-Silver-Analogue-Watch-EX093-EFR-526D-1AVUDF-2691520248696877-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/251075/2018/3/5/11520248697081-Casio-Edifice-Men-Silver-Analogue-Watch-EX093-EFR-526D-1AVUDF-2691520248696877-4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/251075/2018/3/5/11520248697058-Casio-Edifice-Men-Silver-Analogue-Watch-EX093-EFR-526D-1AVUDF-2691520248696877-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/251075/2018/3/5/11520248697058-Casio-Edifice-Men-Silver-Analogue-Watch-EX093-EFR-526D-1AVUDF-2691520248696877-5.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -520,16 +572,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16365590/2021/12/4/d4255008-9838-4a3c-b32a-18c9212b25b81638597635806D1MilanoMenBlackSkeletonDialBlackStrapsAnalogueAutomaticMoti1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16365590/2021/12/4/d4255008-9838-4a3c-b32a-18c9212b25b81638597635806D1MilanoMenBlackSkeletonDialBlackStrapsAnalogueAutomaticMoti1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/dc5f7030-777a-4768-9cd4-e1938e1f756f1668174033751D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/dc5f7030-777a-4768-9cd4-e1938e1f756f1668174033751D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683950/2022/5/8/ddf41e66-05b8-4bfd-9245-82e0533c35961652023211314D1MilanoMenGreenBrassDialStainlessSteelStrapsAnalogueWatch-P1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683950/2022/5/8/ddf41e66-05b8-4bfd-9245-82e0533c35961652023211314D1MilanoMenGreenBrassDialStainlessSteelStrapsAnalogueWatch-P1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683944/2023/2/28/de667cb7-6b85-44ed-a938-7c8ead5b810b1677566752054-D1-Milano-Men-Blue-Brass-Dial--Straps-Analogue-Watch-PCBJ21--7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683944/2023/2/28/de667cb7-6b85-44ed-a938-7c8ead5b810b1677566752054-D1-Milano-Men-Blue-Brass-Dial--Straps-Analogue-Watch-PCBJ21--7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -559,16 +615,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683944/2022/5/8/a7b3f0eb-82ef-4d72-a3f6-98069acd8e341652023171758D1MilanoMenBlueBrassDialBlueStainlessSteelStrapsAnalogueWatc1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683944/2022/5/8/a7b3f0eb-82ef-4d72-a3f6-98069acd8e341652023171758D1MilanoMenBlueBrassDialBlueStainlessSteelStrapsAnalogueWatc1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683944/2022/5/8/afeaa9b7-b77f-4ab8-8fe0-b51c2f137d7d1652023171778D1MilanoMenBlueBrassDialBlueStainlessSteelStrapsAnalogueWatc2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683944/2022/5/8/afeaa9b7-b77f-4ab8-8fe0-b51c2f137d7d1652023171778D1MilanoMenBlueBrassDialBlueStainlessSteelStrapsAnalogueWatc2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/6/29/bcb71e36-4f3c-487f-9210-e84bb63fe0c61624955215418-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/6/29/bcb71e36-4f3c-487f-9210-e84bb63fe0c61624955215418-5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683944/2022/5/8/bcbb2324-baaa-49ef-8fc3-4dd821a95f491652023171822D1MilanoMenBlueBrassDialBlueStainlessSteelStrapsAnalogueWatc6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683944/2022/5/8/bcbb2324-baaa-49ef-8fc3-4dd821a95f491652023171822D1MilanoMenBlueBrassDialBlueStainlessSteelStrapsAnalogueWatc6.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -598,16 +658,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/06acbe97-ca0f-495f-a74b-31a1f78edfd11668174033686D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/06acbe97-ca0f-495f-a74b-31a1f78edfd11668174033686D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/09a19c04-991b-4ce4-a1d6-729ece25bba31668174033713D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/09a19c04-991b-4ce4-a1d6-729ece25bba31668174033713D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/09a19c04-991b-4ce4-a1d6-729ece25bba31668174033713D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/09a19c04-991b-4ce4-a1d6-729ece25bba31668174033713D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/06acbe97-ca0f-495f-a74b-31a1f78edfd11668174033686D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/06acbe97-ca0f-495f-a74b-31a1f78edfd11668174033686D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps2.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -637,16 +701,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352382/2017/12/19/11513667734081-m-6911513667734061-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352382/2017/12/19/11513667734081-m-6911513667734061-3.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352382/2017/12/19/11513667734098-m-6911513667734061-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352382/2017/12/19/11513667734098-m-6911513667734061-2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352382/2017/12/19/11513667734117-m-6911513667734061-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352382/2017/12/19/11513667734117-m-6911513667734061-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352382/2020/1/22/372fc187-bf6f-4469-a6b0-16e0adf055821579689685050-CASIO-Youth-Series-Men-Black-Dial-Analog-Digital-Watch-AEQ-1-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352382/2020/1/22/372fc187-bf6f-4469-a6b0-16e0adf055821579689685050-CASIO-Youth-Series-Men-Black-Dial-Analog-Digital-Watch-AEQ-1-4.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -676,16 +744,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/251075/2018/3/5/11520248697117-Casio-Edifice-Men-Silver-Analogue-Watch-EX093-EFR-526D-1AVUDF-2691520248696877-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/251075/2018/3/5/11520248697117-Casio-Edifice-Men-Silver-Analogue-Watch-EX093-EFR-526D-1AVUDF-2691520248696877-2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/251075/2018/3/5/11520248697100-Casio-Edifice-Men-Silver-Analogue-Watch-EX093-EFR-526D-1AVUDF-2691520248696877-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/251075/2018/3/5/11520248697100-Casio-Edifice-Men-Silver-Analogue-Watch-EX093-EFR-526D-1AVUDF-2691520248696877-3.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/251075/2018/3/5/11520248697081-Casio-Edifice-Men-Silver-Analogue-Watch-EX093-EFR-526D-1AVUDF-2691520248696877-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/251075/2018/3/5/11520248697081-Casio-Edifice-Men-Silver-Analogue-Watch-EX093-EFR-526D-1AVUDF-2691520248696877-4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/251075/2018/3/5/11520248697058-Casio-Edifice-Men-Silver-Analogue-Watch-EX093-EFR-526D-1AVUDF-2691520248696877-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/251075/2018/3/5/11520248697058-Casio-Edifice-Men-Silver-Analogue-Watch-EX093-EFR-526D-1AVUDF-2691520248696877-5.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -715,16 +787,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16365590/2021/12/4/d4255008-9838-4a3c-b32a-18c9212b25b81638597635806D1MilanoMenBlackSkeletonDialBlackStrapsAnalogueAutomaticMoti1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16365590/2021/12/4/d4255008-9838-4a3c-b32a-18c9212b25b81638597635806D1MilanoMenBlackSkeletonDialBlackStrapsAnalogueAutomaticMoti1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/dc5f7030-777a-4768-9cd4-e1938e1f756f1668174033751D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20707772/2022/11/11/dc5f7030-777a-4768-9cd4-e1938e1f756f1668174033751D1MilanoWomenBrownDialBrownStainlessSteelBraceletStyleStraps1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683950/2022/5/8/ddf41e66-05b8-4bfd-9245-82e0533c35961652023211314D1MilanoMenGreenBrassDialStainlessSteelStrapsAnalogueWatch-P1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683950/2022/5/8/ddf41e66-05b8-4bfd-9245-82e0533c35961652023211314D1MilanoMenGreenBrassDialStainlessSteelStrapsAnalogueWatch-P1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683944/2023/2/28/de667cb7-6b85-44ed-a938-7c8ead5b810b1677566752054-D1-Milano-Men-Blue-Brass-Dial--Straps-Analogue-Watch-PCBJ21--7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683944/2023/2/28/de667cb7-6b85-44ed-a938-7c8ead5b810b1677566752054-D1-Milano-Men-Blue-Brass-Dial--Straps-Analogue-Watch-PCBJ21--7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -754,16 +830,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683944/2022/5/8/a7b3f0eb-82ef-4d72-a3f6-98069acd8e341652023171758D1MilanoMenBlueBrassDialBlueStainlessSteelStrapsAnalogueWatc1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683944/2022/5/8/a7b3f0eb-82ef-4d72-a3f6-98069acd8e341652023171758D1MilanoMenBlueBrassDialBlueStainlessSteelStrapsAnalogueWatc1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683944/2022/5/8/afeaa9b7-b77f-4ab8-8fe0-b51c2f137d7d1652023171778D1MilanoMenBlueBrassDialBlueStainlessSteelStrapsAnalogueWatc2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683944/2022/5/8/afeaa9b7-b77f-4ab8-8fe0-b51c2f137d7d1652023171778D1MilanoMenBlueBrassDialBlueStainlessSteelStrapsAnalogueWatc2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/6/29/bcb71e36-4f3c-487f-9210-e84bb63fe0c61624955215418-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/6/29/bcb71e36-4f3c-487f-9210-e84bb63fe0c61624955215418-5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683944/2022/5/8/bcbb2324-baaa-49ef-8fc3-4dd821a95f491652023171822D1MilanoMenBlueBrassDialBlueStainlessSteelStrapsAnalogueWatc6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14683944/2022/5/8/bcbb2324-baaa-49ef-8fc3-4dd821a95f491652023171822D1MilanoMenBlueBrassDialBlueStainlessSteelStrapsAnalogueWatc6.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -794,16 +874,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/0b2fe883-58a1-4cf4-8699-38f0408005731694661259602OriginalPenguinMenBluePoloCollarPocketsT-shirt2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/0b2fe883-58a1-4cf4-8699-38f0408005731694661259602OriginalPenguinMenBluePoloCollarPocketsT-shirt2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/54b045a2-287a-4c06-8c14-2e697276813b1694661259640OriginalPenguinMenBluePoloCollarPocketsT-shirt3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/54b045a2-287a-4c06-8c14-2e697276813b1694661259640OriginalPenguinMenBluePoloCollarPocketsT-shirt3.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/7995e8b7-dbf2-482a-9d86-78b91b6781a61694661259583OriginalPenguinMenBluePoloCollarPocketsT-shirt5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/7995e8b7-dbf2-482a-9d86-78b91b6781a61694661259583OriginalPenguinMenBluePoloCollarPocketsT-shirt5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/8570a399-cc79-47fd-bfac-8ee0d2eb681c1694661259656OriginalPenguinMenBluePoloCollarPocketsT-shirt7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/8570a399-cc79-47fd-bfac-8ee0d2eb681c1694661259656OriginalPenguinMenBluePoloCollarPocketsT-shirt7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -833,16 +917,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/6d184db2-af61-4488-9e7e-02040cd6a5be1697453076422-Roadster-Men-Tshirts-6161697453076053-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/6d184db2-af61-4488-9e7e-02040cd6a5be1697453076422-Roadster-Men-Tshirts-6161697453076053-3.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/924d9785-ee88-4e73-ade3-9f38931d78db1697453076428-Roadster-Men-Tshirts-6161697453076053-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/924d9785-ee88-4e73-ade3-9f38931d78db1697453076428-Roadster-Men-Tshirts-6161697453076053-2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/b358aec3-f4dd-437d-90b3-87fc8e13b7011697453076434-Roadster-Men-Tshirts-6161697453076053-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/b358aec3-f4dd-437d-90b3-87fc8e13b7011697453076434-Roadster-Men-Tshirts-6161697453076053-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/b715f9f9-0574-4976-a854-4e3cc8ed52341697453076408-Roadster-Men-Tshirts-6161697453076053-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/b715f9f9-0574-4976-a854-4e3cc8ed52341697453076408-Roadster-Men-Tshirts-6161697453076053-5.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -872,16 +960,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/0d171555-887e-4d72-a1e0-01786e28626d1696847762925FredPerryMenBlackSweatshirt7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/0d171555-887e-4d72-a1e0-01786e28626d1696847762925FredPerryMenBlackSweatshirt7.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/55c41913-bd26-42e6-b247-712da7045a601696847762903FredPerryMenBlackSweatshirt5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/55c41913-bd26-42e6-b247-712da7045a601696847762903FredPerryMenBlackSweatshirt5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/c52db06c-d21f-487b-a7c3-aae2fb49a7cd1696847762911FredPerryMenBlackSweatshirt2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/c52db06c-d21f-487b-a7c3-aae2fb49a7cd1696847762911FredPerryMenBlackSweatshirt2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/d6486a4a-2e55-40a4-8ae1-9ca9c337b2751696847762938FredPerryMenBlackSweatshirt4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/d6486a4a-2e55-40a4-8ae1-9ca9c337b2751696847762938FredPerryMenBlackSweatshirt4.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -911,16 +1003,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/0b2fe883-58a1-4cf4-8699-38f0408005731694661259602OriginalPenguinMenBluePoloCollarPocketsT-shirt2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/0b2fe883-58a1-4cf4-8699-38f0408005731694661259602OriginalPenguinMenBluePoloCollarPocketsT-shirt2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/54b045a2-287a-4c06-8c14-2e697276813b1694661259640OriginalPenguinMenBluePoloCollarPocketsT-shirt3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/54b045a2-287a-4c06-8c14-2e697276813b1694661259640OriginalPenguinMenBluePoloCollarPocketsT-shirt3.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/7995e8b7-dbf2-482a-9d86-78b91b6781a61694661259583OriginalPenguinMenBluePoloCollarPocketsT-shirt5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/7995e8b7-dbf2-482a-9d86-78b91b6781a61694661259583OriginalPenguinMenBluePoloCollarPocketsT-shirt5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/8570a399-cc79-47fd-bfac-8ee0d2eb681c1694661259656OriginalPenguinMenBluePoloCollarPocketsT-shirt7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/8570a399-cc79-47fd-bfac-8ee0d2eb681c1694661259656OriginalPenguinMenBluePoloCollarPocketsT-shirt7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -950,16 +1046,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/0b2fe883-58a1-4cf4-8699-38f0408005731694661259602OriginalPenguinMenBluePoloCollarPocketsT-shirt2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/0b2fe883-58a1-4cf4-8699-38f0408005731694661259602OriginalPenguinMenBluePoloCollarPocketsT-shirt2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/54b045a2-287a-4c06-8c14-2e697276813b1694661259640OriginalPenguinMenBluePoloCollarPocketsT-shirt3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/54b045a2-287a-4c06-8c14-2e697276813b1694661259640OriginalPenguinMenBluePoloCollarPocketsT-shirt3.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/7995e8b7-dbf2-482a-9d86-78b91b6781a61694661259583OriginalPenguinMenBluePoloCollarPocketsT-shirt5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/7995e8b7-dbf2-482a-9d86-78b91b6781a61694661259583OriginalPenguinMenBluePoloCollarPocketsT-shirt5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/8570a399-cc79-47fd-bfac-8ee0d2eb681c1694661259656OriginalPenguinMenBluePoloCollarPocketsT-shirt7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/8570a399-cc79-47fd-bfac-8ee0d2eb681c1694661259656OriginalPenguinMenBluePoloCollarPocketsT-shirt7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -989,16 +1089,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/6d184db2-af61-4488-9e7e-02040cd6a5be1697453076422-Roadster-Men-Tshirts-6161697453076053-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/6d184db2-af61-4488-9e7e-02040cd6a5be1697453076422-Roadster-Men-Tshirts-6161697453076053-3.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/924d9785-ee88-4e73-ade3-9f38931d78db1697453076428-Roadster-Men-Tshirts-6161697453076053-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/924d9785-ee88-4e73-ade3-9f38931d78db1697453076428-Roadster-Men-Tshirts-6161697453076053-2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/b358aec3-f4dd-437d-90b3-87fc8e13b7011697453076434-Roadster-Men-Tshirts-6161697453076053-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/b358aec3-f4dd-437d-90b3-87fc8e13b7011697453076434-Roadster-Men-Tshirts-6161697453076053-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/b715f9f9-0574-4976-a854-4e3cc8ed52341697453076408-Roadster-Men-Tshirts-6161697453076053-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/b715f9f9-0574-4976-a854-4e3cc8ed52341697453076408-Roadster-Men-Tshirts-6161697453076053-5.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -1028,16 +1132,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/6d184db2-af61-4488-9e7e-02040cd6a5be1697453076422-Roadster-Men-Tshirts-6161697453076053-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/6d184db2-af61-4488-9e7e-02040cd6a5be1697453076422-Roadster-Men-Tshirts-6161697453076053-3.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/924d9785-ee88-4e73-ade3-9f38931d78db1697453076428-Roadster-Men-Tshirts-6161697453076053-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/924d9785-ee88-4e73-ade3-9f38931d78db1697453076428-Roadster-Men-Tshirts-6161697453076053-2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/b358aec3-f4dd-437d-90b3-87fc8e13b7011697453076434-Roadster-Men-Tshirts-6161697453076053-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/b358aec3-f4dd-437d-90b3-87fc8e13b7011697453076434-Roadster-Men-Tshirts-6161697453076053-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/b715f9f9-0574-4976-a854-4e3cc8ed52341697453076408-Roadster-Men-Tshirts-6161697453076053-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/b715f9f9-0574-4976-a854-4e3cc8ed52341697453076408-Roadster-Men-Tshirts-6161697453076053-5.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -1067,16 +1175,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/6d184db2-af61-4488-9e7e-02040cd6a5be1697453076422-Roadster-Men-Tshirts-6161697453076053-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/6d184db2-af61-4488-9e7e-02040cd6a5be1697453076422-Roadster-Men-Tshirts-6161697453076053-3.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/924d9785-ee88-4e73-ade3-9f38931d78db1697453076428-Roadster-Men-Tshirts-6161697453076053-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/924d9785-ee88-4e73-ade3-9f38931d78db1697453076428-Roadster-Men-Tshirts-6161697453076053-2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/b358aec3-f4dd-437d-90b3-87fc8e13b7011697453076434-Roadster-Men-Tshirts-6161697453076053-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/b358aec3-f4dd-437d-90b3-87fc8e13b7011697453076434-Roadster-Men-Tshirts-6161697453076053-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/b715f9f9-0574-4976-a854-4e3cc8ed52341697453076408-Roadster-Men-Tshirts-6161697453076053-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/b715f9f9-0574-4976-a854-4e3cc8ed52341697453076408-Roadster-Men-Tshirts-6161697453076053-5.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -1106,16 +1218,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/0d171555-887e-4d72-a1e0-01786e28626d1696847762925FredPerryMenBlackSweatshirt7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/0d171555-887e-4d72-a1e0-01786e28626d1696847762925FredPerryMenBlackSweatshirt7.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/55c41913-bd26-42e6-b247-712da7045a601696847762903FredPerryMenBlackSweatshirt5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/55c41913-bd26-42e6-b247-712da7045a601696847762903FredPerryMenBlackSweatshirt5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/c52db06c-d21f-487b-a7c3-aae2fb49a7cd1696847762911FredPerryMenBlackSweatshirt2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/c52db06c-d21f-487b-a7c3-aae2fb49a7cd1696847762911FredPerryMenBlackSweatshirt2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/d6486a4a-2e55-40a4-8ae1-9ca9c337b2751696847762938FredPerryMenBlackSweatshirt4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/d6486a4a-2e55-40a4-8ae1-9ca9c337b2751696847762938FredPerryMenBlackSweatshirt4.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -1145,16 +1261,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/0d171555-887e-4d72-a1e0-01786e28626d1696847762925FredPerryMenBlackSweatshirt7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/0d171555-887e-4d72-a1e0-01786e28626d1696847762925FredPerryMenBlackSweatshirt7.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/55c41913-bd26-42e6-b247-712da7045a601696847762903FredPerryMenBlackSweatshirt5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/55c41913-bd26-42e6-b247-712da7045a601696847762903FredPerryMenBlackSweatshirt5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/c52db06c-d21f-487b-a7c3-aae2fb49a7cd1696847762911FredPerryMenBlackSweatshirt2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/c52db06c-d21f-487b-a7c3-aae2fb49a7cd1696847762911FredPerryMenBlackSweatshirt2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/d6486a4a-2e55-40a4-8ae1-9ca9c337b2751696847762938FredPerryMenBlackSweatshirt4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/d6486a4a-2e55-40a4-8ae1-9ca9c337b2751696847762938FredPerryMenBlackSweatshirt4.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -1184,16 +1304,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/0d171555-887e-4d72-a1e0-01786e28626d1696847762925FredPerryMenBlackSweatshirt7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/0d171555-887e-4d72-a1e0-01786e28626d1696847762925FredPerryMenBlackSweatshirt7.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/55c41913-bd26-42e6-b247-712da7045a601696847762903FredPerryMenBlackSweatshirt5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/55c41913-bd26-42e6-b247-712da7045a601696847762903FredPerryMenBlackSweatshirt5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/c52db06c-d21f-487b-a7c3-aae2fb49a7cd1696847762911FredPerryMenBlackSweatshirt2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/c52db06c-d21f-487b-a7c3-aae2fb49a7cd1696847762911FredPerryMenBlackSweatshirt2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/d6486a4a-2e55-40a4-8ae1-9ca9c337b2751696847762938FredPerryMenBlackSweatshirt4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/d6486a4a-2e55-40a4-8ae1-9ca9c337b2751696847762938FredPerryMenBlackSweatshirt4.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -1223,16 +1347,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/0b2fe883-58a1-4cf4-8699-38f0408005731694661259602OriginalPenguinMenBluePoloCollarPocketsT-shirt2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/0b2fe883-58a1-4cf4-8699-38f0408005731694661259602OriginalPenguinMenBluePoloCollarPocketsT-shirt2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/54b045a2-287a-4c06-8c14-2e697276813b1694661259640OriginalPenguinMenBluePoloCollarPocketsT-shirt3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/54b045a2-287a-4c06-8c14-2e697276813b1694661259640OriginalPenguinMenBluePoloCollarPocketsT-shirt3.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/7995e8b7-dbf2-482a-9d86-78b91b6781a61694661259583OriginalPenguinMenBluePoloCollarPocketsT-shirt5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/7995e8b7-dbf2-482a-9d86-78b91b6781a61694661259583OriginalPenguinMenBluePoloCollarPocketsT-shirt5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/8570a399-cc79-47fd-bfac-8ee0d2eb681c1694661259656OriginalPenguinMenBluePoloCollarPocketsT-shirt7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/8570a399-cc79-47fd-bfac-8ee0d2eb681c1694661259656OriginalPenguinMenBluePoloCollarPocketsT-shirt7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -1262,16 +1390,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/0b2fe883-58a1-4cf4-8699-38f0408005731694661259602OriginalPenguinMenBluePoloCollarPocketsT-shirt2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/0b2fe883-58a1-4cf4-8699-38f0408005731694661259602OriginalPenguinMenBluePoloCollarPocketsT-shirt2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/54b045a2-287a-4c06-8c14-2e697276813b1694661259640OriginalPenguinMenBluePoloCollarPocketsT-shirt3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/54b045a2-287a-4c06-8c14-2e697276813b1694661259640OriginalPenguinMenBluePoloCollarPocketsT-shirt3.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/7995e8b7-dbf2-482a-9d86-78b91b6781a61694661259583OriginalPenguinMenBluePoloCollarPocketsT-shirt5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/7995e8b7-dbf2-482a-9d86-78b91b6781a61694661259583OriginalPenguinMenBluePoloCollarPocketsT-shirt5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/8570a399-cc79-47fd-bfac-8ee0d2eb681c1694661259656OriginalPenguinMenBluePoloCollarPocketsT-shirt7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/8570a399-cc79-47fd-bfac-8ee0d2eb681c1694661259656OriginalPenguinMenBluePoloCollarPocketsT-shirt7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -1301,16 +1433,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/0b2fe883-58a1-4cf4-8699-38f0408005731694661259602OriginalPenguinMenBluePoloCollarPocketsT-shirt2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/0b2fe883-58a1-4cf4-8699-38f0408005731694661259602OriginalPenguinMenBluePoloCollarPocketsT-shirt2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/54b045a2-287a-4c06-8c14-2e697276813b1694661259640OriginalPenguinMenBluePoloCollarPocketsT-shirt3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/54b045a2-287a-4c06-8c14-2e697276813b1694661259640OriginalPenguinMenBluePoloCollarPocketsT-shirt3.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/7995e8b7-dbf2-482a-9d86-78b91b6781a61694661259583OriginalPenguinMenBluePoloCollarPocketsT-shirt5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/7995e8b7-dbf2-482a-9d86-78b91b6781a61694661259583OriginalPenguinMenBluePoloCollarPocketsT-shirt5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/8570a399-cc79-47fd-bfac-8ee0d2eb681c1694661259656OriginalPenguinMenBluePoloCollarPocketsT-shirt7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24952876/2023/9/14/8570a399-cc79-47fd-bfac-8ee0d2eb681c1694661259656OriginalPenguinMenBluePoloCollarPocketsT-shirt7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -1340,16 +1476,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/6d184db2-af61-4488-9e7e-02040cd6a5be1697453076422-Roadster-Men-Tshirts-6161697453076053-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/6d184db2-af61-4488-9e7e-02040cd6a5be1697453076422-Roadster-Men-Tshirts-6161697453076053-3.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/924d9785-ee88-4e73-ade3-9f38931d78db1697453076428-Roadster-Men-Tshirts-6161697453076053-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/924d9785-ee88-4e73-ade3-9f38931d78db1697453076428-Roadster-Men-Tshirts-6161697453076053-2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/b358aec3-f4dd-437d-90b3-87fc8e13b7011697453076434-Roadster-Men-Tshirts-6161697453076053-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/b358aec3-f4dd-437d-90b3-87fc8e13b7011697453076434-Roadster-Men-Tshirts-6161697453076053-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/b715f9f9-0574-4976-a854-4e3cc8ed52341697453076408-Roadster-Men-Tshirts-6161697453076053-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/b715f9f9-0574-4976-a854-4e3cc8ed52341697453076408-Roadster-Men-Tshirts-6161697453076053-5.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -1379,16 +1519,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/6d184db2-af61-4488-9e7e-02040cd6a5be1697453076422-Roadster-Men-Tshirts-6161697453076053-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/6d184db2-af61-4488-9e7e-02040cd6a5be1697453076422-Roadster-Men-Tshirts-6161697453076053-3.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/924d9785-ee88-4e73-ade3-9f38931d78db1697453076428-Roadster-Men-Tshirts-6161697453076053-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/924d9785-ee88-4e73-ade3-9f38931d78db1697453076428-Roadster-Men-Tshirts-6161697453076053-2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/b358aec3-f4dd-437d-90b3-87fc8e13b7011697453076434-Roadster-Men-Tshirts-6161697453076053-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/b358aec3-f4dd-437d-90b3-87fc8e13b7011697453076434-Roadster-Men-Tshirts-6161697453076053-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/b715f9f9-0574-4976-a854-4e3cc8ed52341697453076408-Roadster-Men-Tshirts-6161697453076053-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/b715f9f9-0574-4976-a854-4e3cc8ed52341697453076408-Roadster-Men-Tshirts-6161697453076053-5.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -1418,16 +1562,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/6d184db2-af61-4488-9e7e-02040cd6a5be1697453076422-Roadster-Men-Tshirts-6161697453076053-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/6d184db2-af61-4488-9e7e-02040cd6a5be1697453076422-Roadster-Men-Tshirts-6161697453076053-3.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/924d9785-ee88-4e73-ade3-9f38931d78db1697453076428-Roadster-Men-Tshirts-6161697453076053-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/924d9785-ee88-4e73-ade3-9f38931d78db1697453076428-Roadster-Men-Tshirts-6161697453076053-2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/b358aec3-f4dd-437d-90b3-87fc8e13b7011697453076434-Roadster-Men-Tshirts-6161697453076053-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/b358aec3-f4dd-437d-90b3-87fc8e13b7011697453076434-Roadster-Men-Tshirts-6161697453076053-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/b715f9f9-0574-4976-a854-4e3cc8ed52341697453076408-Roadster-Men-Tshirts-6161697453076053-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25371906/2023/10/16/b715f9f9-0574-4976-a854-4e3cc8ed52341697453076408-Roadster-Men-Tshirts-6161697453076053-5.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -1457,16 +1605,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/0d171555-887e-4d72-a1e0-01786e28626d1696847762925FredPerryMenBlackSweatshirt7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/0d171555-887e-4d72-a1e0-01786e28626d1696847762925FredPerryMenBlackSweatshirt7.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/55c41913-bd26-42e6-b247-712da7045a601696847762903FredPerryMenBlackSweatshirt5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/55c41913-bd26-42e6-b247-712da7045a601696847762903FredPerryMenBlackSweatshirt5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/c52db06c-d21f-487b-a7c3-aae2fb49a7cd1696847762911FredPerryMenBlackSweatshirt2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/c52db06c-d21f-487b-a7c3-aae2fb49a7cd1696847762911FredPerryMenBlackSweatshirt2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/d6486a4a-2e55-40a4-8ae1-9ca9c337b2751696847762938FredPerryMenBlackSweatshirt4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/d6486a4a-2e55-40a4-8ae1-9ca9c337b2751696847762938FredPerryMenBlackSweatshirt4.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -1496,16 +1648,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/0d171555-887e-4d72-a1e0-01786e28626d1696847762925FredPerryMenBlackSweatshirt7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/0d171555-887e-4d72-a1e0-01786e28626d1696847762925FredPerryMenBlackSweatshirt7.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/55c41913-bd26-42e6-b247-712da7045a601696847762903FredPerryMenBlackSweatshirt5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/55c41913-bd26-42e6-b247-712da7045a601696847762903FredPerryMenBlackSweatshirt5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/c52db06c-d21f-487b-a7c3-aae2fb49a7cd1696847762911FredPerryMenBlackSweatshirt2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/c52db06c-d21f-487b-a7c3-aae2fb49a7cd1696847762911FredPerryMenBlackSweatshirt2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/d6486a4a-2e55-40a4-8ae1-9ca9c337b2751696847762938FredPerryMenBlackSweatshirt4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/d6486a4a-2e55-40a4-8ae1-9ca9c337b2751696847762938FredPerryMenBlackSweatshirt4.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -1535,16 +1691,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/0d171555-887e-4d72-a1e0-01786e28626d1696847762925FredPerryMenBlackSweatshirt7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/0d171555-887e-4d72-a1e0-01786e28626d1696847762925FredPerryMenBlackSweatshirt7.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/55c41913-bd26-42e6-b247-712da7045a601696847762903FredPerryMenBlackSweatshirt5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/55c41913-bd26-42e6-b247-712da7045a601696847762903FredPerryMenBlackSweatshirt5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/c52db06c-d21f-487b-a7c3-aae2fb49a7cd1696847762911FredPerryMenBlackSweatshirt2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/c52db06c-d21f-487b-a7c3-aae2fb49a7cd1696847762911FredPerryMenBlackSweatshirt2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/d6486a4a-2e55-40a4-8ae1-9ca9c337b2751696847762938FredPerryMenBlackSweatshirt4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/d6486a4a-2e55-40a4-8ae1-9ca9c337b2751696847762938FredPerryMenBlackSweatshirt4.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -1576,16 +1736,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/052590c2-e52f-47c5-b923-d10ae0e91a8c1651146955518-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/052590c2-e52f-47c5-b923-d10ae0e91a8c1651146955518-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-5.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/08bc6d67-ebcc-4b34-a5e6-85de4ee8a25f1651146955557-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/08bc6d67-ebcc-4b34-a5e6-85de4ee8a25f1651146955557-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-3.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/098d9888-342d-4072-9f0f-3721fd95bfde1651146955538-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/098d9888-342d-4072-9f0f-3721fd95bfde1651146955538-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/28c7fa7e-56ee-4fa6-b6e4-d1adfd91dd0c1651146955497-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/28c7fa7e-56ee-4fa6-b6e4-d1adfd91dd0c1651146955497-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-6.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -1615,16 +1779,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1176382/2016/1/21/11453373804947-Sir-Corbett-Men-Formal-Shoes-4391453373804691-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1176382/2016/1/21/11453373804947-Sir-Corbett-Men-Formal-Shoes-4391453373804691-4.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1176382/2016/1/21/11453373804866-Sir-Corbett-Men-Formal-Shoes-4391453373804691-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1176382/2016/1/21/11453373804866-Sir-Corbett-Men-Formal-Shoes-4391453373804691-5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1176382/2016/1/21/11453373805022-Sir-Corbett-Men-Formal-Shoes-4391453373804691-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1176382/2016/1/21/11453373805022-Sir-Corbett-Men-Formal-Shoes-4391453373804691-3.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1176382/2016/1/21/11453373805098-Sir-Corbett-Men-Formal-Shoes-4391453373804691-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1176382/2016/1/21/11453373805098-Sir-Corbett-Men-Formal-Shoes-4391453373804691-2.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -1654,16 +1822,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/2349da8f-54c2-4376-aa55-7d22ebd9199b1658489173548-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/2349da8f-54c2-4376-aa55-7d22ebd9199b1658489173548-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/4ee9e023-b41b-49eb-92b6-41faaac5e3ca1658489173506-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/4ee9e023-b41b-49eb-92b6-41faaac5e3ca1658489173506-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/63f470a3-fe49-4c23-9a42-286e333f1f8c1658489173527-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/63f470a3-fe49-4c23-9a42-286e333f1f8c1658489173527-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-3.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/d5742d6d-5383-46e9-9dc6-9fa2a5ce22fc1658489173517-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/d5742d6d-5383-46e9-9dc6-9fa2a5ce22fc1658489173517-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-4.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -1693,16 +1865,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16274078/2023/2/27/5cb2e8e1-b6f2-44dc-b450-1ce41c379cbb1677495538142-Nike-Revolution-6-FlyEase-Next-Nature-Mens-Easy-OnOff-Road-R-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16274078/2023/2/27/5cb2e8e1-b6f2-44dc-b450-1ce41c379cbb1677495538142-Nike-Revolution-6-FlyEase-Next-Nature-Mens-Easy-OnOff-Road-R-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11980156/2022/8/12/b3e29bb3-083f-4d7a-97d9-d0f66ec0f3851660285290733-Nike-Men-Black-Revolution-5-Running-Shoes-9861660285290305-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11980156/2022/8/12/b3e29bb3-083f-4d7a-97d9-d0f66ec0f3851660285290733-Nike-Men-Black-Revolution-5-Running-Shoes-9861660285290305-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/63f470a3-fe49-4c23-9a42-286e333f1f8c1658489173527-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/63f470a3-fe49-4c23-9a42-286e333f1f8c1658489173527-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-3.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15384978/2023/5/23/c6c08c48-3adf-4131-8952-591f86b798dd1684834098306-Nike-Men-Grey-Revolution-5-Running-Shoes-791684834097933-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15384978/2023/5/23/c6c08c48-3adf-4131-8952-591f86b798dd1684834098306-Nike-Men-Grey-Revolution-5-Running-Shoes-791684834097933-1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -1732,16 +1908,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21274504/2023/10/19/06e62e60-bcac-4994-8674-618fea778aa81697706707893-Skechers-Men-Sports-Shoes-7141697706707645-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21274504/2023/10/19/06e62e60-bcac-4994-8674-618fea778aa81697706707893-Skechers-Men-Sports-Shoes-7141697706707645-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23864660/2023/8/21/14e85509-6cba-417a-9390-45eb205a8e071692612250861-Skechers-Men-Sports-Shoes-2531692612250539-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23864660/2023/8/21/14e85509-6cba-417a-9390-45eb205a8e071692612250861-Skechers-Men-Sports-Shoes-2531692612250539-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20129456/2023/8/3/2aa76e3a-1b46-4a70-8ca1-57fb8340e3811691051524435SkechersMenNavyBlueGOWALKWalkingNon-MarkingShoes6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20129456/2023/8/3/2aa76e3a-1b46-4a70-8ca1-57fb8340e3811691051524435SkechersMenNavyBlueGOWALKWalkingNon-MarkingShoes6.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20129456/2023/8/3/349fcb42-47d9-4506-9552-2896e3038e4b1691051524353SkechersMenNavyBlueGOWALKWalkingNon-MarkingShoes1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20129456/2023/8/3/349fcb42-47d9-4506-9552-2896e3038e4b1691051524353SkechersMenNavyBlueGOWALKWalkingNon-MarkingShoes1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -1771,16 +1951,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/052590c2-e52f-47c5-b923-d10ae0e91a8c1651146955518-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/052590c2-e52f-47c5-b923-d10ae0e91a8c1651146955518-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-5.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/08bc6d67-ebcc-4b34-a5e6-85de4ee8a25f1651146955557-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/08bc6d67-ebcc-4b34-a5e6-85de4ee8a25f1651146955557-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-3.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/098d9888-342d-4072-9f0f-3721fd95bfde1651146955538-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/098d9888-342d-4072-9f0f-3721fd95bfde1651146955538-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/28c7fa7e-56ee-4fa6-b6e4-d1adfd91dd0c1651146955497-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/28c7fa7e-56ee-4fa6-b6e4-d1adfd91dd0c1651146955497-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-6.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -1810,16 +1994,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1176382/2016/1/21/11453373804947-Sir-Corbett-Men-Formal-Shoes-4391453373804691-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1176382/2016/1/21/11453373804947-Sir-Corbett-Men-Formal-Shoes-4391453373804691-4.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1176382/2016/1/21/11453373804866-Sir-Corbett-Men-Formal-Shoes-4391453373804691-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1176382/2016/1/21/11453373804866-Sir-Corbett-Men-Formal-Shoes-4391453373804691-5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1176382/2016/1/21/11453373805022-Sir-Corbett-Men-Formal-Shoes-4391453373804691-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1176382/2016/1/21/11453373805022-Sir-Corbett-Men-Formal-Shoes-4391453373804691-3.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1176382/2016/1/21/11453373805098-Sir-Corbett-Men-Formal-Shoes-4391453373804691-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1176382/2016/1/21/11453373805098-Sir-Corbett-Men-Formal-Shoes-4391453373804691-2.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -1849,16 +2037,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/2349da8f-54c2-4376-aa55-7d22ebd9199b1658489173548-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/2349da8f-54c2-4376-aa55-7d22ebd9199b1658489173548-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/4ee9e023-b41b-49eb-92b6-41faaac5e3ca1658489173506-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/4ee9e023-b41b-49eb-92b6-41faaac5e3ca1658489173506-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/63f470a3-fe49-4c23-9a42-286e333f1f8c1658489173527-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/63f470a3-fe49-4c23-9a42-286e333f1f8c1658489173527-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-3.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/d5742d6d-5383-46e9-9dc6-9fa2a5ce22fc1658489173517-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/d5742d6d-5383-46e9-9dc6-9fa2a5ce22fc1658489173517-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-4.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -1888,16 +2080,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16274078/2023/2/27/5cb2e8e1-b6f2-44dc-b450-1ce41c379cbb1677495538142-Nike-Revolution-6-FlyEase-Next-Nature-Mens-Easy-OnOff-Road-R-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16274078/2023/2/27/5cb2e8e1-b6f2-44dc-b450-1ce41c379cbb1677495538142-Nike-Revolution-6-FlyEase-Next-Nature-Mens-Easy-OnOff-Road-R-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11980156/2022/8/12/b3e29bb3-083f-4d7a-97d9-d0f66ec0f3851660285290733-Nike-Men-Black-Revolution-5-Running-Shoes-9861660285290305-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11980156/2022/8/12/b3e29bb3-083f-4d7a-97d9-d0f66ec0f3851660285290733-Nike-Men-Black-Revolution-5-Running-Shoes-9861660285290305-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/63f470a3-fe49-4c23-9a42-286e333f1f8c1658489173527-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/63f470a3-fe49-4c23-9a42-286e333f1f8c1658489173527-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-3.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15384978/2023/5/23/c6c08c48-3adf-4131-8952-591f86b798dd1684834098306-Nike-Men-Grey-Revolution-5-Running-Shoes-791684834097933-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15384978/2023/5/23/c6c08c48-3adf-4131-8952-591f86b798dd1684834098306-Nike-Men-Grey-Revolution-5-Running-Shoes-791684834097933-1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -1927,16 +2123,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21274504/2023/10/19/06e62e60-bcac-4994-8674-618fea778aa81697706707893-Skechers-Men-Sports-Shoes-7141697706707645-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21274504/2023/10/19/06e62e60-bcac-4994-8674-618fea778aa81697706707893-Skechers-Men-Sports-Shoes-7141697706707645-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23864660/2023/8/21/14e85509-6cba-417a-9390-45eb205a8e071692612250861-Skechers-Men-Sports-Shoes-2531692612250539-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23864660/2023/8/21/14e85509-6cba-417a-9390-45eb205a8e071692612250861-Skechers-Men-Sports-Shoes-2531692612250539-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20129456/2023/8/3/2aa76e3a-1b46-4a70-8ca1-57fb8340e3811691051524435SkechersMenNavyBlueGOWALKWalkingNon-MarkingShoes6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20129456/2023/8/3/2aa76e3a-1b46-4a70-8ca1-57fb8340e3811691051524435SkechersMenNavyBlueGOWALKWalkingNon-MarkingShoes6.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20129456/2023/8/3/349fcb42-47d9-4506-9552-2896e3038e4b1691051524353SkechersMenNavyBlueGOWALKWalkingNon-MarkingShoes1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20129456/2023/8/3/349fcb42-47d9-4506-9552-2896e3038e4b1691051524353SkechersMenNavyBlueGOWALKWalkingNon-MarkingShoes1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -1966,16 +2166,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/052590c2-e52f-47c5-b923-d10ae0e91a8c1651146955518-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/052590c2-e52f-47c5-b923-d10ae0e91a8c1651146955518-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-5.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/08bc6d67-ebcc-4b34-a5e6-85de4ee8a25f1651146955557-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/08bc6d67-ebcc-4b34-a5e6-85de4ee8a25f1651146955557-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-3.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/098d9888-342d-4072-9f0f-3721fd95bfde1651146955538-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/098d9888-342d-4072-9f0f-3721fd95bfde1651146955538-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/28c7fa7e-56ee-4fa6-b6e4-d1adfd91dd0c1651146955497-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/28c7fa7e-56ee-4fa6-b6e4-d1adfd91dd0c1651146955497-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-6.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -2005,16 +2209,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1176382/2016/1/21/11453373804947-Sir-Corbett-Men-Formal-Shoes-4391453373804691-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1176382/2016/1/21/11453373804947-Sir-Corbett-Men-Formal-Shoes-4391453373804691-4.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1176382/2016/1/21/11453373804866-Sir-Corbett-Men-Formal-Shoes-4391453373804691-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1176382/2016/1/21/11453373804866-Sir-Corbett-Men-Formal-Shoes-4391453373804691-5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1176382/2016/1/21/11453373805022-Sir-Corbett-Men-Formal-Shoes-4391453373804691-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1176382/2016/1/21/11453373805022-Sir-Corbett-Men-Formal-Shoes-4391453373804691-3.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1176382/2016/1/21/11453373805098-Sir-Corbett-Men-Formal-Shoes-4391453373804691-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1176382/2016/1/21/11453373805098-Sir-Corbett-Men-Formal-Shoes-4391453373804691-2.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -2044,16 +2252,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/2349da8f-54c2-4376-aa55-7d22ebd9199b1658489173548-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/2349da8f-54c2-4376-aa55-7d22ebd9199b1658489173548-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/4ee9e023-b41b-49eb-92b6-41faaac5e3ca1658489173506-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/4ee9e023-b41b-49eb-92b6-41faaac5e3ca1658489173506-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/63f470a3-fe49-4c23-9a42-286e333f1f8c1658489173527-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/63f470a3-fe49-4c23-9a42-286e333f1f8c1658489173527-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-3.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/d5742d6d-5383-46e9-9dc6-9fa2a5ce22fc1658489173517-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/d5742d6d-5383-46e9-9dc6-9fa2a5ce22fc1658489173517-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-4.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -2083,16 +2295,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16274078/2023/2/27/5cb2e8e1-b6f2-44dc-b450-1ce41c379cbb1677495538142-Nike-Revolution-6-FlyEase-Next-Nature-Mens-Easy-OnOff-Road-R-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16274078/2023/2/27/5cb2e8e1-b6f2-44dc-b450-1ce41c379cbb1677495538142-Nike-Revolution-6-FlyEase-Next-Nature-Mens-Easy-OnOff-Road-R-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11980156/2022/8/12/b3e29bb3-083f-4d7a-97d9-d0f66ec0f3851660285290733-Nike-Men-Black-Revolution-5-Running-Shoes-9861660285290305-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11980156/2022/8/12/b3e29bb3-083f-4d7a-97d9-d0f66ec0f3851660285290733-Nike-Men-Black-Revolution-5-Running-Shoes-9861660285290305-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/63f470a3-fe49-4c23-9a42-286e333f1f8c1658489173527-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/63f470a3-fe49-4c23-9a42-286e333f1f8c1658489173527-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-3.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15384978/2023/5/23/c6c08c48-3adf-4131-8952-591f86b798dd1684834098306-Nike-Men-Grey-Revolution-5-Running-Shoes-791684834097933-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15384978/2023/5/23/c6c08c48-3adf-4131-8952-591f86b798dd1684834098306-Nike-Men-Grey-Revolution-5-Running-Shoes-791684834097933-1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -2122,16 +2338,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21274504/2023/10/19/06e62e60-bcac-4994-8674-618fea778aa81697706707893-Skechers-Men-Sports-Shoes-7141697706707645-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21274504/2023/10/19/06e62e60-bcac-4994-8674-618fea778aa81697706707893-Skechers-Men-Sports-Shoes-7141697706707645-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23864660/2023/8/21/14e85509-6cba-417a-9390-45eb205a8e071692612250861-Skechers-Men-Sports-Shoes-2531692612250539-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23864660/2023/8/21/14e85509-6cba-417a-9390-45eb205a8e071692612250861-Skechers-Men-Sports-Shoes-2531692612250539-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20129456/2023/8/3/2aa76e3a-1b46-4a70-8ca1-57fb8340e3811691051524435SkechersMenNavyBlueGOWALKWalkingNon-MarkingShoes6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20129456/2023/8/3/2aa76e3a-1b46-4a70-8ca1-57fb8340e3811691051524435SkechersMenNavyBlueGOWALKWalkingNon-MarkingShoes6.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20129456/2023/8/3/349fcb42-47d9-4506-9552-2896e3038e4b1691051524353SkechersMenNavyBlueGOWALKWalkingNon-MarkingShoes1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20129456/2023/8/3/349fcb42-47d9-4506-9552-2896e3038e4b1691051524353SkechersMenNavyBlueGOWALKWalkingNon-MarkingShoes1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -2161,16 +2381,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/052590c2-e52f-47c5-b923-d10ae0e91a8c1651146955518-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/052590c2-e52f-47c5-b923-d10ae0e91a8c1651146955518-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-5.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/08bc6d67-ebcc-4b34-a5e6-85de4ee8a25f1651146955557-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/08bc6d67-ebcc-4b34-a5e6-85de4ee8a25f1651146955557-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-3.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/098d9888-342d-4072-9f0f-3721fd95bfde1651146955538-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/098d9888-342d-4072-9f0f-3721fd95bfde1651146955538-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/28c7fa7e-56ee-4fa6-b6e4-d1adfd91dd0c1651146955497-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/28c7fa7e-56ee-4fa6-b6e4-d1adfd91dd0c1651146955497-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-6.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -2200,16 +2424,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1176382/2016/1/21/11453373804947-Sir-Corbett-Men-Formal-Shoes-4391453373804691-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1176382/2016/1/21/11453373804947-Sir-Corbett-Men-Formal-Shoes-4391453373804691-4.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1176382/2016/1/21/11453373804866-Sir-Corbett-Men-Formal-Shoes-4391453373804691-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1176382/2016/1/21/11453373804866-Sir-Corbett-Men-Formal-Shoes-4391453373804691-5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1176382/2016/1/21/11453373805022-Sir-Corbett-Men-Formal-Shoes-4391453373804691-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1176382/2016/1/21/11453373805022-Sir-Corbett-Men-Formal-Shoes-4391453373804691-3.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1176382/2016/1/21/11453373805098-Sir-Corbett-Men-Formal-Shoes-4391453373804691-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1176382/2016/1/21/11453373805098-Sir-Corbett-Men-Formal-Shoes-4391453373804691-2.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -2239,16 +2467,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/2349da8f-54c2-4376-aa55-7d22ebd9199b1658489173548-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/2349da8f-54c2-4376-aa55-7d22ebd9199b1658489173548-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/4ee9e023-b41b-49eb-92b6-41faaac5e3ca1658489173506-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/4ee9e023-b41b-49eb-92b6-41faaac5e3ca1658489173506-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/63f470a3-fe49-4c23-9a42-286e333f1f8c1658489173527-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/63f470a3-fe49-4c23-9a42-286e333f1f8c1658489173527-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-3.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/d5742d6d-5383-46e9-9dc6-9fa2a5ce22fc1658489173517-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/d5742d6d-5383-46e9-9dc6-9fa2a5ce22fc1658489173517-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-4.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -2278,16 +2510,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16274078/2023/2/27/5cb2e8e1-b6f2-44dc-b450-1ce41c379cbb1677495538142-Nike-Revolution-6-FlyEase-Next-Nature-Mens-Easy-OnOff-Road-R-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16274078/2023/2/27/5cb2e8e1-b6f2-44dc-b450-1ce41c379cbb1677495538142-Nike-Revolution-6-FlyEase-Next-Nature-Mens-Easy-OnOff-Road-R-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11980156/2022/8/12/b3e29bb3-083f-4d7a-97d9-d0f66ec0f3851660285290733-Nike-Men-Black-Revolution-5-Running-Shoes-9861660285290305-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11980156/2022/8/12/b3e29bb3-083f-4d7a-97d9-d0f66ec0f3851660285290733-Nike-Men-Black-Revolution-5-Running-Shoes-9861660285290305-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/63f470a3-fe49-4c23-9a42-286e333f1f8c1658489173527-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/63f470a3-fe49-4c23-9a42-286e333f1f8c1658489173527-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-3.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15384978/2023/5/23/c6c08c48-3adf-4131-8952-591f86b798dd1684834098306-Nike-Men-Grey-Revolution-5-Running-Shoes-791684834097933-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15384978/2023/5/23/c6c08c48-3adf-4131-8952-591f86b798dd1684834098306-Nike-Men-Grey-Revolution-5-Running-Shoes-791684834097933-1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -2317,16 +2553,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21274504/2023/10/19/06e62e60-bcac-4994-8674-618fea778aa81697706707893-Skechers-Men-Sports-Shoes-7141697706707645-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21274504/2023/10/19/06e62e60-bcac-4994-8674-618fea778aa81697706707893-Skechers-Men-Sports-Shoes-7141697706707645-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23864660/2023/8/21/14e85509-6cba-417a-9390-45eb205a8e071692612250861-Skechers-Men-Sports-Shoes-2531692612250539-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23864660/2023/8/21/14e85509-6cba-417a-9390-45eb205a8e071692612250861-Skechers-Men-Sports-Shoes-2531692612250539-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20129456/2023/8/3/2aa76e3a-1b46-4a70-8ca1-57fb8340e3811691051524435SkechersMenNavyBlueGOWALKWalkingNon-MarkingShoes6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20129456/2023/8/3/2aa76e3a-1b46-4a70-8ca1-57fb8340e3811691051524435SkechersMenNavyBlueGOWALKWalkingNon-MarkingShoes6.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20129456/2023/8/3/349fcb42-47d9-4506-9552-2896e3038e4b1691051524353SkechersMenNavyBlueGOWALKWalkingNon-MarkingShoes1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20129456/2023/8/3/349fcb42-47d9-4506-9552-2896e3038e4b1691051524353SkechersMenNavyBlueGOWALKWalkingNon-MarkingShoes1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -2356,16 +2596,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10673544/2019/9/24/0c876b8b-6633-4577-aa3f-89a64d0651e81569310358890-The-Indian-Garage-Co-Men-Shirts-8481569310357131-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10673544/2019/9/24/0c876b8b-6633-4577-aa3f-89a64d0651e81569310358890-The-Indian-Garage-Co-Men-Shirts-8481569310357131-4.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11780934/2020/4/3/1ed79c22-68b5-491a-b673-e91e4411d8aa1585905063620HIGHLANDERMenOliveGreenBlackSlimFitCheckedCasualShirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11780934/2020/4/3/1ed79c22-68b5-491a-b673-e91e4411d8aa1585905063620HIGHLANDERMenOliveGreenBlackSlimFitCheckedCasualShirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2050688/2018/2/5/11517823120338-HIGHLANDER-Men-White-Slim-Fit-Solid-Casual-Shirt-5911517823120124-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2050688/2018/2/5/11517823120338-HIGHLANDER-Men-White-Slim-Fit-Solid-Casual-Shirt-5911517823120124-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10673544/2019/9/24/0c876b8b-6633-4577-aa3f-89a64d0651e81569310358890-The-Indian-Garage-Co-Men-Shirts-8481569310357131-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10673544/2019/9/24/0c876b8b-6633-4577-aa3f-89a64d0651e81569310358890-The-Indian-Garage-Co-Men-Shirts-8481569310357131-4.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -2395,16 +2639,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19818628/2022/9/6/109d9694-6a4f-4cba-99a0-134c5597f6dd1662468109196Shirts6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19818628/2022/9/6/109d9694-6a4f-4cba-99a0-134c5597f6dd1662468109196Shirts6.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10673544/2019/9/24/729859d8-cc66-4465-ba81-27028b9d7a461569310358945-The-Indian-Garage-Co-Men-Shirts-8481569310357131-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10673544/2019/9/24/729859d8-cc66-4465-ba81-27028b9d7a461569310358945-The-Indian-Garage-Co-Men-Shirts-8481569310357131-2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10673544/2019/9/24/66eb9c68-a2d9-41b1-8016-cf769e78d3a11569310358918-The-Indian-Garage-Co-Men-Shirts-8481569310357131-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10673544/2019/9/24/66eb9c68-a2d9-41b1-8016-cf769e78d3a11569310358918-The-Indian-Garage-Co-Men-Shirts-8481569310357131-3.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19818628/2022/9/6/380dfa31-097e-435a-bebb-b9e887be1e841662468109153Shirts2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19818628/2022/9/6/380dfa31-097e-435a-bebb-b9e887be1e841662468109153Shirts2.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -2434,16 +2682,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17091614/2022/2/18/89751452-7901-4797-91cc-1509f6f50b901645166457315-Men-White-Casual-Shirt-5731645166456476-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17091614/2022/2/18/89751452-7901-4797-91cc-1509f6f50b901645166457315-Men-White-Casual-Shirt-5731645166456476-2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17091614/2022/2/18/8b1c6271-c898-49ad-a3d9-fa52981670bb1645166457291-Men-White-Casual-Shirt-5731645166456476-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17091614/2022/2/18/8b1c6271-c898-49ad-a3d9-fa52981670bb1645166457291-Men-White-Casual-Shirt-5731645166456476-5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17091614/2022/2/18/8b1c6271-c898-49ad-a3d9-fa52981670bb1645166457291-Men-White-Casual-Shirt-5731645166456476-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17091614/2022/2/18/8b1c6271-c898-49ad-a3d9-fa52981670bb1645166457291-Men-White-Casual-Shirt-5731645166456476-5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17091614/2022/2/18/6a1a9bd6-e84f-4d30-9dd5-d387c12a1a381645166457282-Men-White-Casual-Shirt-5731645166456476-6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17091614/2022/2/18/6a1a9bd6-e84f-4d30-9dd5-d387c12a1a381645166457282-Men-White-Casual-Shirt-5731645166456476-6.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -2473,16 +2725,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11896034/2020/7/14/9f4ade1b-a32f-43c0-858e-54db87b230e51594707573508-Roadster-Men-Shirts-261594707571643-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11896034/2020/7/14/9f4ade1b-a32f-43c0-858e-54db87b230e51594707573508-Roadster-Men-Shirts-261594707571643-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/6714923/2019/3/6/9f8c54c1-4719-4083-89a0-59a61cb7059a1551863812157-Dennis-Lingo-Men-Black-Slim-Fit-Solid-Casual-Shirt-473155186-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/6714923/2019/3/6/9f8c54c1-4719-4083-89a0-59a61cb7059a1551863812157-Dennis-Lingo-Men-Black-Slim-Fit-Solid-Casual-Shirt-473155186-2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19818628/2022/9/6/a220065c-d663-428f-b254-1acf3918de7a1662468109163Shirts7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19818628/2022/9/6/a220065c-d663-428f-b254-1acf3918de7a1662468109163Shirts7.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19818628/2022/9/6/b979e23f-7e6b-40bb-a76d-0352d8568ed91662468109204Shirts5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19818628/2022/9/6/b979e23f-7e6b-40bb-a76d-0352d8568ed91662468109204Shirts5.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -2512,16 +2768,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25591256/2023/10/23/05b97e0f-8e94-4f6a-b289-02752a95a18b1698032267460FarahMenNavyBlueSlimFitTartanChecksOpaqueCheckedFormalShirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25591256/2023/10/23/05b97e0f-8e94-4f6a-b289-02752a95a18b1698032267460FarahMenNavyBlueSlimFitTartanChecksOpaqueCheckedFormalShirt1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25591256/2023/10/23/42b553e6-08f5-4ef6-bb8f-adf64888f3021698032267488FarahMenNavyBlueSlimFitTartanChecksOpaqueCheckedFormalShirt2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25591256/2023/10/23/42b553e6-08f5-4ef6-bb8f-adf64888f3021698032267488FarahMenNavyBlueSlimFitTartanChecksOpaqueCheckedFormalShirt2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25591256/2023/10/23/4655237f-b9cc-4c70-959e-83d4b54c24421698032267467FarahMenNavyBlueSlimFitTartanChecksOpaqueCheckedFormalShirt5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25591256/2023/10/23/4655237f-b9cc-4c70-959e-83d4b54c24421698032267467FarahMenNavyBlueSlimFitTartanChecksOpaqueCheckedFormalShirt5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25591256/2023/10/23/8119bd19-7df1-4500-9dd7-8acf2f24a9671698032267502FarahMenNavyBlueSlimFitTartanChecksOpaqueCheckedFormalShirt4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25591256/2023/10/23/8119bd19-7df1-4500-9dd7-8acf2f24a9671698032267502FarahMenNavyBlueSlimFitTartanChecksOpaqueCheckedFormalShirt4.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -2551,16 +2811,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25591858/2023/10/23/31e20449-aa52-4c59-b826-56bf2b16b8bc1698035948702FarahMenSweaters2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25591858/2023/10/23/31e20449-aa52-4c59-b826-56bf2b16b8bc1698035948702FarahMenSweaters2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25591858/2023/10/23/118bdf67-87a8-4883-8b48-450268b3d5821698035948722FarahMenSweaters1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25591858/2023/10/23/118bdf67-87a8-4883-8b48-450268b3d5821698035948722FarahMenSweaters1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24467152/2023/8/12/863d3319-25cd-40f8-b66c-4bda865ba62f1691785710355FarahMenBlackSlimFitOpaqueCasualShirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24467152/2023/8/12/863d3319-25cd-40f8-b66c-4bda865ba62f1691785710355FarahMenBlackSlimFitOpaqueCasualShirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25591858/2023/10/23/ddec8238-64aa-47c9-9091-1a396d5251be1698035948709FarahMenSweaters5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25591858/2023/10/23/ddec8238-64aa-47c9-9091-1a396d5251be1698035948709FarahMenSweaters5.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -2590,16 +2854,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/5575d65a-191e-42b6-a99f-65c1445ca2631696847762946FredPerryMenBlackSweatshirt6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/5575d65a-191e-42b6-a99f-65c1445ca2631696847762946FredPerryMenBlackSweatshirt6.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/55c41913-bd26-42e6-b247-712da7045a601696847762903FredPerryMenBlackSweatshirt5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/55c41913-bd26-42e6-b247-712da7045a601696847762903FredPerryMenBlackSweatshirt5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/58b22565-25de-485a-a913-5cd37520ee901696847762932FredPerryMenBlackSweatshirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/58b22565-25de-485a-a913-5cd37520ee901696847762932FredPerryMenBlackSweatshirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25592020/2023/10/23/3bcbdfa7-379d-4800-a66e-e071f9213b701698056258165PoloRalphLaurenMenHybridMandarinCollarBomberJacket1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25592020/2023/10/23/3bcbdfa7-379d-4800-a66e-e071f9213b701698056258165PoloRalphLaurenMenHybridMandarinCollarBomberJacket1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -2629,16 +2897,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17094604/2022/5/6/1382e6de-9bb5-401b-a2cc-a67eeb33bf4c1651828652325HouseofPataudiWomenGreenFloralEmbroideredThreadWorkRozanaKur5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17094604/2022/5/6/1382e6de-9bb5-401b-a2cc-a67eeb33bf4c1651828652325HouseofPataudiWomenGreenFloralEmbroideredThreadWorkRozanaKur5.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/259847d9-b265-4033-aa73-f582f932236c1662462556175-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/259847d9-b265-4033-aa73-f582f932236c1662462556175-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/3934132b-1bb1-4a94-9dbc-7338e557a5261662462556113-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-11.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/3934132b-1bb1-4a94-9dbc-7338e557a5261662462556113-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-11.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/50b4010a-fc28-48c7-8a47-7bdc014badd11662462556164-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/50b4010a-fc28-48c7-8a47-7bdc014badd11662462556164-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-3.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -2668,16 +2940,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/4e18a1fa-6c0e-4907-8556-53eae6727b311661330892044-Kurta-Pyjama-Set-2971661330890568-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/4e18a1fa-6c0e-4907-8556-53eae6727b311661330892044-Kurta-Pyjama-Set-2971661330890568-4.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/5f94e183-c1c9-4fc4-a4d9-95202fbb08311662462556154-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/5f94e183-c1c9-4fc4-a4d9-95202fbb08311662462556154-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/3a7857ce-cdf8-435c-beae-19c9754292561661330892025-Kurta-Pyjama-Set-2971661330890568-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/3a7857ce-cdf8-435c-beae-19c9754292561661330892025-Kurta-Pyjama-Set-2971661330890568-5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/4316aee6-fb09-40f1-b1e3-3ccf2d38112b1661330891986-Kurta-Pyjama-Set-2971661330890568-7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/4316aee6-fb09-40f1-b1e3-3ccf2d38112b1661330891986-Kurta-Pyjama-Set-2971661330890568-7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -2707,16 +2983,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17742094/2022/8/2/78611de8-33db-4716-94d3-76840ed796a71659427846480-Anouk-Men-Kurta-Sets-9641659427845827-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17742094/2022/8/2/78611de8-33db-4716-94d3-76840ed796a71659427846480-Anouk-Men-Kurta-Sets-9641659427845827-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/912ec3c3-6677-4df0-8594-8274b46bc1a31661330892006-Kurta-Pyjama-Set-2971661330890568-6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/912ec3c3-6677-4df0-8594-8274b46bc1a31661330892006-Kurta-Pyjama-Set-2971661330890568-6.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/aa629ed9-0e91-4729-a12f-cbc5e6f6264c1661330892086-Kurta-Pyjama-Set-2971661330890568-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/aa629ed9-0e91-4729-a12f-cbc5e6f6264c1661330892086-Kurta-Pyjama-Set-2971661330890568-2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/fbd5a6dd-2f67-48fc-9341-72f91acca09b1661330892106-Kurta-Pyjama-Set-2971661330890568-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/fbd5a6dd-2f67-48fc-9341-72f91acca09b1661330892106-Kurta-Pyjama-Set-2971661330890568-1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -2746,16 +3026,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/4e18a1fa-6c0e-4907-8556-53eae6727b311661330892044-Kurta-Pyjama-Set-2971661330890568-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/4e18a1fa-6c0e-4907-8556-53eae6727b311661330892044-Kurta-Pyjama-Set-2971661330890568-4.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/5f94e183-c1c9-4fc4-a4d9-95202fbb08311662462556154-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/5f94e183-c1c9-4fc4-a4d9-95202fbb08311662462556154-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/3a7857ce-cdf8-435c-beae-19c9754292561661330892025-Kurta-Pyjama-Set-2971661330890568-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/3a7857ce-cdf8-435c-beae-19c9754292561661330892025-Kurta-Pyjama-Set-2971661330890568-5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/4316aee6-fb09-40f1-b1e3-3ccf2d38112b1661330891986-Kurta-Pyjama-Set-2971661330890568-7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/4316aee6-fb09-40f1-b1e3-3ccf2d38112b1661330891986-Kurta-Pyjama-Set-2971661330890568-7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -2785,16 +3069,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17094604/2022/5/6/1382e6de-9bb5-401b-a2cc-a67eeb33bf4c1651828652325HouseofPataudiWomenGreenFloralEmbroideredThreadWorkRozanaKur5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17094604/2022/5/6/1382e6de-9bb5-401b-a2cc-a67eeb33bf4c1651828652325HouseofPataudiWomenGreenFloralEmbroideredThreadWorkRozanaKur5.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/259847d9-b265-4033-aa73-f582f932236c1662462556175-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/259847d9-b265-4033-aa73-f582f932236c1662462556175-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/3934132b-1bb1-4a94-9dbc-7338e557a5261662462556113-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-11.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/3934132b-1bb1-4a94-9dbc-7338e557a5261662462556113-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-11.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/50b4010a-fc28-48c7-8a47-7bdc014badd11662462556164-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/50b4010a-fc28-48c7-8a47-7bdc014badd11662462556164-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-3.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -2824,16 +3112,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/5575d65a-191e-42b6-a99f-65c1445ca2631696847762946FredPerryMenBlackSweatshirt6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/5575d65a-191e-42b6-a99f-65c1445ca2631696847762946FredPerryMenBlackSweatshirt6.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/55c41913-bd26-42e6-b247-712da7045a601696847762903FredPerryMenBlackSweatshirt5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/55c41913-bd26-42e6-b247-712da7045a601696847762903FredPerryMenBlackSweatshirt5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/58b22565-25de-485a-a913-5cd37520ee901696847762932FredPerryMenBlackSweatshirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25406746/2023/10/9/58b22565-25de-485a-a913-5cd37520ee901696847762932FredPerryMenBlackSweatshirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25592020/2023/10/23/3bcbdfa7-379d-4800-a66e-e071f9213b701698056258165PoloRalphLaurenMenHybridMandarinCollarBomberJacket1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25592020/2023/10/23/3bcbdfa7-379d-4800-a66e-e071f9213b701698056258165PoloRalphLaurenMenHybridMandarinCollarBomberJacket1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -2863,16 +3155,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25591256/2023/10/23/05b97e0f-8e94-4f6a-b289-02752a95a18b1698032267460FarahMenNavyBlueSlimFitTartanChecksOpaqueCheckedFormalShirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25591256/2023/10/23/05b97e0f-8e94-4f6a-b289-02752a95a18b1698032267460FarahMenNavyBlueSlimFitTartanChecksOpaqueCheckedFormalShirt1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25591256/2023/10/23/42b553e6-08f5-4ef6-bb8f-adf64888f3021698032267488FarahMenNavyBlueSlimFitTartanChecksOpaqueCheckedFormalShirt2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25591256/2023/10/23/42b553e6-08f5-4ef6-bb8f-adf64888f3021698032267488FarahMenNavyBlueSlimFitTartanChecksOpaqueCheckedFormalShirt2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25591256/2023/10/23/4655237f-b9cc-4c70-959e-83d4b54c24421698032267467FarahMenNavyBlueSlimFitTartanChecksOpaqueCheckedFormalShirt5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25591256/2023/10/23/4655237f-b9cc-4c70-959e-83d4b54c24421698032267467FarahMenNavyBlueSlimFitTartanChecksOpaqueCheckedFormalShirt5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25591256/2023/10/23/8119bd19-7df1-4500-9dd7-8acf2f24a9671698032267502FarahMenNavyBlueSlimFitTartanChecksOpaqueCheckedFormalShirt4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25591256/2023/10/23/8119bd19-7df1-4500-9dd7-8acf2f24a9671698032267502FarahMenNavyBlueSlimFitTartanChecksOpaqueCheckedFormalShirt4.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -2902,16 +3198,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17091614/2022/2/18/89751452-7901-4797-91cc-1509f6f50b901645166457315-Men-White-Casual-Shirt-5731645166456476-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17091614/2022/2/18/89751452-7901-4797-91cc-1509f6f50b901645166457315-Men-White-Casual-Shirt-5731645166456476-2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17091614/2022/2/18/8b1c6271-c898-49ad-a3d9-fa52981670bb1645166457291-Men-White-Casual-Shirt-5731645166456476-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17091614/2022/2/18/8b1c6271-c898-49ad-a3d9-fa52981670bb1645166457291-Men-White-Casual-Shirt-5731645166456476-5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17091614/2022/2/18/8b1c6271-c898-49ad-a3d9-fa52981670bb1645166457291-Men-White-Casual-Shirt-5731645166456476-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17091614/2022/2/18/8b1c6271-c898-49ad-a3d9-fa52981670bb1645166457291-Men-White-Casual-Shirt-5731645166456476-5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17091614/2022/2/18/6a1a9bd6-e84f-4d30-9dd5-d387c12a1a381645166457282-Men-White-Casual-Shirt-5731645166456476-6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17091614/2022/2/18/6a1a9bd6-e84f-4d30-9dd5-d387c12a1a381645166457282-Men-White-Casual-Shirt-5731645166456476-6.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -2941,16 +3241,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17094604/2022/5/6/1382e6de-9bb5-401b-a2cc-a67eeb33bf4c1651828652325HouseofPataudiWomenGreenFloralEmbroideredThreadWorkRozanaKur5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17094604/2022/5/6/1382e6de-9bb5-401b-a2cc-a67eeb33bf4c1651828652325HouseofPataudiWomenGreenFloralEmbroideredThreadWorkRozanaKur5.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/259847d9-b265-4033-aa73-f582f932236c1662462556175-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/259847d9-b265-4033-aa73-f582f932236c1662462556175-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/3934132b-1bb1-4a94-9dbc-7338e557a5261662462556113-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-11.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/3934132b-1bb1-4a94-9dbc-7338e557a5261662462556113-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-11.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/50b4010a-fc28-48c7-8a47-7bdc014badd11662462556164-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/50b4010a-fc28-48c7-8a47-7bdc014badd11662462556164-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-3.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -2980,16 +3284,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/4e18a1fa-6c0e-4907-8556-53eae6727b311661330892044-Kurta-Pyjama-Set-2971661330890568-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/4e18a1fa-6c0e-4907-8556-53eae6727b311661330892044-Kurta-Pyjama-Set-2971661330890568-4.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/5f94e183-c1c9-4fc4-a4d9-95202fbb08311662462556154-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/5f94e183-c1c9-4fc4-a4d9-95202fbb08311662462556154-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/3a7857ce-cdf8-435c-beae-19c9754292561661330892025-Kurta-Pyjama-Set-2971661330890568-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/3a7857ce-cdf8-435c-beae-19c9754292561661330892025-Kurta-Pyjama-Set-2971661330890568-5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/4316aee6-fb09-40f1-b1e3-3ccf2d38112b1661330891986-Kurta-Pyjama-Set-2971661330890568-7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/4316aee6-fb09-40f1-b1e3-3ccf2d38112b1661330891986-Kurta-Pyjama-Set-2971661330890568-7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -3019,16 +3327,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/4e18a1fa-6c0e-4907-8556-53eae6727b311661330892044-Kurta-Pyjama-Set-2971661330890568-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/4e18a1fa-6c0e-4907-8556-53eae6727b311661330892044-Kurta-Pyjama-Set-2971661330890568-4.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/5f94e183-c1c9-4fc4-a4d9-95202fbb08311662462556154-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/5f94e183-c1c9-4fc4-a4d9-95202fbb08311662462556154-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/3a7857ce-cdf8-435c-beae-19c9754292561661330892025-Kurta-Pyjama-Set-2971661330890568-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/3a7857ce-cdf8-435c-beae-19c9754292561661330892025-Kurta-Pyjama-Set-2971661330890568-5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/4316aee6-fb09-40f1-b1e3-3ccf2d38112b1661330891986-Kurta-Pyjama-Set-2971661330890568-7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/4316aee6-fb09-40f1-b1e3-3ccf2d38112b1661330891986-Kurta-Pyjama-Set-2971661330890568-7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -3058,16 +3370,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17094604/2022/5/6/1382e6de-9bb5-401b-a2cc-a67eeb33bf4c1651828652325HouseofPataudiWomenGreenFloralEmbroideredThreadWorkRozanaKur5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17094604/2022/5/6/1382e6de-9bb5-401b-a2cc-a67eeb33bf4c1651828652325HouseofPataudiWomenGreenFloralEmbroideredThreadWorkRozanaKur5.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/259847d9-b265-4033-aa73-f582f932236c1662462556175-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/259847d9-b265-4033-aa73-f582f932236c1662462556175-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/3934132b-1bb1-4a94-9dbc-7338e557a5261662462556113-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-11.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/3934132b-1bb1-4a94-9dbc-7338e557a5261662462556113-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-11.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/50b4010a-fc28-48c7-8a47-7bdc014badd11662462556164-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/50b4010a-fc28-48c7-8a47-7bdc014badd11662462556164-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-3.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -3097,16 +3413,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/4e18a1fa-6c0e-4907-8556-53eae6727b311661330892044-Kurta-Pyjama-Set-2971661330890568-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/4e18a1fa-6c0e-4907-8556-53eae6727b311661330892044-Kurta-Pyjama-Set-2971661330890568-4.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/5f94e183-c1c9-4fc4-a4d9-95202fbb08311662462556154-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/5f94e183-c1c9-4fc4-a4d9-95202fbb08311662462556154-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/3a7857ce-cdf8-435c-beae-19c9754292561661330892025-Kurta-Pyjama-Set-2971661330890568-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/3a7857ce-cdf8-435c-beae-19c9754292561661330892025-Kurta-Pyjama-Set-2971661330890568-5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/4316aee6-fb09-40f1-b1e3-3ccf2d38112b1661330891986-Kurta-Pyjama-Set-2971661330890568-7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/4316aee6-fb09-40f1-b1e3-3ccf2d38112b1661330891986-Kurta-Pyjama-Set-2971661330890568-7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -3136,16 +3456,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17094604/2022/5/6/1382e6de-9bb5-401b-a2cc-a67eeb33bf4c1651828652325HouseofPataudiWomenGreenFloralEmbroideredThreadWorkRozanaKur5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17094604/2022/5/6/1382e6de-9bb5-401b-a2cc-a67eeb33bf4c1651828652325HouseofPataudiWomenGreenFloralEmbroideredThreadWorkRozanaKur5.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/259847d9-b265-4033-aa73-f582f932236c1662462556175-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/259847d9-b265-4033-aa73-f582f932236c1662462556175-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/3934132b-1bb1-4a94-9dbc-7338e557a5261662462556113-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-11.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/3934132b-1bb1-4a94-9dbc-7338e557a5261662462556113-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-11.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/50b4010a-fc28-48c7-8a47-7bdc014badd11662462556164-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/50b4010a-fc28-48c7-8a47-7bdc014badd11662462556164-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-3.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -3175,16 +3499,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/4e18a1fa-6c0e-4907-8556-53eae6727b311661330892044-Kurta-Pyjama-Set-2971661330890568-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/4e18a1fa-6c0e-4907-8556-53eae6727b311661330892044-Kurta-Pyjama-Set-2971661330890568-4.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/5f94e183-c1c9-4fc4-a4d9-95202fbb08311662462556154-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/5f94e183-c1c9-4fc4-a4d9-95202fbb08311662462556154-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/3a7857ce-cdf8-435c-beae-19c9754292561661330892025-Kurta-Pyjama-Set-2971661330890568-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/3a7857ce-cdf8-435c-beae-19c9754292561661330892025-Kurta-Pyjama-Set-2971661330890568-5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/4316aee6-fb09-40f1-b1e3-3ccf2d38112b1661330891986-Kurta-Pyjama-Set-2971661330890568-7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/4316aee6-fb09-40f1-b1e3-3ccf2d38112b1661330891986-Kurta-Pyjama-Set-2971661330890568-7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -3214,16 +3542,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/4e18a1fa-6c0e-4907-8556-53eae6727b311661330892044-Kurta-Pyjama-Set-2971661330890568-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/4e18a1fa-6c0e-4907-8556-53eae6727b311661330892044-Kurta-Pyjama-Set-2971661330890568-4.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/5f94e183-c1c9-4fc4-a4d9-95202fbb08311662462556154-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/5f94e183-c1c9-4fc4-a4d9-95202fbb08311662462556154-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/3a7857ce-cdf8-435c-beae-19c9754292561661330892025-Kurta-Pyjama-Set-2971661330890568-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/3a7857ce-cdf8-435c-beae-19c9754292561661330892025-Kurta-Pyjama-Set-2971661330890568-5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/4316aee6-fb09-40f1-b1e3-3ccf2d38112b1661330891986-Kurta-Pyjama-Set-2971661330890568-7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/4316aee6-fb09-40f1-b1e3-3ccf2d38112b1661330891986-Kurta-Pyjama-Set-2971661330890568-7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -3253,16 +3585,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/4e18a1fa-6c0e-4907-8556-53eae6727b311661330892044-Kurta-Pyjama-Set-2971661330890568-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/4e18a1fa-6c0e-4907-8556-53eae6727b311661330892044-Kurta-Pyjama-Set-2971661330890568-4.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/5f94e183-c1c9-4fc4-a4d9-95202fbb08311662462556154-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/5f94e183-c1c9-4fc4-a4d9-95202fbb08311662462556154-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/3a7857ce-cdf8-435c-beae-19c9754292561661330892025-Kurta-Pyjama-Set-2971661330890568-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/3a7857ce-cdf8-435c-beae-19c9754292561661330892025-Kurta-Pyjama-Set-2971661330890568-5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/4316aee6-fb09-40f1-b1e3-3ccf2d38112b1661330891986-Kurta-Pyjama-Set-2971661330890568-7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19494072/2022/8/24/4316aee6-fb09-40f1-b1e3-3ccf2d38112b1661330891986-Kurta-Pyjama-Set-2971661330890568-7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -3292,16 +3628,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17094604/2022/5/6/1382e6de-9bb5-401b-a2cc-a67eeb33bf4c1651828652325HouseofPataudiWomenGreenFloralEmbroideredThreadWorkRozanaKur5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17094604/2022/5/6/1382e6de-9bb5-401b-a2cc-a67eeb33bf4c1651828652325HouseofPataudiWomenGreenFloralEmbroideredThreadWorkRozanaKur5.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/259847d9-b265-4033-aa73-f582f932236c1662462556175-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/259847d9-b265-4033-aa73-f582f932236c1662462556175-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-2.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/3934132b-1bb1-4a94-9dbc-7338e557a5261662462556113-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-11.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/3934132b-1bb1-4a94-9dbc-7338e557a5261662462556113-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-11.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/50b4010a-fc28-48c7-8a47-7bdc014badd11662462556164-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/50b4010a-fc28-48c7-8a47-7bdc014badd11662462556164-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-3.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -3333,16 +3673,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/22855566/2023/4/21/91ca4cfe-107b-4cca-b3dc-218520583a7e1682085025605Jeans1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/22855566/2023/4/21/91ca4cfe-107b-4cca-b3dc-218520583a7e1682085025605Jeans1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/13823708/2022/10/19/398d64b2-096b-4a41-9ee9-95c005fc4db01666156159187-Urbano-Fashion-Men-Black-Slim-Fit-Mid-Rise-Clean-Look-Stretc-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/13823708/2022/10/19/398d64b2-096b-4a41-9ee9-95c005fc4db01666156159187-Urbano-Fashion-Men-Black-Slim-Fit-Mid-Rise-Clean-Look-Stretc-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24870656/2023/9/19/58d58017-899e-41b0-bb8c-1d180cc3f3b21695115483900-Roadster-Men-Jeans-7531695115483281-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24870656/2023/9/19/58d58017-899e-41b0-bb8c-1d180cc3f3b21695115483900-Roadster-Men-Jeans-7531695115483281-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20914488/2022/12/3/6477718b-c8da-4dab-ad9d-42074feee0c81670061951381-The-Indian-Garage-Co-Men-Jeans-2651670061950630-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20914488/2022/12/3/6477718b-c8da-4dab-ad9d-42074feee0c81670061951381-The-Indian-Garage-Co-Men-Jeans-2651670061950630-1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -3372,16 +3716,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/412914a8-2c8c-4d27-beef-55c1f493b2ad1664184881755KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/412914a8-2c8c-4d27-beef-55c1f493b2ad1664184881755KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans3.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/412914a8-2c8c-4d27-beef-55c1f493b2ad1664184881755KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/412914a8-2c8c-4d27-beef-55c1f493b2ad1664184881755KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans3.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/4712050f-e277-46bb-97f3-00621f4c5b261675227319618-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/4712050f-e277-46bb-97f3-00621f4c5b261675227319618-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-6.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/4712050f-e277-46bb-97f3-00621f4c5b261675227319618-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/4712050f-e277-46bb-97f3-00621f4c5b261675227319618-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-6.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -3411,16 +3759,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/62cc7dc5-65b0-4b74-81b8-331412fefc881664184881824KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/62cc7dc5-65b0-4b74-81b8-331412fefc881664184881824KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans6.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20914488/2022/12/3/6477718b-c8da-4dab-ad9d-42074feee0c81670061951381-The-Indian-Garage-Co-Men-Jeans-2651670061950630-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20914488/2022/12/3/6477718b-c8da-4dab-ad9d-42074feee0c81670061951381-The-Indian-Garage-Co-Men-Jeans-2651670061950630-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/7cdb85c4-89df-497c-832a-cce977802dea1664184881802KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/7cdb85c4-89df-497c-832a-cce977802dea1664184881802KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/98757999-d950-4e16-97df-89715ed45b191675227319665-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/98757999-d950-4e16-97df-89715ed45b191675227319665-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-3.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -3450,16 +3802,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17317910/2022/3/9/9b2eb159-a57f-4e05-aa48-96f5ee288fa01646816598107-The-Indian-Garage-Co-Men-Jeans-121646816597500-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17317910/2022/3/9/9b2eb159-a57f-4e05-aa48-96f5ee288fa01646816598107-The-Indian-Garage-Co-Men-Jeans-121646816597500-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/a7df70d6-e8bc-466e-9269-7726f5bc516b1675227319697-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/a7df70d6-e8bc-466e-9269-7726f5bc516b1675227319697-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/ab76b765-da7f-4a49-9d4b-8d74dc7012711664184881777KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/ab76b765-da7f-4a49-9d4b-8d74dc7012711664184881777KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/b1d438d4-e074-4926-a7a5-c644890f4e1a1675227319634-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/b1d438d4-e074-4926-a7a5-c644890f4e1a1675227319634-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-5.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -3489,16 +3845,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/b4ce5643-b112-406e-8328-2a1a8d25e7fa1675227319683-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/b4ce5643-b112-406e-8328-2a1a8d25e7fa1675227319683-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11962080/2022/11/24/bd856d53-fc8d-40c7-8183-dc5d97329ee01669290098459TheIndianGarageCoMenGreySlimFitMid-RiseCleanLookJeans1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11962080/2022/11/24/bd856d53-fc8d-40c7-8183-dc5d97329ee01669290098459TheIndianGarageCoMenGreySlimFitMid-RiseCleanLookJeans1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/c874faa2-2611-4cb8-946e-abe1e4e7f6ae1675227319650-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/c874faa2-2611-4cb8-946e-abe1e4e7f6ae1675227319650-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/ce7f73e1-685f-45ea-ac06-473768c9f5b81664184881708KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/ce7f73e1-685f-45ea-ac06-473768c9f5b81664184881708KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -3528,16 +3888,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/13823708/2022/10/19/398d64b2-096b-4a41-9ee9-95c005fc4db01666156159187-Urbano-Fashion-Men-Black-Slim-Fit-Mid-Rise-Clean-Look-Stretc-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/13823708/2022/10/19/398d64b2-096b-4a41-9ee9-95c005fc4db01666156159187-Urbano-Fashion-Men-Black-Slim-Fit-Mid-Rise-Clean-Look-Stretc-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24870656/2023/9/19/58d58017-899e-41b0-bb8c-1d180cc3f3b21695115483900-Roadster-Men-Jeans-7531695115483281-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24870656/2023/9/19/58d58017-899e-41b0-bb8c-1d180cc3f3b21695115483900-Roadster-Men-Jeans-7531695115483281-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20914488/2022/12/3/6477718b-c8da-4dab-ad9d-42074feee0c81670061951381-The-Indian-Garage-Co-Men-Jeans-2651670061950630-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20914488/2022/12/3/6477718b-c8da-4dab-ad9d-42074feee0c81670061951381-The-Indian-Garage-Co-Men-Jeans-2651670061950630-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/22855566/2023/4/21/91ca4cfe-107b-4cca-b3dc-218520583a7e1682085025605Jeans1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/22855566/2023/4/21/91ca4cfe-107b-4cca-b3dc-218520583a7e1682085025605Jeans1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -3567,16 +3931,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/b4ce5643-b112-406e-8328-2a1a8d25e7fa1675227319683-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/b4ce5643-b112-406e-8328-2a1a8d25e7fa1675227319683-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11962080/2022/11/24/bd856d53-fc8d-40c7-8183-dc5d97329ee01669290098459TheIndianGarageCoMenGreySlimFitMid-RiseCleanLookJeans1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11962080/2022/11/24/bd856d53-fc8d-40c7-8183-dc5d97329ee01669290098459TheIndianGarageCoMenGreySlimFitMid-RiseCleanLookJeans1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/c874faa2-2611-4cb8-946e-abe1e4e7f6ae1675227319650-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/c874faa2-2611-4cb8-946e-abe1e4e7f6ae1675227319650-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/ce7f73e1-685f-45ea-ac06-473768c9f5b81664184881708KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/ce7f73e1-685f-45ea-ac06-473768c9f5b81664184881708KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -3606,16 +3974,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17317910/2022/3/9/9b2eb159-a57f-4e05-aa48-96f5ee288fa01646816598107-The-Indian-Garage-Co-Men-Jeans-121646816597500-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17317910/2022/3/9/9b2eb159-a57f-4e05-aa48-96f5ee288fa01646816598107-The-Indian-Garage-Co-Men-Jeans-121646816597500-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/a7df70d6-e8bc-466e-9269-7726f5bc516b1675227319697-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/a7df70d6-e8bc-466e-9269-7726f5bc516b1675227319697-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/ab76b765-da7f-4a49-9d4b-8d74dc7012711664184881777KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/ab76b765-da7f-4a49-9d4b-8d74dc7012711664184881777KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/b1d438d4-e074-4926-a7a5-c644890f4e1a1675227319634-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/b1d438d4-e074-4926-a7a5-c644890f4e1a1675227319634-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-5.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -3645,16 +4017,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/13823708/2022/10/19/398d64b2-096b-4a41-9ee9-95c005fc4db01666156159187-Urbano-Fashion-Men-Black-Slim-Fit-Mid-Rise-Clean-Look-Stretc-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/13823708/2022/10/19/398d64b2-096b-4a41-9ee9-95c005fc4db01666156159187-Urbano-Fashion-Men-Black-Slim-Fit-Mid-Rise-Clean-Look-Stretc-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24870656/2023/9/19/58d58017-899e-41b0-bb8c-1d180cc3f3b21695115483900-Roadster-Men-Jeans-7531695115483281-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24870656/2023/9/19/58d58017-899e-41b0-bb8c-1d180cc3f3b21695115483900-Roadster-Men-Jeans-7531695115483281-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20914488/2022/12/3/6477718b-c8da-4dab-ad9d-42074feee0c81670061951381-The-Indian-Garage-Co-Men-Jeans-2651670061950630-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20914488/2022/12/3/6477718b-c8da-4dab-ad9d-42074feee0c81670061951381-The-Indian-Garage-Co-Men-Jeans-2651670061950630-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/22855566/2023/4/21/91ca4cfe-107b-4cca-b3dc-218520583a7e1682085025605Jeans1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/22855566/2023/4/21/91ca4cfe-107b-4cca-b3dc-218520583a7e1682085025605Jeans1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -3684,16 +4060,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/62cc7dc5-65b0-4b74-81b8-331412fefc881664184881824KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/62cc7dc5-65b0-4b74-81b8-331412fefc881664184881824KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans6.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20914488/2022/12/3/6477718b-c8da-4dab-ad9d-42074feee0c81670061951381-The-Indian-Garage-Co-Men-Jeans-2651670061950630-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20914488/2022/12/3/6477718b-c8da-4dab-ad9d-42074feee0c81670061951381-The-Indian-Garage-Co-Men-Jeans-2651670061950630-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/7cdb85c4-89df-497c-832a-cce977802dea1664184881802KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/7cdb85c4-89df-497c-832a-cce977802dea1664184881802KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/98757999-d950-4e16-97df-89715ed45b191675227319665-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/98757999-d950-4e16-97df-89715ed45b191675227319665-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-3.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -3723,16 +4103,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/b4ce5643-b112-406e-8328-2a1a8d25e7fa1675227319683-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/b4ce5643-b112-406e-8328-2a1a8d25e7fa1675227319683-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11962080/2022/11/24/bd856d53-fc8d-40c7-8183-dc5d97329ee01669290098459TheIndianGarageCoMenGreySlimFitMid-RiseCleanLookJeans1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11962080/2022/11/24/bd856d53-fc8d-40c7-8183-dc5d97329ee01669290098459TheIndianGarageCoMenGreySlimFitMid-RiseCleanLookJeans1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/c874faa2-2611-4cb8-946e-abe1e4e7f6ae1675227319650-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/c874faa2-2611-4cb8-946e-abe1e4e7f6ae1675227319650-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/ce7f73e1-685f-45ea-ac06-473768c9f5b81664184881708KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/ce7f73e1-685f-45ea-ac06-473768c9f5b81664184881708KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -3762,16 +4146,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/13823708/2022/10/19/398d64b2-096b-4a41-9ee9-95c005fc4db01666156159187-Urbano-Fashion-Men-Black-Slim-Fit-Mid-Rise-Clean-Look-Stretc-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/13823708/2022/10/19/398d64b2-096b-4a41-9ee9-95c005fc4db01666156159187-Urbano-Fashion-Men-Black-Slim-Fit-Mid-Rise-Clean-Look-Stretc-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24870656/2023/9/19/58d58017-899e-41b0-bb8c-1d180cc3f3b21695115483900-Roadster-Men-Jeans-7531695115483281-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24870656/2023/9/19/58d58017-899e-41b0-bb8c-1d180cc3f3b21695115483900-Roadster-Men-Jeans-7531695115483281-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20914488/2022/12/3/6477718b-c8da-4dab-ad9d-42074feee0c81670061951381-The-Indian-Garage-Co-Men-Jeans-2651670061950630-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20914488/2022/12/3/6477718b-c8da-4dab-ad9d-42074feee0c81670061951381-The-Indian-Garage-Co-Men-Jeans-2651670061950630-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/22855566/2023/4/21/91ca4cfe-107b-4cca-b3dc-218520583a7e1682085025605Jeans1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/22855566/2023/4/21/91ca4cfe-107b-4cca-b3dc-218520583a7e1682085025605Jeans1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -3801,16 +4189,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17317910/2022/3/9/9b2eb159-a57f-4e05-aa48-96f5ee288fa01646816598107-The-Indian-Garage-Co-Men-Jeans-121646816597500-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17317910/2022/3/9/9b2eb159-a57f-4e05-aa48-96f5ee288fa01646816598107-The-Indian-Garage-Co-Men-Jeans-121646816597500-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/a7df70d6-e8bc-466e-9269-7726f5bc516b1675227319697-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/a7df70d6-e8bc-466e-9269-7726f5bc516b1675227319697-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/ab76b765-da7f-4a49-9d4b-8d74dc7012711664184881777KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/ab76b765-da7f-4a49-9d4b-8d74dc7012711664184881777KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/b1d438d4-e074-4926-a7a5-c644890f4e1a1675227319634-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/b1d438d4-e074-4926-a7a5-c644890f4e1a1675227319634-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-5.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -3840,16 +4232,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/62cc7dc5-65b0-4b74-81b8-331412fefc881664184881824KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/62cc7dc5-65b0-4b74-81b8-331412fefc881664184881824KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans6.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20914488/2022/12/3/6477718b-c8da-4dab-ad9d-42074feee0c81670061951381-The-Indian-Garage-Co-Men-Jeans-2651670061950630-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20914488/2022/12/3/6477718b-c8da-4dab-ad9d-42074feee0c81670061951381-The-Indian-Garage-Co-Men-Jeans-2651670061950630-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/7cdb85c4-89df-497c-832a-cce977802dea1664184881802KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/7cdb85c4-89df-497c-832a-cce977802dea1664184881802KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/98757999-d950-4e16-97df-89715ed45b191675227319665-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/98757999-d950-4e16-97df-89715ed45b191675227319665-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-3.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -3879,16 +4275,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/b4ce5643-b112-406e-8328-2a1a8d25e7fa1675227319683-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/b4ce5643-b112-406e-8328-2a1a8d25e7fa1675227319683-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11962080/2022/11/24/bd856d53-fc8d-40c7-8183-dc5d97329ee01669290098459TheIndianGarageCoMenGreySlimFitMid-RiseCleanLookJeans1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11962080/2022/11/24/bd856d53-fc8d-40c7-8183-dc5d97329ee01669290098459TheIndianGarageCoMenGreySlimFitMid-RiseCleanLookJeans1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/c874faa2-2611-4cb8-946e-abe1e4e7f6ae1675227319650-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/c874faa2-2611-4cb8-946e-abe1e4e7f6ae1675227319650-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/ce7f73e1-685f-45ea-ac06-473768c9f5b81664184881708KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/ce7f73e1-685f-45ea-ac06-473768c9f5b81664184881708KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -3918,16 +4318,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/13823708/2022/10/19/398d64b2-096b-4a41-9ee9-95c005fc4db01666156159187-Urbano-Fashion-Men-Black-Slim-Fit-Mid-Rise-Clean-Look-Stretc-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/13823708/2022/10/19/398d64b2-096b-4a41-9ee9-95c005fc4db01666156159187-Urbano-Fashion-Men-Black-Slim-Fit-Mid-Rise-Clean-Look-Stretc-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24870656/2023/9/19/58d58017-899e-41b0-bb8c-1d180cc3f3b21695115483900-Roadster-Men-Jeans-7531695115483281-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24870656/2023/9/19/58d58017-899e-41b0-bb8c-1d180cc3f3b21695115483900-Roadster-Men-Jeans-7531695115483281-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20914488/2022/12/3/6477718b-c8da-4dab-ad9d-42074feee0c81670061951381-The-Indian-Garage-Co-Men-Jeans-2651670061950630-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20914488/2022/12/3/6477718b-c8da-4dab-ad9d-42074feee0c81670061951381-The-Indian-Garage-Co-Men-Jeans-2651670061950630-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/22855566/2023/4/21/91ca4cfe-107b-4cca-b3dc-218520583a7e1682085025605Jeans1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/22855566/2023/4/21/91ca4cfe-107b-4cca-b3dc-218520583a7e1682085025605Jeans1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -3957,16 +4361,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17317910/2022/3/9/9b2eb159-a57f-4e05-aa48-96f5ee288fa01646816598107-The-Indian-Garage-Co-Men-Jeans-121646816597500-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17317910/2022/3/9/9b2eb159-a57f-4e05-aa48-96f5ee288fa01646816598107-The-Indian-Garage-Co-Men-Jeans-121646816597500-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/a7df70d6-e8bc-466e-9269-7726f5bc516b1675227319697-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/a7df70d6-e8bc-466e-9269-7726f5bc516b1675227319697-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/ab76b765-da7f-4a49-9d4b-8d74dc7012711664184881777KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/ab76b765-da7f-4a49-9d4b-8d74dc7012711664184881777KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/b1d438d4-e074-4926-a7a5-c644890f4e1a1675227319634-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/b1d438d4-e074-4926-a7a5-c644890f4e1a1675227319634-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-5.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -3996,16 +4404,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/b4ce5643-b112-406e-8328-2a1a8d25e7fa1675227319683-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/b4ce5643-b112-406e-8328-2a1a8d25e7fa1675227319683-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11962080/2022/11/24/bd856d53-fc8d-40c7-8183-dc5d97329ee01669290098459TheIndianGarageCoMenGreySlimFitMid-RiseCleanLookJeans1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11962080/2022/11/24/bd856d53-fc8d-40c7-8183-dc5d97329ee01669290098459TheIndianGarageCoMenGreySlimFitMid-RiseCleanLookJeans1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/c874faa2-2611-4cb8-946e-abe1e4e7f6ae1675227319650-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/c874faa2-2611-4cb8-946e-abe1e4e7f6ae1675227319650-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/ce7f73e1-685f-45ea-ac06-473768c9f5b81664184881708KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/ce7f73e1-685f-45ea-ac06-473768c9f5b81664184881708KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -4035,16 +4447,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/62cc7dc5-65b0-4b74-81b8-331412fefc881664184881824KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/62cc7dc5-65b0-4b74-81b8-331412fefc881664184881824KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans6.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20914488/2022/12/3/6477718b-c8da-4dab-ad9d-42074feee0c81670061951381-The-Indian-Garage-Co-Men-Jeans-2651670061950630-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20914488/2022/12/3/6477718b-c8da-4dab-ad9d-42074feee0c81670061951381-The-Indian-Garage-Co-Men-Jeans-2651670061950630-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/7cdb85c4-89df-497c-832a-cce977802dea1664184881802KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15771286/2022/9/26/7cdb85c4-89df-497c-832a-cce977802dea1664184881802KETCHMenBlueTaperedFitSlashKneeHeavyFadeStretchableJeans5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/98757999-d950-4e16-97df-89715ed45b191675227319665-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/21668442/2023/2/1/98757999-d950-4e16-97df-89715ed45b191675227319665-The-Indian-Garage-Co-Bootcut-Solid-Jeans-3571675227318900-3.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -4074,16 +4490,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/13823708/2022/10/19/398d64b2-096b-4a41-9ee9-95c005fc4db01666156159187-Urbano-Fashion-Men-Black-Slim-Fit-Mid-Rise-Clean-Look-Stretc-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/13823708/2022/10/19/398d64b2-096b-4a41-9ee9-95c005fc4db01666156159187-Urbano-Fashion-Men-Black-Slim-Fit-Mid-Rise-Clean-Look-Stretc-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24870656/2023/9/19/58d58017-899e-41b0-bb8c-1d180cc3f3b21695115483900-Roadster-Men-Jeans-7531695115483281-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24870656/2023/9/19/58d58017-899e-41b0-bb8c-1d180cc3f3b21695115483900-Roadster-Men-Jeans-7531695115483281-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20914488/2022/12/3/6477718b-c8da-4dab-ad9d-42074feee0c81670061951381-The-Indian-Garage-Co-Men-Jeans-2651670061950630-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20914488/2022/12/3/6477718b-c8da-4dab-ad9d-42074feee0c81670061951381-The-Indian-Garage-Co-Men-Jeans-2651670061950630-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/22855566/2023/4/21/91ca4cfe-107b-4cca-b3dc-218520583a7e1682085025605Jeans1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/22855566/2023/4/21/91ca4cfe-107b-4cca-b3dc-218520583a7e1682085025605Jeans1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -4114,16 +4534,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19974280/2022/9/16/5c7173e4-12ef-411d-9684-c8bf1b64a7391663274844268RoadsterWomensBlackFauxLeatherCasualLaceUpSneakers7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19974280/2022/9/16/5c7173e4-12ef-411d-9684-c8bf1b64a7391663274844268RoadsterWomensBlackFauxLeatherCasualLaceUpSneakers7.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19974280/2022/9/16/6559b96c-43c2-4810-8d8f-71bd35abfbfb1663274844222RoadsterWomensBlackFauxLeatherCasualLaceUpSneakers3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19974280/2022/9/16/6559b96c-43c2-4810-8d8f-71bd35abfbfb1663274844222RoadsterWomensBlackFauxLeatherCasualLaceUpSneakers3.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19974280/2022/9/16/7572beeb-d66f-4a05-875b-579c2da355691663274844257RoadsterWomensBlackFauxLeatherCasualLaceUpSneakers6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19974280/2022/9/16/7572beeb-d66f-4a05-875b-579c2da355691663274844257RoadsterWomensBlackFauxLeatherCasualLaceUpSneakers6.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19974280/2022/9/16/b77a1820-124e-47b1-82fa-f8fb6e11124e1663274844234RoadsterWomensBlackFauxLeatherCasualLaceUpSneakers4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19974280/2022/9/16/b77a1820-124e-47b1-82fa-f8fb6e11124e1663274844234RoadsterWomensBlackFauxLeatherCasualLaceUpSneakers4.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -4153,16 +4577,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/22796172/2023/4/17/9a12dff7-21f1-42f7-8f26-5b40382d22351681709760289RoadsterWomenColourblockedCasualSneakers1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/22796172/2023/4/17/9a12dff7-21f1-42f7-8f26-5b40382d22351681709760289RoadsterWomenColourblockedCasualSneakers1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/22796172/2023/4/17/20d52fb8-66f9-4e92-8c29-d0bc9989f6bd1681709760241RoadsterWomenColourblockedCasualSneakers5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/22796172/2023/4/17/20d52fb8-66f9-4e92-8c29-d0bc9989f6bd1681709760241RoadsterWomenColourblockedCasualSneakers5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/22796172/2023/4/17/3603f589-694f-40c9-8892-72b130d856141681709760227RoadsterWomenColourblockedCasualSneakers6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/22796172/2023/4/17/3603f589-694f-40c9-8892-72b130d856141681709760227RoadsterWomenColourblockedCasualSneakers6.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/22796172/2023/4/17/30042cd2-9f63-4eab-83fb-162b6a61a76f1681709760210RoadsterWomenColourblockedCasualSneakers3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/22796172/2023/4/17/30042cd2-9f63-4eab-83fb-162b6a61a76f1681709760210RoadsterWomenColourblockedCasualSneakers3.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -4192,16 +4620,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393214/2023/5/26/7c0754db-4a16-420b-ada5-387d7b7373321685079291550RoadsterLatestWomenCasualRunningWalkingSneakers-WhiteTan3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393214/2023/5/26/7c0754db-4a16-420b-ada5-387d7b7373321685079291550RoadsterLatestWomenCasualRunningWalkingSneakers-WhiteTan3.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393214/2023/5/26/853e9a4f-2714-4aee-b759-84602301cb491685079291594RoadsterLatestWomenCasualRunningWalkingSneakers-WhiteTan7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393214/2023/5/26/853e9a4f-2714-4aee-b759-84602301cb491685079291594RoadsterLatestWomenCasualRunningWalkingSneakers-WhiteTan7.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393214/2023/5/26/9152a3b4-07c2-41e9-abcb-1efe684f36da1685079291578RoadsterLatestWomenCasualRunningWalkingSneakers-WhiteTan6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393214/2023/5/26/9152a3b4-07c2-41e9-abcb-1efe684f36da1685079291578RoadsterLatestWomenCasualRunningWalkingSneakers-WhiteTan6.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393214/2023/5/26/56020943-0a33-4f2a-bdee-0444fd6c18041685079291564RoadsterLatestWomenCasualRunningWalkingSneakers-WhiteTan2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393214/2023/5/26/56020943-0a33-4f2a-bdee-0444fd6c18041685079291564RoadsterLatestWomenCasualRunningWalkingSneakers-WhiteTan2.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -4231,16 +4663,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/1e803b29-b7e0-456d-9407-050284205e761685073693587RoadsterLatestWomenCasualRunningWalkingSneakers-Tan3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/1e803b29-b7e0-456d-9407-050284205e761685073693587RoadsterLatestWomenCasualRunningWalkingSneakers-Tan3.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/6f2dfb3b-1c5f-4860-bee0-9103e67541591685073693661RoadsterLatestWomenCasualRunningWalkingSneakers-Tan4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/6f2dfb3b-1c5f-4860-bee0-9103e67541591685073693661RoadsterLatestWomenCasualRunningWalkingSneakers-Tan4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/45a1acf3-d173-4ad8-9144-b77627c77dcd1685073693641RoadsterLatestWomenCasualRunningWalkingSneakers-Tan6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/45a1acf3-d173-4ad8-9144-b77627c77dcd1685073693641RoadsterLatestWomenCasualRunningWalkingSneakers-Tan6.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/924ec128-ff30-4af1-9560-7ec78e21828b1685073693603RoadsterLatestWomenCasualRunningWalkingSneakers-Tan1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/924ec128-ff30-4af1-9560-7ec78e21828b1685073693603RoadsterLatestWomenCasualRunningWalkingSneakers-Tan1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -4270,16 +4706,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/7b0cc1db-5a04-466e-ab51-b70adb6699c91686807157412RoadsterWomenLightweightCasualSneakers2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/7b0cc1db-5a04-466e-ab51-b70adb6699c91686807157412RoadsterWomenLightweightCasualSneakers2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/9b1ecf9b-dcfe-4054-a607-a1e0d2bce3701686807157429RoadsterWomenLightweightCasualSneakers7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/9b1ecf9b-dcfe-4054-a607-a1e0d2bce3701686807157429RoadsterWomenLightweightCasualSneakers7.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/207af6a2-ed34-46b0-9e05-4d9dc6aa83241686807157378RoadsterWomenLightweightCasualSneakers6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/207af6a2-ed34-46b0-9e05-4d9dc6aa83241686807157378RoadsterWomenLightweightCasualSneakers6.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/3762d7b8-06f7-4ccf-b5bc-e09a8074cfa81686807157362RoadsterWomenLightweightCasualSneakers1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/3762d7b8-06f7-4ccf-b5bc-e09a8074cfa81686807157362RoadsterWomenLightweightCasualSneakers1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -4309,16 +4749,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/02bab5a7-e376-4f78-83d4-3a64d5e218951687448493013Womencolourblockedwhitepinkcasualchunkylightweightsneakers2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/02bab5a7-e376-4f78-83d4-3a64d5e218951687448493013Womencolourblockedwhitepinkcasualchunkylightweightsneakers2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/05c703dd-cfdd-45dc-89b5-5c7a9c26e1dc1687448493034Womencolourblockedwhitepinkcasualchunkylightweightsneakers1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/05c703dd-cfdd-45dc-89b5-5c7a9c26e1dc1687448493034Womencolourblockedwhitepinkcasualchunkylightweightsneakers1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/67000ca4-ab5f-4b7c-b330-75a81df4fa9e1687448493089Womencolourblockedwhitepinkcasualchunkylightweightsneakers7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/67000ca4-ab5f-4b7c-b330-75a81df4fa9e1687448493089Womencolourblockedwhitepinkcasualchunkylightweightsneakers7.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/b8f0da07-64e9-4033-ac90-41bca12247261687448493074Womencolourblockedwhitepinkcasualchunkylightweightsneakers5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/b8f0da07-64e9-4033-ac90-41bca12247261687448493074Womencolourblockedwhitepinkcasualchunkylightweightsneakers5.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -4348,16 +4792,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24773846/2023/9/2/afbaa41f-e850-4ac0-9af5-129b2d757cf91693631982429RoadsterWomenChunkySoleCasualShoes1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24773846/2023/9/2/afbaa41f-e850-4ac0-9af5-129b2d757cf91693631982429RoadsterWomenChunkySoleCasualShoes1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/e552930c-d1fe-4973-b895-06a2dbb6eefe1687448493051Womencolourblockedwhitepinkcasualchunkylightweightsneakers3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/e552930c-d1fe-4973-b895-06a2dbb6eefe1687448493051Womencolourblockedwhitepinkcasualchunkylightweightsneakers3.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/c0e10a7c-2fae-4053-8771-45dd6a4ae54a1687448493063Womencolourblockedwhitepinkcasualchunkylightweightsneakers4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/c0e10a7c-2fae-4053-8771-45dd6a4ae54a1687448493063Womencolourblockedwhitepinkcasualchunkylightweightsneakers4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/b8f0da07-64e9-4033-ac90-41bca12247261687448493074Womencolourblockedwhitepinkcasualchunkylightweightsneakers5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/b8f0da07-64e9-4033-ac90-41bca12247261687448493074Womencolourblockedwhitepinkcasualchunkylightweightsneakers5.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -4387,16 +4835,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/1e803b29-b7e0-456d-9407-050284205e761685073693587RoadsterLatestWomenCasualRunningWalkingSneakers-Tan3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/1e803b29-b7e0-456d-9407-050284205e761685073693587RoadsterLatestWomenCasualRunningWalkingSneakers-Tan3.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/6f2dfb3b-1c5f-4860-bee0-9103e67541591685073693661RoadsterLatestWomenCasualRunningWalkingSneakers-Tan4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/6f2dfb3b-1c5f-4860-bee0-9103e67541591685073693661RoadsterLatestWomenCasualRunningWalkingSneakers-Tan4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/45a1acf3-d173-4ad8-9144-b77627c77dcd1685073693641RoadsterLatestWomenCasualRunningWalkingSneakers-Tan6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/45a1acf3-d173-4ad8-9144-b77627c77dcd1685073693641RoadsterLatestWomenCasualRunningWalkingSneakers-Tan6.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/924ec128-ff30-4af1-9560-7ec78e21828b1685073693603RoadsterLatestWomenCasualRunningWalkingSneakers-Tan1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/924ec128-ff30-4af1-9560-7ec78e21828b1685073693603RoadsterLatestWomenCasualRunningWalkingSneakers-Tan1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -4426,16 +4878,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/7b0cc1db-5a04-466e-ab51-b70adb6699c91686807157412RoadsterWomenLightweightCasualSneakers2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/7b0cc1db-5a04-466e-ab51-b70adb6699c91686807157412RoadsterWomenLightweightCasualSneakers2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/9b1ecf9b-dcfe-4054-a607-a1e0d2bce3701686807157429RoadsterWomenLightweightCasualSneakers7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/9b1ecf9b-dcfe-4054-a607-a1e0d2bce3701686807157429RoadsterWomenLightweightCasualSneakers7.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/207af6a2-ed34-46b0-9e05-4d9dc6aa83241686807157378RoadsterWomenLightweightCasualSneakers6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/207af6a2-ed34-46b0-9e05-4d9dc6aa83241686807157378RoadsterWomenLightweightCasualSneakers6.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/3762d7b8-06f7-4ccf-b5bc-e09a8074cfa81686807157362RoadsterWomenLightweightCasualSneakers1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/3762d7b8-06f7-4ccf-b5bc-e09a8074cfa81686807157362RoadsterWomenLightweightCasualSneakers1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -4465,16 +4921,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/1e803b29-b7e0-456d-9407-050284205e761685073693587RoadsterLatestWomenCasualRunningWalkingSneakers-Tan3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/1e803b29-b7e0-456d-9407-050284205e761685073693587RoadsterLatestWomenCasualRunningWalkingSneakers-Tan3.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/6f2dfb3b-1c5f-4860-bee0-9103e67541591685073693661RoadsterLatestWomenCasualRunningWalkingSneakers-Tan4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/6f2dfb3b-1c5f-4860-bee0-9103e67541591685073693661RoadsterLatestWomenCasualRunningWalkingSneakers-Tan4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/45a1acf3-d173-4ad8-9144-b77627c77dcd1685073693641RoadsterLatestWomenCasualRunningWalkingSneakers-Tan6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/45a1acf3-d173-4ad8-9144-b77627c77dcd1685073693641RoadsterLatestWomenCasualRunningWalkingSneakers-Tan6.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/924ec128-ff30-4af1-9560-7ec78e21828b1685073693603RoadsterLatestWomenCasualRunningWalkingSneakers-Tan1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/924ec128-ff30-4af1-9560-7ec78e21828b1685073693603RoadsterLatestWomenCasualRunningWalkingSneakers-Tan1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -4504,16 +4964,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/1e803b29-b7e0-456d-9407-050284205e761685073693587RoadsterLatestWomenCasualRunningWalkingSneakers-Tan3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/1e803b29-b7e0-456d-9407-050284205e761685073693587RoadsterLatestWomenCasualRunningWalkingSneakers-Tan3.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/6f2dfb3b-1c5f-4860-bee0-9103e67541591685073693661RoadsterLatestWomenCasualRunningWalkingSneakers-Tan4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/6f2dfb3b-1c5f-4860-bee0-9103e67541591685073693661RoadsterLatestWomenCasualRunningWalkingSneakers-Tan4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/45a1acf3-d173-4ad8-9144-b77627c77dcd1685073693641RoadsterLatestWomenCasualRunningWalkingSneakers-Tan6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/45a1acf3-d173-4ad8-9144-b77627c77dcd1685073693641RoadsterLatestWomenCasualRunningWalkingSneakers-Tan6.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/924ec128-ff30-4af1-9560-7ec78e21828b1685073693603RoadsterLatestWomenCasualRunningWalkingSneakers-Tan1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/924ec128-ff30-4af1-9560-7ec78e21828b1685073693603RoadsterLatestWomenCasualRunningWalkingSneakers-Tan1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -4543,16 +5007,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/7b0cc1db-5a04-466e-ab51-b70adb6699c91686807157412RoadsterWomenLightweightCasualSneakers2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/7b0cc1db-5a04-466e-ab51-b70adb6699c91686807157412RoadsterWomenLightweightCasualSneakers2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/9b1ecf9b-dcfe-4054-a607-a1e0d2bce3701686807157429RoadsterWomenLightweightCasualSneakers7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/9b1ecf9b-dcfe-4054-a607-a1e0d2bce3701686807157429RoadsterWomenLightweightCasualSneakers7.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/207af6a2-ed34-46b0-9e05-4d9dc6aa83241686807157378RoadsterWomenLightweightCasualSneakers6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/207af6a2-ed34-46b0-9e05-4d9dc6aa83241686807157378RoadsterWomenLightweightCasualSneakers6.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/3762d7b8-06f7-4ccf-b5bc-e09a8074cfa81686807157362RoadsterWomenLightweightCasualSneakers1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/3762d7b8-06f7-4ccf-b5bc-e09a8074cfa81686807157362RoadsterWomenLightweightCasualSneakers1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -4582,16 +5050,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/02bab5a7-e376-4f78-83d4-3a64d5e218951687448493013Womencolourblockedwhitepinkcasualchunkylightweightsneakers2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/02bab5a7-e376-4f78-83d4-3a64d5e218951687448493013Womencolourblockedwhitepinkcasualchunkylightweightsneakers2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/05c703dd-cfdd-45dc-89b5-5c7a9c26e1dc1687448493034Womencolourblockedwhitepinkcasualchunkylightweightsneakers1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/05c703dd-cfdd-45dc-89b5-5c7a9c26e1dc1687448493034Womencolourblockedwhitepinkcasualchunkylightweightsneakers1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/67000ca4-ab5f-4b7c-b330-75a81df4fa9e1687448493089Womencolourblockedwhitepinkcasualchunkylightweightsneakers7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/67000ca4-ab5f-4b7c-b330-75a81df4fa9e1687448493089Womencolourblockedwhitepinkcasualchunkylightweightsneakers7.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/b8f0da07-64e9-4033-ac90-41bca12247261687448493074Womencolourblockedwhitepinkcasualchunkylightweightsneakers5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/b8f0da07-64e9-4033-ac90-41bca12247261687448493074Womencolourblockedwhitepinkcasualchunkylightweightsneakers5.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -4621,16 +5093,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/7b0cc1db-5a04-466e-ab51-b70adb6699c91686807157412RoadsterWomenLightweightCasualSneakers2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/7b0cc1db-5a04-466e-ab51-b70adb6699c91686807157412RoadsterWomenLightweightCasualSneakers2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/9b1ecf9b-dcfe-4054-a607-a1e0d2bce3701686807157429RoadsterWomenLightweightCasualSneakers7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/9b1ecf9b-dcfe-4054-a607-a1e0d2bce3701686807157429RoadsterWomenLightweightCasualSneakers7.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/207af6a2-ed34-46b0-9e05-4d9dc6aa83241686807157378RoadsterWomenLightweightCasualSneakers6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/207af6a2-ed34-46b0-9e05-4d9dc6aa83241686807157378RoadsterWomenLightweightCasualSneakers6.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/3762d7b8-06f7-4ccf-b5bc-e09a8074cfa81686807157362RoadsterWomenLightweightCasualSneakers1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/3762d7b8-06f7-4ccf-b5bc-e09a8074cfa81686807157362RoadsterWomenLightweightCasualSneakers1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -4660,16 +5136,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/02bab5a7-e376-4f78-83d4-3a64d5e218951687448493013Womencolourblockedwhitepinkcasualchunkylightweightsneakers2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/02bab5a7-e376-4f78-83d4-3a64d5e218951687448493013Womencolourblockedwhitepinkcasualchunkylightweightsneakers2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/05c703dd-cfdd-45dc-89b5-5c7a9c26e1dc1687448493034Womencolourblockedwhitepinkcasualchunkylightweightsneakers1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/05c703dd-cfdd-45dc-89b5-5c7a9c26e1dc1687448493034Womencolourblockedwhitepinkcasualchunkylightweightsneakers1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/67000ca4-ab5f-4b7c-b330-75a81df4fa9e1687448493089Womencolourblockedwhitepinkcasualchunkylightweightsneakers7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/67000ca4-ab5f-4b7c-b330-75a81df4fa9e1687448493089Womencolourblockedwhitepinkcasualchunkylightweightsneakers7.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/b8f0da07-64e9-4033-ac90-41bca12247261687448493074Womencolourblockedwhitepinkcasualchunkylightweightsneakers5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/b8f0da07-64e9-4033-ac90-41bca12247261687448493074Womencolourblockedwhitepinkcasualchunkylightweightsneakers5.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -4699,16 +5179,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/02bab5a7-e376-4f78-83d4-3a64d5e218951687448493013Womencolourblockedwhitepinkcasualchunkylightweightsneakers2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/02bab5a7-e376-4f78-83d4-3a64d5e218951687448493013Womencolourblockedwhitepinkcasualchunkylightweightsneakers2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/05c703dd-cfdd-45dc-89b5-5c7a9c26e1dc1687448493034Womencolourblockedwhitepinkcasualchunkylightweightsneakers1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/05c703dd-cfdd-45dc-89b5-5c7a9c26e1dc1687448493034Womencolourblockedwhitepinkcasualchunkylightweightsneakers1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/67000ca4-ab5f-4b7c-b330-75a81df4fa9e1687448493089Womencolourblockedwhitepinkcasualchunkylightweightsneakers7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/67000ca4-ab5f-4b7c-b330-75a81df4fa9e1687448493089Womencolourblockedwhitepinkcasualchunkylightweightsneakers7.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/b8f0da07-64e9-4033-ac90-41bca12247261687448493074Womencolourblockedwhitepinkcasualchunkylightweightsneakers5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23730424/2023/6/22/b8f0da07-64e9-4033-ac90-41bca12247261687448493074Womencolourblockedwhitepinkcasualchunkylightweightsneakers5.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -4738,16 +5222,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/7b0cc1db-5a04-466e-ab51-b70adb6699c91686807157412RoadsterWomenLightweightCasualSneakers2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/7b0cc1db-5a04-466e-ab51-b70adb6699c91686807157412RoadsterWomenLightweightCasualSneakers2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/9b1ecf9b-dcfe-4054-a607-a1e0d2bce3701686807157429RoadsterWomenLightweightCasualSneakers7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/9b1ecf9b-dcfe-4054-a607-a1e0d2bce3701686807157429RoadsterWomenLightweightCasualSneakers7.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/207af6a2-ed34-46b0-9e05-4d9dc6aa83241686807157378RoadsterWomenLightweightCasualSneakers6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/207af6a2-ed34-46b0-9e05-4d9dc6aa83241686807157378RoadsterWomenLightweightCasualSneakers6.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/3762d7b8-06f7-4ccf-b5bc-e09a8074cfa81686807157362RoadsterWomenLightweightCasualSneakers1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/3762d7b8-06f7-4ccf-b5bc-e09a8074cfa81686807157362RoadsterWomenLightweightCasualSneakers1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -4777,16 +5265,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/7b0cc1db-5a04-466e-ab51-b70adb6699c91686807157412RoadsterWomenLightweightCasualSneakers2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/7b0cc1db-5a04-466e-ab51-b70adb6699c91686807157412RoadsterWomenLightweightCasualSneakers2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/9b1ecf9b-dcfe-4054-a607-a1e0d2bce3701686807157429RoadsterWomenLightweightCasualSneakers7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/9b1ecf9b-dcfe-4054-a607-a1e0d2bce3701686807157429RoadsterWomenLightweightCasualSneakers7.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/207af6a2-ed34-46b0-9e05-4d9dc6aa83241686807157378RoadsterWomenLightweightCasualSneakers6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/207af6a2-ed34-46b0-9e05-4d9dc6aa83241686807157378RoadsterWomenLightweightCasualSneakers6.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/3762d7b8-06f7-4ccf-b5bc-e09a8074cfa81686807157362RoadsterWomenLightweightCasualSneakers1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23637922/2023/6/15/3762d7b8-06f7-4ccf-b5bc-e09a8074cfa81686807157362RoadsterWomenLightweightCasualSneakers1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -4816,16 +5308,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/1e803b29-b7e0-456d-9407-050284205e761685073693587RoadsterLatestWomenCasualRunningWalkingSneakers-Tan3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/1e803b29-b7e0-456d-9407-050284205e761685073693587RoadsterLatestWomenCasualRunningWalkingSneakers-Tan3.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/6f2dfb3b-1c5f-4860-bee0-9103e67541591685073693661RoadsterLatestWomenCasualRunningWalkingSneakers-Tan4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/6f2dfb3b-1c5f-4860-bee0-9103e67541591685073693661RoadsterLatestWomenCasualRunningWalkingSneakers-Tan4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/45a1acf3-d173-4ad8-9144-b77627c77dcd1685073693641RoadsterLatestWomenCasualRunningWalkingSneakers-Tan6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/45a1acf3-d173-4ad8-9144-b77627c77dcd1685073693641RoadsterLatestWomenCasualRunningWalkingSneakers-Tan6.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/924ec128-ff30-4af1-9560-7ec78e21828b1685073693603RoadsterLatestWomenCasualRunningWalkingSneakers-Tan1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/924ec128-ff30-4af1-9560-7ec78e21828b1685073693603RoadsterLatestWomenCasualRunningWalkingSneakers-Tan1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -4855,16 +5351,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/1e803b29-b7e0-456d-9407-050284205e761685073693587RoadsterLatestWomenCasualRunningWalkingSneakers-Tan3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/1e803b29-b7e0-456d-9407-050284205e761685073693587RoadsterLatestWomenCasualRunningWalkingSneakers-Tan3.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/6f2dfb3b-1c5f-4860-bee0-9103e67541591685073693661RoadsterLatestWomenCasualRunningWalkingSneakers-Tan4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/6f2dfb3b-1c5f-4860-bee0-9103e67541591685073693661RoadsterLatestWomenCasualRunningWalkingSneakers-Tan4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/45a1acf3-d173-4ad8-9144-b77627c77dcd1685073693641RoadsterLatestWomenCasualRunningWalkingSneakers-Tan6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/45a1acf3-d173-4ad8-9144-b77627c77dcd1685073693641RoadsterLatestWomenCasualRunningWalkingSneakers-Tan6.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/924ec128-ff30-4af1-9560-7ec78e21828b1685073693603RoadsterLatestWomenCasualRunningWalkingSneakers-Tan1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23393230/2023/5/26/924ec128-ff30-4af1-9560-7ec78e21828b1685073693603RoadsterLatestWomenCasualRunningWalkingSneakers-Tan1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -4898,16 +5398,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -4938,16 +5442,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -4978,16 +5486,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -5017,16 +5529,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -5056,16 +5572,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -5095,16 +5615,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -5134,16 +5658,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -5173,16 +5701,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -5212,16 +5744,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -5251,16 +5787,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -5290,16 +5830,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -5329,16 +5873,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -5368,16 +5916,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -5407,16 +5959,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -5446,16 +6002,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -5485,16 +6045,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -5524,16 +6088,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -5563,16 +6131,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -5602,16 +6174,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -5641,16 +6217,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195556/2023/10/4/5d361590-64aa-4844-9169-f4120d81d0a11696418522664UNDERARMOURRoundNeckSeamlessSlim-fitT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195558/2023/10/4/e1f30c33-b157-45a4-ab59-2a841b9d9c2c1696427983611UNDERARMOURRoundNeckSleevelessT-shirt1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25195512/2023/10/5/a36f2818-0af1-4f9a-8ffa-d2ea203ab0531696527165385UNDERARMOURRoundNeckShortSleevesT-shirt1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -5681,16 +6261,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -5720,16 +6304,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -5759,16 +6347,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -5798,16 +6390,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -5837,16 +6433,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -5876,16 +6476,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -5915,16 +6519,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -5954,16 +6562,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -5993,16 +6605,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -6032,16 +6648,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -6071,16 +6691,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -6110,16 +6734,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -6149,16 +6777,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -6188,16 +6820,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -6227,16 +6863,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -6266,16 +6906,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -6305,16 +6949,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -6339,22 +6987,25 @@ const Plpproducts = [
         "catogory": "womens",
         "subCatogory": "kurtas",
         "discountOnMrp": "2849",
-
         "linkUrl": "womenskurtas18",
         "id": "womenskurtas18",
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -6384,16 +7035,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -6423,16 +7078,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -6462,16 +7121,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -6501,16 +7164,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -6540,16 +7207,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -6579,16 +7250,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24476720/2023/8/12/a4c2c7a1-0252-40da-952f-f3e5ab61d3b01691847823767KALINIWomenPurpleEthnicMotifsEmbroideredKurtawithTrouserDupa1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/23921136/2023/7/7/5d0b5b2e-f6a4-4bf3-a45e-8c70920333f71688726905497SkyasiaWomenFloralPrintedAnarkaliKurtaPalazzoWithDupattaSet1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20695836/2022/11/10/ba1724c2-c606-481c-a0ca-63424b61a8661668078028270WomensRayonPrintedEmbroideredKurtaWithPantAndDupatta1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20327020/2022/10/8/ca541544-3307-4ea4-b1d3-a7900e9db2851665211574523KALINIWomenNavyBlueStraightSolidKurtawithTrouserDupatta7.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -6619,16 +7294,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/7/16/22032653-b7b7-4554-9338-96dd0ff511381563276335680-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/7/16/22032653-b7b7-4554-9338-96dd0ff511381563276335680-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7629322/2018/10/25/2e2bc7bb-d3a4-49c0-afa4-925c471890d91540458755059-Studio-Voylla-Silver-Toned-Maroon-Dome-Shaped-Jhumkas-381540458754901-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7629322/2018/10/25/2e2bc7bb-d3a4-49c0-afa4-925c471890d91540458755059-Studio-Voylla-Silver-Toned-Maroon-Dome-Shaped-Jhumkas-381540458754901-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10347025/2019/8/20/6c470c70-cd3f-4caa-937f-afca087690d31566239486884-Voylla-Oxidised-Silver-Plated-Black-Contemporary-Studs-59515-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10347025/2019/8/20/6c470c70-cd3f-4caa-937f-afca087690d31566239486884-Voylla-Oxidised-Silver-Plated-Black-Contemporary-Studs-59515-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/9296151/2019/6/12/82a851f6-2e86-45ce-8810-bb0bc662acd91560335901228-Priyaasi-Purple--Gunmetal-Toned-Rose-Gold-Plated-American-Di-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/9296151/2019/6/12/82a851f6-2e86-45ce-8810-bb0bc662acd91560335901228-Priyaasi-Purple--Gunmetal-Toned-Rose-Gold-Plated-American-Di-1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -6659,16 +7338,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/7/16/22032653-b7b7-4554-9338-96dd0ff511381563276335680-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/7/16/22032653-b7b7-4554-9338-96dd0ff511381563276335680-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7629322/2018/10/25/2e2bc7bb-d3a4-49c0-afa4-925c471890d91540458755059-Studio-Voylla-Silver-Toned-Maroon-Dome-Shaped-Jhumkas-381540458754901-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7629322/2018/10/25/2e2bc7bb-d3a4-49c0-afa4-925c471890d91540458755059-Studio-Voylla-Silver-Toned-Maroon-Dome-Shaped-Jhumkas-381540458754901-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10347025/2019/8/20/6c470c70-cd3f-4caa-937f-afca087690d31566239486884-Voylla-Oxidised-Silver-Plated-Black-Contemporary-Studs-59515-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10347025/2019/8/20/6c470c70-cd3f-4caa-937f-afca087690d31566239486884-Voylla-Oxidised-Silver-Plated-Black-Contemporary-Studs-59515-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/9296151/2019/6/12/82a851f6-2e86-45ce-8810-bb0bc662acd91560335901228-Priyaasi-Purple--Gunmetal-Toned-Rose-Gold-Plated-American-Di-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/9296151/2019/6/12/82a851f6-2e86-45ce-8810-bb0bc662acd91560335901228-Priyaasi-Purple--Gunmetal-Toned-Rose-Gold-Plated-American-Di-1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -6698,16 +7381,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/7/16/22032653-b7b7-4554-9338-96dd0ff511381563276335680-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/7/16/22032653-b7b7-4554-9338-96dd0ff511381563276335680-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7629322/2018/10/25/2e2bc7bb-d3a4-49c0-afa4-925c471890d91540458755059-Studio-Voylla-Silver-Toned-Maroon-Dome-Shaped-Jhumkas-381540458754901-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7629322/2018/10/25/2e2bc7bb-d3a4-49c0-afa4-925c471890d91540458755059-Studio-Voylla-Silver-Toned-Maroon-Dome-Shaped-Jhumkas-381540458754901-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10347025/2019/8/20/6c470c70-cd3f-4caa-937f-afca087690d31566239486884-Voylla-Oxidised-Silver-Plated-Black-Contemporary-Studs-59515-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10347025/2019/8/20/6c470c70-cd3f-4caa-937f-afca087690d31566239486884-Voylla-Oxidised-Silver-Plated-Black-Contemporary-Studs-59515-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/9296151/2019/6/12/82a851f6-2e86-45ce-8810-bb0bc662acd91560335901228-Priyaasi-Purple--Gunmetal-Toned-Rose-Gold-Plated-American-Di-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/9296151/2019/6/12/82a851f6-2e86-45ce-8810-bb0bc662acd91560335901228-Priyaasi-Purple--Gunmetal-Toned-Rose-Gold-Plated-American-Di-1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -6737,16 +7424,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/7/16/22032653-b7b7-4554-9338-96dd0ff511381563276335680-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/7/16/22032653-b7b7-4554-9338-96dd0ff511381563276335680-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7629322/2018/10/25/2e2bc7bb-d3a4-49c0-afa4-925c471890d91540458755059-Studio-Voylla-Silver-Toned-Maroon-Dome-Shaped-Jhumkas-381540458754901-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7629322/2018/10/25/2e2bc7bb-d3a4-49c0-afa4-925c471890d91540458755059-Studio-Voylla-Silver-Toned-Maroon-Dome-Shaped-Jhumkas-381540458754901-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10347025/2019/8/20/6c470c70-cd3f-4caa-937f-afca087690d31566239486884-Voylla-Oxidised-Silver-Plated-Black-Contemporary-Studs-59515-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10347025/2019/8/20/6c470c70-cd3f-4caa-937f-afca087690d31566239486884-Voylla-Oxidised-Silver-Plated-Black-Contemporary-Studs-59515-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/9296151/2019/6/12/82a851f6-2e86-45ce-8810-bb0bc662acd91560335901228-Priyaasi-Purple--Gunmetal-Toned-Rose-Gold-Plated-American-Di-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/9296151/2019/6/12/82a851f6-2e86-45ce-8810-bb0bc662acd91560335901228-Priyaasi-Purple--Gunmetal-Toned-Rose-Gold-Plated-American-Di-1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -6776,16 +7467,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/7/16/22032653-b7b7-4554-9338-96dd0ff511381563276335680-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/7/16/22032653-b7b7-4554-9338-96dd0ff511381563276335680-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7629322/2018/10/25/2e2bc7bb-d3a4-49c0-afa4-925c471890d91540458755059-Studio-Voylla-Silver-Toned-Maroon-Dome-Shaped-Jhumkas-381540458754901-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7629322/2018/10/25/2e2bc7bb-d3a4-49c0-afa4-925c471890d91540458755059-Studio-Voylla-Silver-Toned-Maroon-Dome-Shaped-Jhumkas-381540458754901-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10347025/2019/8/20/6c470c70-cd3f-4caa-937f-afca087690d31566239486884-Voylla-Oxidised-Silver-Plated-Black-Contemporary-Studs-59515-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10347025/2019/8/20/6c470c70-cd3f-4caa-937f-afca087690d31566239486884-Voylla-Oxidised-Silver-Plated-Black-Contemporary-Studs-59515-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/9296151/2019/6/12/82a851f6-2e86-45ce-8810-bb0bc662acd91560335901228-Priyaasi-Purple--Gunmetal-Toned-Rose-Gold-Plated-American-Di-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/9296151/2019/6/12/82a851f6-2e86-45ce-8810-bb0bc662acd91560335901228-Priyaasi-Purple--Gunmetal-Toned-Rose-Gold-Plated-American-Di-1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -6815,16 +7510,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/7/16/22032653-b7b7-4554-9338-96dd0ff511381563276335680-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/7/16/22032653-b7b7-4554-9338-96dd0ff511381563276335680-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7629322/2018/10/25/2e2bc7bb-d3a4-49c0-afa4-925c471890d91540458755059-Studio-Voylla-Silver-Toned-Maroon-Dome-Shaped-Jhumkas-381540458754901-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7629322/2018/10/25/2e2bc7bb-d3a4-49c0-afa4-925c471890d91540458755059-Studio-Voylla-Silver-Toned-Maroon-Dome-Shaped-Jhumkas-381540458754901-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10347025/2019/8/20/6c470c70-cd3f-4caa-937f-afca087690d31566239486884-Voylla-Oxidised-Silver-Plated-Black-Contemporary-Studs-59515-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10347025/2019/8/20/6c470c70-cd3f-4caa-937f-afca087690d31566239486884-Voylla-Oxidised-Silver-Plated-Black-Contemporary-Studs-59515-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/9296151/2019/6/12/82a851f6-2e86-45ce-8810-bb0bc662acd91560335901228-Priyaasi-Purple--Gunmetal-Toned-Rose-Gold-Plated-American-Di-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/9296151/2019/6/12/82a851f6-2e86-45ce-8810-bb0bc662acd91560335901228-Priyaasi-Purple--Gunmetal-Toned-Rose-Gold-Plated-American-Di-1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -6854,16 +7553,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/7/16/22032653-b7b7-4554-9338-96dd0ff511381563276335680-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/7/16/22032653-b7b7-4554-9338-96dd0ff511381563276335680-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7629322/2018/10/25/2e2bc7bb-d3a4-49c0-afa4-925c471890d91540458755059-Studio-Voylla-Silver-Toned-Maroon-Dome-Shaped-Jhumkas-381540458754901-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7629322/2018/10/25/2e2bc7bb-d3a4-49c0-afa4-925c471890d91540458755059-Studio-Voylla-Silver-Toned-Maroon-Dome-Shaped-Jhumkas-381540458754901-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10347025/2019/8/20/6c470c70-cd3f-4caa-937f-afca087690d31566239486884-Voylla-Oxidised-Silver-Plated-Black-Contemporary-Studs-59515-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10347025/2019/8/20/6c470c70-cd3f-4caa-937f-afca087690d31566239486884-Voylla-Oxidised-Silver-Plated-Black-Contemporary-Studs-59515-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/9296151/2019/6/12/82a851f6-2e86-45ce-8810-bb0bc662acd91560335901228-Priyaasi-Purple--Gunmetal-Toned-Rose-Gold-Plated-American-Di-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/9296151/2019/6/12/82a851f6-2e86-45ce-8810-bb0bc662acd91560335901228-Priyaasi-Purple--Gunmetal-Toned-Rose-Gold-Plated-American-Di-1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -6893,16 +7596,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/7/16/22032653-b7b7-4554-9338-96dd0ff511381563276335680-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/7/16/22032653-b7b7-4554-9338-96dd0ff511381563276335680-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7629322/2018/10/25/2e2bc7bb-d3a4-49c0-afa4-925c471890d91540458755059-Studio-Voylla-Silver-Toned-Maroon-Dome-Shaped-Jhumkas-381540458754901-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7629322/2018/10/25/2e2bc7bb-d3a4-49c0-afa4-925c471890d91540458755059-Studio-Voylla-Silver-Toned-Maroon-Dome-Shaped-Jhumkas-381540458754901-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10347025/2019/8/20/6c470c70-cd3f-4caa-937f-afca087690d31566239486884-Voylla-Oxidised-Silver-Plated-Black-Contemporary-Studs-59515-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10347025/2019/8/20/6c470c70-cd3f-4caa-937f-afca087690d31566239486884-Voylla-Oxidised-Silver-Plated-Black-Contemporary-Studs-59515-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/9296151/2019/6/12/82a851f6-2e86-45ce-8810-bb0bc662acd91560335901228-Priyaasi-Purple--Gunmetal-Toned-Rose-Gold-Plated-American-Di-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/9296151/2019/6/12/82a851f6-2e86-45ce-8810-bb0bc662acd91560335901228-Priyaasi-Purple--Gunmetal-Toned-Rose-Gold-Plated-American-Di-1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -6932,16 +7639,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/7/16/22032653-b7b7-4554-9338-96dd0ff511381563276335680-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/7/16/22032653-b7b7-4554-9338-96dd0ff511381563276335680-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7629322/2018/10/25/2e2bc7bb-d3a4-49c0-afa4-925c471890d91540458755059-Studio-Voylla-Silver-Toned-Maroon-Dome-Shaped-Jhumkas-381540458754901-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7629322/2018/10/25/2e2bc7bb-d3a4-49c0-afa4-925c471890d91540458755059-Studio-Voylla-Silver-Toned-Maroon-Dome-Shaped-Jhumkas-381540458754901-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10347025/2019/8/20/6c470c70-cd3f-4caa-937f-afca087690d31566239486884-Voylla-Oxidised-Silver-Plated-Black-Contemporary-Studs-59515-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10347025/2019/8/20/6c470c70-cd3f-4caa-937f-afca087690d31566239486884-Voylla-Oxidised-Silver-Plated-Black-Contemporary-Studs-59515-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/9296151/2019/6/12/82a851f6-2e86-45ce-8810-bb0bc662acd91560335901228-Priyaasi-Purple--Gunmetal-Toned-Rose-Gold-Plated-American-Di-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/9296151/2019/6/12/82a851f6-2e86-45ce-8810-bb0bc662acd91560335901228-Priyaasi-Purple--Gunmetal-Toned-Rose-Gold-Plated-American-Di-1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -6971,16 +7682,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/7/16/22032653-b7b7-4554-9338-96dd0ff511381563276335680-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/7/16/22032653-b7b7-4554-9338-96dd0ff511381563276335680-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7629322/2018/10/25/2e2bc7bb-d3a4-49c0-afa4-925c471890d91540458755059-Studio-Voylla-Silver-Toned-Maroon-Dome-Shaped-Jhumkas-381540458754901-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7629322/2018/10/25/2e2bc7bb-d3a4-49c0-afa4-925c471890d91540458755059-Studio-Voylla-Silver-Toned-Maroon-Dome-Shaped-Jhumkas-381540458754901-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10347025/2019/8/20/6c470c70-cd3f-4caa-937f-afca087690d31566239486884-Voylla-Oxidised-Silver-Plated-Black-Contemporary-Studs-59515-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10347025/2019/8/20/6c470c70-cd3f-4caa-937f-afca087690d31566239486884-Voylla-Oxidised-Silver-Plated-Black-Contemporary-Studs-59515-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/9296151/2019/6/12/82a851f6-2e86-45ce-8810-bb0bc662acd91560335901228-Priyaasi-Purple--Gunmetal-Toned-Rose-Gold-Plated-American-Di-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/9296151/2019/6/12/82a851f6-2e86-45ce-8810-bb0bc662acd91560335901228-Priyaasi-Purple--Gunmetal-Toned-Rose-Gold-Plated-American-Di-1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -7010,16 +7725,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1185006/2016/8/12/11470993191631-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-MFBTMLDBE3-4471470993191554-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1185006/2016/8/12/11470993191631-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-MFBTMLDBE3-4471470993191554-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1869979/2017/8/16/11502876950173-DressBerry-Women-Gunmetal-Toned-Analogue-Watch-DB17-1D-441502876949983-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1869979/2017/8/16/11502876950173-DressBerry-Women-Gunmetal-Toned-Analogue-Watch-DB17-1D-441502876949983-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/6989649/2023/2/23/1308224b-8ec0-4593-898d-5ae5a0338ea21677135825395DressBerryWomenSilver-TonedAnalogueWatchDB-G35.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/6989649/2023/2/23/1308224b-8ec0-4593-898d-5ae5a0338ea21677135825395DressBerryWomenSilver-TonedAnalogueWatchDB-G35.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1487944/2023/2/23/17d0aefc-4207-43de-8fe3-ba97097977ab1677145213102-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-DB1-A-2751677145-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1487944/2023/2/23/17d0aefc-4207-43de-8fe3-ba97097977ab1677145213102-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-DB1-A-2751677145-2.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -7049,16 +7768,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1185006/2016/8/12/11470993191631-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-MFBTMLDBE3-4471470993191554-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1185006/2016/8/12/11470993191631-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-MFBTMLDBE3-4471470993191554-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1869979/2017/8/16/11502876950173-DressBerry-Women-Gunmetal-Toned-Analogue-Watch-DB17-1D-441502876949983-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1869979/2017/8/16/11502876950173-DressBerry-Women-Gunmetal-Toned-Analogue-Watch-DB17-1D-441502876949983-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/6989649/2023/2/23/1308224b-8ec0-4593-898d-5ae5a0338ea21677135825395DressBerryWomenSilver-TonedAnalogueWatchDB-G35.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/6989649/2023/2/23/1308224b-8ec0-4593-898d-5ae5a0338ea21677135825395DressBerryWomenSilver-TonedAnalogueWatchDB-G35.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1487944/2023/2/23/17d0aefc-4207-43de-8fe3-ba97097977ab1677145213102-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-DB1-A-2751677145-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1487944/2023/2/23/17d0aefc-4207-43de-8fe3-ba97097977ab1677145213102-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-DB1-A-2751677145-2.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -7088,16 +7811,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1185006/2016/8/12/11470993191631-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-MFBTMLDBE3-4471470993191554-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1185006/2016/8/12/11470993191631-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-MFBTMLDBE3-4471470993191554-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1869979/2017/8/16/11502876950173-DressBerry-Women-Gunmetal-Toned-Analogue-Watch-DB17-1D-441502876949983-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1869979/2017/8/16/11502876950173-DressBerry-Women-Gunmetal-Toned-Analogue-Watch-DB17-1D-441502876949983-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/6989649/2023/2/23/1308224b-8ec0-4593-898d-5ae5a0338ea21677135825395DressBerryWomenSilver-TonedAnalogueWatchDB-G35.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/6989649/2023/2/23/1308224b-8ec0-4593-898d-5ae5a0338ea21677135825395DressBerryWomenSilver-TonedAnalogueWatchDB-G35.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1487944/2023/2/23/17d0aefc-4207-43de-8fe3-ba97097977ab1677145213102-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-DB1-A-2751677145-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1487944/2023/2/23/17d0aefc-4207-43de-8fe3-ba97097977ab1677145213102-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-DB1-A-2751677145-2.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -7127,16 +7854,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1185006/2016/8/12/11470993191631-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-MFBTMLDBE3-4471470993191554-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1185006/2016/8/12/11470993191631-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-MFBTMLDBE3-4471470993191554-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1869979/2017/8/16/11502876950173-DressBerry-Women-Gunmetal-Toned-Analogue-Watch-DB17-1D-441502876949983-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1869979/2017/8/16/11502876950173-DressBerry-Women-Gunmetal-Toned-Analogue-Watch-DB17-1D-441502876949983-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/6989649/2023/2/23/1308224b-8ec0-4593-898d-5ae5a0338ea21677135825395DressBerryWomenSilver-TonedAnalogueWatchDB-G35.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/6989649/2023/2/23/1308224b-8ec0-4593-898d-5ae5a0338ea21677135825395DressBerryWomenSilver-TonedAnalogueWatchDB-G35.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1487944/2023/2/23/17d0aefc-4207-43de-8fe3-ba97097977ab1677145213102-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-DB1-A-2751677145-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1487944/2023/2/23/17d0aefc-4207-43de-8fe3-ba97097977ab1677145213102-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-DB1-A-2751677145-2.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -7166,16 +7897,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1185006/2016/8/12/11470993191631-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-MFBTMLDBE3-4471470993191554-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1185006/2016/8/12/11470993191631-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-MFBTMLDBE3-4471470993191554-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1869979/2017/8/16/11502876950173-DressBerry-Women-Gunmetal-Toned-Analogue-Watch-DB17-1D-441502876949983-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1869979/2017/8/16/11502876950173-DressBerry-Women-Gunmetal-Toned-Analogue-Watch-DB17-1D-441502876949983-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/6989649/2023/2/23/1308224b-8ec0-4593-898d-5ae5a0338ea21677135825395DressBerryWomenSilver-TonedAnalogueWatchDB-G35.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/6989649/2023/2/23/1308224b-8ec0-4593-898d-5ae5a0338ea21677135825395DressBerryWomenSilver-TonedAnalogueWatchDB-G35.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1487944/2023/2/23/17d0aefc-4207-43de-8fe3-ba97097977ab1677145213102-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-DB1-A-2751677145-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1487944/2023/2/23/17d0aefc-4207-43de-8fe3-ba97097977ab1677145213102-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-DB1-A-2751677145-2.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -7205,16 +7940,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1185006/2016/8/12/11470993191631-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-MFBTMLDBE3-4471470993191554-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1185006/2016/8/12/11470993191631-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-MFBTMLDBE3-4471470993191554-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1869979/2017/8/16/11502876950173-DressBerry-Women-Gunmetal-Toned-Analogue-Watch-DB17-1D-441502876949983-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1869979/2017/8/16/11502876950173-DressBerry-Women-Gunmetal-Toned-Analogue-Watch-DB17-1D-441502876949983-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/6989649/2023/2/23/1308224b-8ec0-4593-898d-5ae5a0338ea21677135825395DressBerryWomenSilver-TonedAnalogueWatchDB-G35.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/6989649/2023/2/23/1308224b-8ec0-4593-898d-5ae5a0338ea21677135825395DressBerryWomenSilver-TonedAnalogueWatchDB-G35.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1487944/2023/2/23/17d0aefc-4207-43de-8fe3-ba97097977ab1677145213102-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-DB1-A-2751677145-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1487944/2023/2/23/17d0aefc-4207-43de-8fe3-ba97097977ab1677145213102-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-DB1-A-2751677145-2.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -7244,16 +7983,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1185006/2016/8/12/11470993191631-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-MFBTMLDBE3-4471470993191554-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1185006/2016/8/12/11470993191631-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-MFBTMLDBE3-4471470993191554-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1869979/2017/8/16/11502876950173-DressBerry-Women-Gunmetal-Toned-Analogue-Watch-DB17-1D-441502876949983-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1869979/2017/8/16/11502876950173-DressBerry-Women-Gunmetal-Toned-Analogue-Watch-DB17-1D-441502876949983-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/6989649/2023/2/23/1308224b-8ec0-4593-898d-5ae5a0338ea21677135825395DressBerryWomenSilver-TonedAnalogueWatchDB-G35.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/6989649/2023/2/23/1308224b-8ec0-4593-898d-5ae5a0338ea21677135825395DressBerryWomenSilver-TonedAnalogueWatchDB-G35.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1487944/2023/2/23/17d0aefc-4207-43de-8fe3-ba97097977ab1677145213102-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-DB1-A-2751677145-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1487944/2023/2/23/17d0aefc-4207-43de-8fe3-ba97097977ab1677145213102-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-DB1-A-2751677145-2.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -7283,16 +8026,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1185006/2016/8/12/11470993191631-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-MFBTMLDBE3-4471470993191554-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1185006/2016/8/12/11470993191631-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-MFBTMLDBE3-4471470993191554-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1869979/2017/8/16/11502876950173-DressBerry-Women-Gunmetal-Toned-Analogue-Watch-DB17-1D-441502876949983-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1869979/2017/8/16/11502876950173-DressBerry-Women-Gunmetal-Toned-Analogue-Watch-DB17-1D-441502876949983-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/6989649/2023/2/23/1308224b-8ec0-4593-898d-5ae5a0338ea21677135825395DressBerryWomenSilver-TonedAnalogueWatchDB-G35.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/6989649/2023/2/23/1308224b-8ec0-4593-898d-5ae5a0338ea21677135825395DressBerryWomenSilver-TonedAnalogueWatchDB-G35.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1487944/2023/2/23/17d0aefc-4207-43de-8fe3-ba97097977ab1677145213102-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-DB1-A-2751677145-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1487944/2023/2/23/17d0aefc-4207-43de-8fe3-ba97097977ab1677145213102-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-DB1-A-2751677145-2.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -7322,16 +8069,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1185006/2016/8/12/11470993191631-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-MFBTMLDBE3-4471470993191554-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1185006/2016/8/12/11470993191631-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-MFBTMLDBE3-4471470993191554-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1869979/2017/8/16/11502876950173-DressBerry-Women-Gunmetal-Toned-Analogue-Watch-DB17-1D-441502876949983-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1869979/2017/8/16/11502876950173-DressBerry-Women-Gunmetal-Toned-Analogue-Watch-DB17-1D-441502876949983-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/6989649/2023/2/23/1308224b-8ec0-4593-898d-5ae5a0338ea21677135825395DressBerryWomenSilver-TonedAnalogueWatchDB-G35.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/6989649/2023/2/23/1308224b-8ec0-4593-898d-5ae5a0338ea21677135825395DressBerryWomenSilver-TonedAnalogueWatchDB-G35.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1487944/2023/2/23/17d0aefc-4207-43de-8fe3-ba97097977ab1677145213102-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-DB1-A-2751677145-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1487944/2023/2/23/17d0aefc-4207-43de-8fe3-ba97097977ab1677145213102-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-DB1-A-2751677145-2.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -7361,16 +8112,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1185006/2016/8/12/11470993191631-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-MFBTMLDBE3-4471470993191554-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1185006/2016/8/12/11470993191631-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-MFBTMLDBE3-4471470993191554-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1869979/2017/8/16/11502876950173-DressBerry-Women-Gunmetal-Toned-Analogue-Watch-DB17-1D-441502876949983-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1869979/2017/8/16/11502876950173-DressBerry-Women-Gunmetal-Toned-Analogue-Watch-DB17-1D-441502876949983-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/6989649/2023/2/23/1308224b-8ec0-4593-898d-5ae5a0338ea21677135825395DressBerryWomenSilver-TonedAnalogueWatchDB-G35.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/6989649/2023/2/23/1308224b-8ec0-4593-898d-5ae5a0338ea21677135825395DressBerryWomenSilver-TonedAnalogueWatchDB-G35.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1487944/2023/2/23/17d0aefc-4207-43de-8fe3-ba97097977ab1677145213102-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-DB1-A-2751677145-2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1487944/2023/2/23/17d0aefc-4207-43de-8fe3-ba97097977ab1677145213102-DressBerry-Women-Rose-Gold-Toned-Dial-Watch-DB1-A-2751677145-2.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -7397,16 +8152,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/6/18/b50769fc-0eca-4101-844d-1ee2cbe611771624011843258-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/6/18/b50769fc-0eca-4101-844d-1ee2cbe611771624011843258-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/6/18/b50769fc-0eca-4101-844d-1ee2cbe611771624011843258-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/6/18/b50769fc-0eca-4101-844d-1ee2cbe611771624011843258-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/6/18/b50769fc-0eca-4101-844d-1ee2cbe611771624011843258-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/6/18/b50769fc-0eca-4101-844d-1ee2cbe611771624011843258-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/6/18/b50769fc-0eca-4101-844d-1ee2cbe611771624011843258-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/6/18/b50769fc-0eca-4101-844d-1ee2cbe611771624011843258-1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -7436,16 +8195,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/5b440fe9-6061-461d-b35e-190e848542db1662462556132-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/5b440fe9-6061-461d-b35e-190e848542db1662462556132-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-6.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/5f94e183-c1c9-4fc4-a4d9-95202fbb08311662462556154-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-4.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/5f94e183-c1c9-4fc4-a4d9-95202fbb08311662462556154-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-4.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/50b4010a-fc28-48c7-8a47-7bdc014badd11662462556164-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/50b4010a-fc28-48c7-8a47-7bdc014badd11662462556164-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-3.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/94f91b75-b36a-4a2b-821f-1231a883d3111662462556144-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18331364/2022/9/6/94f91b75-b36a-4a2b-821f-1231a883d3111662462556144-Anouk-Men-Mustard-Yellow--Off-White-Printed-Pure-Cotton-Kurt-5.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -7475,16 +8238,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/22659880/2023/6/8/54c852c0-51a5-448a-b5ad-3b265df141841686218731251-FUBAR-Geometric-Printed-Pure-Cotton-Kurta-With-Pyjamas-13916-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/22659880/2023/6/8/54c852c0-51a5-448a-b5ad-3b265df141841686218731251-FUBAR-Geometric-Printed-Pure-Cotton-Kurta-With-Pyjamas-13916-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/22659880/2023/6/8/54c852c0-51a5-448a-b5ad-3b265df141841686218731251-FUBAR-Geometric-Printed-Pure-Cotton-Kurta-With-Pyjamas-13916-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/22659880/2023/6/8/54c852c0-51a5-448a-b5ad-3b265df141841686218731251-FUBAR-Geometric-Printed-Pure-Cotton-Kurta-With-Pyjamas-13916-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/22659880/2023/6/8/54c852c0-51a5-448a-b5ad-3b265df141841686218731251-FUBAR-Geometric-Printed-Pure-Cotton-Kurta-With-Pyjamas-13916-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/22659880/2023/6/8/54c852c0-51a5-448a-b5ad-3b265df141841686218731251-FUBAR-Geometric-Printed-Pure-Cotton-Kurta-With-Pyjamas-13916-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/22659880/2023/6/8/54c852c0-51a5-448a-b5ad-3b265df141841686218731251-FUBAR-Geometric-Printed-Pure-Cotton-Kurta-With-Pyjamas-13916-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/22659880/2023/6/8/54c852c0-51a5-448a-b5ad-3b265df141841686218731251-FUBAR-Geometric-Printed-Pure-Cotton-Kurta-With-Pyjamas-13916-1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -7514,16 +8281,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/22659884/2023/6/8/c62e3cb9-7593-4526-85de-6903e531360b1686218897144-FUBAR-Abstract-Printed-Mandarin-Collar-Regular-Pure-Cotton-K-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/22659884/2023/6/8/c62e3cb9-7593-4526-85de-6903e531360b1686218897144-FUBAR-Abstract-Printed-Mandarin-Collar-Regular-Pure-Cotton-K-1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/22659884/2023/6/8/c62e3cb9-7593-4526-85de-6903e531360b1686218897144-FUBAR-Abstract-Printed-Mandarin-Collar-Regular-Pure-Cotton-K-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/22659884/2023/6/8/c62e3cb9-7593-4526-85de-6903e531360b1686218897144-FUBAR-Abstract-Printed-Mandarin-Collar-Regular-Pure-Cotton-K-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/22659884/2023/6/8/c62e3cb9-7593-4526-85de-6903e531360b1686218897144-FUBAR-Abstract-Printed-Mandarin-Collar-Regular-Pure-Cotton-K-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/22659884/2023/6/8/c62e3cb9-7593-4526-85de-6903e531360b1686218897144-FUBAR-Abstract-Printed-Mandarin-Collar-Regular-Pure-Cotton-K-1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/22659884/2023/6/8/c62e3cb9-7593-4526-85de-6903e531360b1686218897144-FUBAR-Abstract-Printed-Mandarin-Collar-Regular-Pure-Cotton-K-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/22659884/2023/6/8/c62e3cb9-7593-4526-85de-6903e531360b1686218897144-FUBAR-Abstract-Printed-Mandarin-Collar-Regular-Pure-Cotton-K-1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -7553,16 +8324,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/24774344/2023/9/2/cf698269-9852-4615-be94-155731adfe611693630686530AnoukMensDupionSilkCreamKurtaandchuridaarpyjama1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/24774344/2023/9/2/cf698269-9852-4615-be94-155731adfe611693630686530AnoukMensDupionSilkCreamKurtaandchuridaarpyjama1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/24774344/2023/9/2/cf698269-9852-4615-be94-155731adfe611693630686530AnoukMensDupionSilkCreamKurtaandchuridaarpyjama1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/24774344/2023/9/2/cf698269-9852-4615-be94-155731adfe611693630686530AnoukMensDupionSilkCreamKurtaandchuridaarpyjama1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/24774344/2023/9/2/cf698269-9852-4615-be94-155731adfe611693630686530AnoukMensDupionSilkCreamKurtaandchuridaarpyjama1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/24774344/2023/9/2/cf698269-9852-4615-be94-155731adfe611693630686530AnoukMensDupionSilkCreamKurtaandchuridaarpyjama1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/24774344/2023/9/2/cf698269-9852-4615-be94-155731adfe611693630686530AnoukMensDupionSilkCreamKurtaandchuridaarpyjama1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/24774344/2023/9/2/cf698269-9852-4615-be94-155731adfe611693630686530AnoukMensDupionSilkCreamKurtaandchuridaarpyjama1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -7592,16 +8367,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/25101064/2023/9/22/43548339-52c2-493a-bfbe-06569c8613fe1695359307788OdebyHouseofPataudiMenBlackEthnicMotifsPrintedRegularKurtawi1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/25101064/2023/9/22/43548339-52c2-493a-bfbe-06569c8613fe1695359307788OdebyHouseofPataudiMenBlackEthnicMotifsPrintedRegularKurtawi1.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/25101064/2023/9/22/43548339-52c2-493a-bfbe-06569c8613fe1695359307788OdebyHouseofPataudiMenBlackEthnicMotifsPrintedRegularKurtawi1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/25101064/2023/9/22/43548339-52c2-493a-bfbe-06569c8613fe1695359307788OdebyHouseofPataudiMenBlackEthnicMotifsPrintedRegularKurtawi1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/25101064/2023/9/22/43548339-52c2-493a-bfbe-06569c8613fe1695359307788OdebyHouseofPataudiMenBlackEthnicMotifsPrintedRegularKurtawi1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/25101064/2023/9/22/43548339-52c2-493a-bfbe-06569c8613fe1695359307788OdebyHouseofPataudiMenBlackEthnicMotifsPrintedRegularKurtawi1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/25101064/2023/9/22/43548339-52c2-493a-bfbe-06569c8613fe1695359307788OdebyHouseofPataudiMenBlackEthnicMotifsPrintedRegularKurtawi1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/25101064/2023/9/22/43548339-52c2-493a-bfbe-06569c8613fe1695359307788OdebyHouseofPataudiMenBlackEthnicMotifsPrintedRegularKurtawi1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -7631,16 +8410,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19027352/2022/7/9/61f121b2-e0b8-4430-b667-9265307c2dde1657338895470JompersMenGreenEthnicMotifsKurtawithPyjamas2.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19027352/2022/7/9/61f121b2-e0b8-4430-b667-9265307c2dde1657338895470JompersMenGreenEthnicMotifsKurtawithPyjamas2.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19027352/2022/7/9/7276cc21-c4d7-4c3a-9b27-dfd1585840361657338895492JompersMenGreenEthnicMotifsKurtawithPyjamas5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19027352/2022/7/9/7276cc21-c4d7-4c3a-9b27-dfd1585840361657338895492JompersMenGreenEthnicMotifsKurtawithPyjamas5.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19027352/2022/7/9/86809cab-b14c-4797-8907-cd8c30507c731657338895436JompersMenGreenEthnicMotifsKurtawithPyjamas1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19027352/2022/7/9/86809cab-b14c-4797-8907-cd8c30507c731657338895436JompersMenGreenEthnicMotifsKurtawithPyjamas1.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19027352/2022/7/9/ab02cdb3-8586-424c-806d-e7d1c313382f1657338895481JompersMenGreenEthnicMotifsKurtawithPyjamas6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19027352/2022/7/9/ab02cdb3-8586-424c-806d-e7d1c313382f1657338895481JompersMenGreenEthnicMotifsKurtawithPyjamas6.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [
@@ -7670,16 +8453,20 @@ const Plpproducts = [
         "pdpImages": {
             "images": [
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/22659884/2023/6/8/15ec4351-2eb0-4087-86a4-543adae4d28a1686218897088-FUBAR-Abstract-Printed-Mandarin-Collar-Regular-Pure-Cotton-K-5.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/22659884/2023/6/8/15ec4351-2eb0-4087-86a4-543adae4d28a1686218897088-FUBAR-Abstract-Printed-Mandarin-Collar-Regular-Pure-Cotton-K-5.jpg",
+                    "isActive": true,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/22659884/2023/6/8/4909434e-8f63-4af7-b8fc-ed2cfd7a10201686218897074-FUBAR-Abstract-Printed-Mandarin-Collar-Regular-Pure-Cotton-K-6.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/22659884/2023/6/8/4909434e-8f63-4af7-b8fc-ed2cfd7a10201686218897074-FUBAR-Abstract-Printed-Mandarin-Collar-Regular-Pure-Cotton-K-6.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/22659884/2023/6/8/c20e68c7-7527-4cad-82d8-2ad160178b6f1686218897116-FUBAR-Abstract-Printed-Mandarin-Collar-Regular-Pure-Cotton-K-3.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/22659884/2023/6/8/c20e68c7-7527-4cad-82d8-2ad160178b6f1686218897116-FUBAR-Abstract-Printed-Mandarin-Collar-Regular-Pure-Cotton-K-3.jpg",
+                    "isActive": false,
                 },
                 {
-                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/22659884/2023/6/8/c62e3cb9-7593-4526-85de-6903e531360b1686218897144-FUBAR-Abstract-Printed-Mandarin-Collar-Regular-Pure-Cotton-K-1.jpg"
+                    "imagUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/22659884/2023/6/8/c62e3cb9-7593-4526-85de-6903e531360b1686218897144-FUBAR-Abstract-Printed-Mandarin-Collar-Regular-Pure-Cotton-K-1.jpg",
+                    "isActive": false,
                 }
             ],
             "details": [

@@ -187,15 +187,13 @@
     color: red;
 }
 
+
 @media screen and (max-width:428px) {
     .plp-container {
         .plp-content {
             display: flex;
             flex-direction: column;
-            margin-left: 20px;
             margin-top: 65px;
-
-
             .left {
                 display: none;
             }
@@ -215,6 +213,6 @@
         }
         
 
-       
+        
     }
 }

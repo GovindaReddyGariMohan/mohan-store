@@ -17,7 +17,9 @@
 .order-images img:hover {
     transform: scale(1.1);
 }
-
+.pdp-carosel{
+    display: none;
+}
 .order-details {
     .details {
         text-align: start;
@@ -53,6 +55,7 @@
         border-radius: 23px;
         color: #ff3e6c;
         border-color: #ff3e6c;
+        border: none;
     }
 
     .add-btn button {
@@ -87,5 +90,44 @@
 
     .price span {
         color: #ff3e6c;
+    }
+}
+@media screen and (max-width:428px) {
+    .pdp-carosel{
+        display: block;
+    }
+    .order-images{
+        display: none;
+    }
+    .pdp-responsive{
+        display: flex;
+        flex-direction: column;
+    }
+    .onesize,.onesize-button,.item-price,.item-seller,.seller-border{
+        display: none;
+    }
+    .pdp-next-button{
+        position: relative;
+        bottom: 250px;
+        right: 130px;
+    }
+    .pdp-prev-button{
+        position: relative;
+        bottom: 250px;
+       left: 130px;
+    }
+    .details{
+        .title,
+        .description,
+        .price,
+        .tax{
+            text-align: center;
+        }
+        .rating{
+            margin-left: 130px;
+        }
+        .add-btn{
+            margin-left: 50px;
+        }
     }
 }
