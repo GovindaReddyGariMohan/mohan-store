@@ -3,6 +3,7 @@ import './Navbar.scss';
 import { Link, useLocation } from "react-router-dom";
 import { useSelector } from "react-redux";
 import Logo from '../../assets/Mstore.png'
+import icon from '../../assets/store-logo.jpeg'
 const Navbar = () => {
     const { cartData } = useSelector((state) => state.cart)
     const path = useLocation().pathname.split('/')[1]
@@ -36,8 +37,8 @@ const Navbar = () => {
                 <i className={active ? "fas fa-times " : "fas fa-bars active"} onClick={handleNavbar}></i>
                 <Link to='/'>
                     <div className="nav-logo">
-                        <img src={Logo} alt="logo" />
-                    </div>
+                        <img src={icon} alt="logo" />
+                    </div> 
                 </Link>
                 <div className="items">
                     <ul className={active ? "nav-items " : "active-item nav-items"} >
