@@ -32,20 +32,22 @@ const Navbar = () => {
     } else {
         return (
             <div className="nav-bar">
+
+                <i className={active ? "fas fa-times " : "fas fa-bars active"} onClick={handleNavbar}></i>
                 <Link to='/'>
                     <div className="nav-logo">
                         <img src={Logo} alt="logo" />
                     </div>
                 </Link>
-                <i className={active ? "fas fa-times " : "fas fa-bars active"} onClick={handleNavbar}></i>
-                <div>
+                <div className="items">
                     <ul className={active ? "nav-items " : "active-item nav-items"} >
-                        <li><Link to='shop/men' >MEN</Link></li>
-                        <li><Link to='shop/womens' >WOMEN</Link></li>
-                        <li><Link to='shop/men' >KIDS</Link></li>
-                        <li><Link to='shop/womens' >HOME & LIVING</Link></li>
-                        <li><Link to='shop/men' >BEAUTY</Link></li>
-                        <li><Link to='shop/womens' >STUDIO <sup className="new">NEW</sup></Link></li>
+                        <li className="close-side-bar" onClick={() => setActive(false)}><i className="fa-solid fa-x"></i></li>
+                        <li onClick={() => setActive(false)} className="Men"><Link to='shop/men' >MEN</Link></li>
+                        <li onClick={() => setActive(false)}><Link to='shop/womens' >WOMEN</Link></li>
+                        <li onClick={() => setActive(false)}><Link to='shop/men' >KIDS</Link></li>
+                        <li onClick={() => setActive(false)}><Link to='shop/womens' >HOME & LIVING</Link></li>
+                        <li onClick={() => setActive(false)}><Link to='shop/men' >BEAUTY</Link></li>
+                        <li onClick={() => setActive(false)}><Link to='shop/womens' >STUDIO <sup className="new">NEW</sup></Link></li>
                     </ul>
                 </div>
                 <div className="nav-search">

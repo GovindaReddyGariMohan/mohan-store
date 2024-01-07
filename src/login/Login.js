@@ -13,7 +13,7 @@ const Login = () => {
                     <p className='terms-and-services'>By continuing, I agree to the <span>Terms of Use</span> & <span>Privacy Policy</span></p>
                     <button>CONTINUE</button>
                     <div className='help'>Have troble logging in? <span>Get help</span></div>
-                </div>
+                </div> 
             </div>
         </div>
     )

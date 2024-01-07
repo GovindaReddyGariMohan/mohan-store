@@ -4,7 +4,7 @@
     height: 655px;
     width: 100%;
     position: relative;
-    top: 30px;
+    top: 10px;
 
     .signup-content {
         position: absolute;
@@ -53,6 +53,36 @@
 
 }
 
-Footer {
-    display: none;
+
+@media screen and (max-width:1350px) {
+    .signup {
+        height: 505px;
+        .signup-content {
+
+            position: absolute;
+            top: 30px;
+            background-color: white;
+            left: 10px;
+            width: 400px;
+            height: 430px;
+            text-align: start;
+            
+
+            input {
+                padding: 10px;
+                width: 330px;
+            }
+
+            .input-field {
+                .help {
+                    font-size: 12px;
+                }
+
+                .terms-and-services {
+                    font-size: 11px;
+                }
+            }
+        }
+    }
+
 }
