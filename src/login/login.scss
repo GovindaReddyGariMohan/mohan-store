@@ -3,7 +3,7 @@
     background-color: antiquewhite;
     height: 655px;
     width: 100%;
-    position: relative;
+    position: relative; 
     top: 10px;
 
     .signup-content {
@@ -54,7 +54,7 @@
 }
 
 
-@media screen and (max-width:1350px) {
+@media screen and (max-width:428px) {
     .signup {
         height: 505px;
         .signup-content {

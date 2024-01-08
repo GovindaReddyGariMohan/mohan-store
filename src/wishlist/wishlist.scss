@@ -1,8 +1,9 @@
-.wish-list-empty{
+.wish-list-empty {
     margin-top: 100px;
 }
+
 .add-wishlist {
-   margin-top: 100px;
+    margin-top: 100px;
     text-align: start;
     padding: 50px;
 
@@ -49,6 +50,7 @@
                 border: solid 1px;
                 border-radius: 20px;
                 background-color: rgba(255, 255, 255, 0.5);
+                right: 0;
             }
         }
 
@@ -71,5 +73,23 @@
     .offer {
         font-size: 12px;
         color: orange;
+    }
+}
+
+@media screen and (max-width:428px) {
+    .add-wishlist {
+        .wishlist-items {
+            .item {
+                img {
+                    max-width: 300px;
+                }
+                .close-item {
+                    margin-left: 70px;
+                    bottom: 460px;
+                    
+                }
+            }
+
+        }
     }
 }

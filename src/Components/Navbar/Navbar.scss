@@ -141,7 +141,7 @@
             position: absolute;
             top: -10px;
             background-color: rgb(68, 66, 66);
-            width: 100px;
+            width: 150px;
             height: 1000px;
             align-items: stretch;
             left: 0;
@@ -152,6 +152,7 @@
 
             a {
                 color: rgba(255, 255, 255, 0.648);
+                font-size: 12px;
             }
 
             .close-side-bar {

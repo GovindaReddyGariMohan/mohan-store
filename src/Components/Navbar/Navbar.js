@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import './Navbar.scss';
 import { Link, useLocation } from "react-router-dom";
 import { useSelector } from "react-redux";
-import Logo from '../../assets/Mstore.png'
 import icon from '../../assets/store-logo.jpeg'
 const Navbar = () => {
     const { cartData } = useSelector((state) => state.cart)
@@ -14,9 +13,9 @@ const Navbar = () => {
     if (path === 'bag') {
         return (
             <div className="bag-nav-bar">
-                <Link to='/'>
+                <Link to='/'> 
                     <div className="nav-logo">
-                        <img src={Logo} alt="logo" />
+                        <img src={icon} alt="logo" />
                     </div>
                 </Link>
                 <div className="bag-process">
