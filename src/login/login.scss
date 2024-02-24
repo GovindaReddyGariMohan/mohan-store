@@ -86,3 +86,132 @@
     }
 
 }
+@media screen and (max-width:499px){
+    .signup {
+        height: 510px;
+       
+        .signup-content {
+
+            position: absolute;
+            top: 30px;
+            background-color: white;
+            left: 25px;
+            width: 390px;
+            height: 460px;
+            text-align: start;
+            
+
+            input {
+                padding: 10px;
+                width: 310px;
+            }
+
+            .input-field {
+                .help {
+                    font-size: 12px;
+                }
+
+                .terms-and-services {
+                    font-size: 11px;
+                }
+            }
+        }
+    }
+}
+@media screen and (max-width:699px){
+    .signup {
+        height: 540px;
+       
+        .signup-content {
+
+            position: absolute;
+            top: 30px;
+            background-color: white;
+            left: 15px;
+            width: 540px;
+            height: 460px;
+            text-align: start;
+            
+
+            input {
+                padding: 10px;
+                width: 410px;
+            }
+
+            .input-field {
+                .help {
+                    font-size: 12px;
+                }
+
+                .terms-and-services {
+                    font-size: 11px;
+                }
+            }
+        }
+    }
+}
+@media screen and (max-width:799px){
+    .signup {
+        height: 610px;
+       
+        .signup-content {
+
+            position: absolute;
+            top: 30px;
+            background-color: white;
+            right: 25px;
+            width: 600px;
+            height: 560px;
+           
+            
+
+            input {
+                padding: 15px 1px 15px 2px;
+                width: 530px;
+                font-size: 15px;
+            }
+
+            .input-field {
+                .help {
+                    font-size: 12px;
+                }
+
+                .terms-and-services {
+                    font-size: 11px;
+                }
+            }
+        }
+    }
+}
+@media screen and (max-width:1099px){
+    .signup {
+        height: 610px;
+       
+        .signup-content {
+            position: absolute;
+            top: 30px;
+            background-color: white;
+            left: 95px;
+            width: 600px;
+            height: 560px;
+            text-align: start;
+            
+
+            input {
+                padding: 15px 1px 15px 2px;
+                width: 530px;
+                font-size: 15px;
+            }
+
+            .input-field {
+                .help {
+                    font-size: 12px;
+                }
+
+                .terms-and-services {
+                    font-size: 11px;
+                }
+            }
+        }
+    }
+}

@@ -12,7 +12,7 @@
     }
 
     .product-size {
-        .imag-price del {
+        .imag-price del { 
             color: #94969F;
         }
 
@@ -300,4 +300,17 @@
     text-align: start;
     padding-left: 10px;
     line-height: 25px;
+}
+@media screen and (max-width:428px){
+    .cart-images img {
+        height: 150px;
+        width: 100%;
+    }
+    .cart-images{
+        display: flex;
+        justify-content:space-evenly;
+    }
+    .imag-details {
+        text-align:center;
+    }
 }

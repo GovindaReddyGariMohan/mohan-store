@@ -1,7 +1,7 @@
 import './login.scss'
 const Login = () => {
 
-    return (
+    return ( 
         <div className='signup'>
             <div className='signup-content'>
                 <img src="https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/2023/10/29/9610da61-a1a4-4215-b1fa-f612242d10e61698602536819-Flat_200--1-.jpg" alt="imag" />

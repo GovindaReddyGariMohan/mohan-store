@@ -121,7 +121,7 @@ const Cartleft = ({ ...props }) => {
                                         <Link to={`/shop/${cartItem.catogory}/${cartItem.subCatogory}/${cartItem.id}`}><img src={cartItem.imgUrl} alt="cart" /></Link>
                                         <input type="checkbox" className="img-checkbox" />
                                     </div>
-                                    <div  >
+                                    <div>
                                         < div key={Math.random()} className="imag-details">
                                             <div className="imag-title"><b>{cartItem.title}</b></div>
                                             <div className="imag-discription">{cartItem.pdpImages.details.description}</div>

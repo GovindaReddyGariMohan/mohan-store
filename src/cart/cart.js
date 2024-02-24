@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import './cart.scss'
 import Plpproducts from "../constants/plpPdpConstants";
 import Cartleft from "./cartLeft/CartLeft";
-import Cartright from "./cartRight";
+import Cartright from "./cartRight"; 
 import Cartbottom from "./cartBottom";
 import { useDispatch, useSelector } from "react-redux";
 import { toggleProfileModal } from "../redux/actions/appActions";
@@ -30,7 +30,7 @@ const Cart = () => {
         )
     } else {
         return cartData && (
-            <div className="cart">
+            <div className="cart"> 
                 <div className="row">
                     <div className="col-7">
                         <Cartleft />

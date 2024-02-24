@@ -131,3 +131,12 @@
         margin-bottom: 10px;
     }
 }
+@media screen and (max-width:450px){
+    .close {
+        height: 20px;
+        width: 20px;
+        position: relative;
+        bottom: 155px;
+        left: 380px;
+    }
+}

@@ -11,7 +11,7 @@ const Profile = () => {
     const dispatch = useDispatch();
     const handleClose = () => {
         dispatch(toggleProfileModal(false));
-    }
+    } 
     return (
         <div className='profile'>
             {

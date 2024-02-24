@@ -31,7 +31,7 @@ const Navbar = () => {
         )
     } else {
         return (
-            <div className="nav-bar">
+            <div className="nav-bar"> 
 
                 <i className={active ? "fas fa-times " : "fas fa-bars active"} onClick={handleNavbar}></i>
                 <Link to='/'>
