@@ -2,14 +2,14 @@ import { useSelector } from 'react-redux';
 import './cart.scss'
 import React from 'react';
 const Cartright = (props) => {
-    const {cartData, cartTotal} = useSelector(state=>state.cart) || {};
-    return  cartData && cartData[0] &&(
+    const { cartData, cartTotal } = useSelector(state => state.cart) || {};
+    return cartData && cartData[0] && (
         <div className="cart-right">
             <div className='apply-coupons'>
                 <h3>coupons</h3>
                 <div className="coupons">
                     <div className='coupan-icon'>
-                       <div><i className="fa-solid fa-tag"></i></div>
+                        <div><i className="fa-solid fa-tag"></i></div>
                         <div>Apply Coupons</div>
                     </div>
                     <div>
@@ -55,7 +55,10 @@ const Cartright = (props) => {
                     <h3>Total Amount</h3>
                     <h3>₹{cartTotal}</h3>
                 </div>
-                <button>PLACE ORDER</button>
+                <div className='place-order-button'>
+                    <button>PLACE ORDER</button>
+                </div>
+
             </div>
         </div>
     )

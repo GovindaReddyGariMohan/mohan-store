@@ -34,8 +34,12 @@
     padding: 10px 0px 10px 10px;
     font-size: 30px;
 }
-@media screen and (max-width:650px) { 
+
+@media screen and (max-width:950px) { 
     .Footer{
         font-size: 10px;
+    }
+    .remove-footer{
+        display: none;
     }
 }

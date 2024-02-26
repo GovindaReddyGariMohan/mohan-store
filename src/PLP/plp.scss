@@ -6,7 +6,7 @@
         ;
     }
 }
- 
+
 .plp-top {
     margin-top: 100px;
     text-align: start;
@@ -99,6 +99,7 @@
     top: 0;
     border-top: solid 1px;
     border-color: #e9e9ed;
+    height: 70%;
 
     input[type=checkbox] {
         accent-color: red;
@@ -188,12 +189,17 @@
 }
 
 
-@media screen and (max-width:428px) {
+@media screen and (max-width:928px) {
     .plp-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
         .plp-content {
             display: flex;
             flex-direction: column;
             margin-top: 65px;
+
             .left {
                 display: none;
             }
@@ -211,8 +217,5 @@
             width: 165px;
             height: 200px;
         }
-        
-
-        
     }
 }

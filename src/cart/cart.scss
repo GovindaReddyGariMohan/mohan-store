@@ -8,6 +8,8 @@
         padding: 0px;
     }
 
+
+
 }
 
 .imag-details {
@@ -210,7 +212,7 @@
         font-weight: 800;
     }
 }
- 
+
 .cart-bottom {
     display: flex;
     align-items: center;
@@ -314,30 +316,30 @@
             }
         }
 
-        .enter-pincode {
-            margin-top: 10px;
-            background-color: white;
-            padding-top: 15px;
+        // .enter-pincode {
+        //     margin-top: 10px;
+        //     background-color: white;
+        //     padding-top: 15px;
 
-            #pincode {
-                width: 400px;
-                height: 40px;
-                border-radius: 3px;
-                font-size: 14px;
-                border-width: 1px;
-                border-color: #94969f5f;
-            }
+        //     #pincode {
+        //         width: 400px;
+        //         height: 40px;
+        //         border-radius: 3px;
+        //         font-size: 14px;
+        //         border-width: 1px;
+        //         border-color: #94969f5f;
+        //     }
 
-            #check {
-                position: relative;
-                border: none;
-                bottom: 30px;
-                left: 160px;
-                background-color: white;
-                color: #5d5d5efb;
-                cursor: pointer;
-            }
-        }
+        //     #check {
+        //         position: relative;
+        //         border: none;
+        //         bottom: 30px;
+        //         left: 160px;
+        //         background-color: white;
+        //         color: #5d5d5efb;
+        //         cursor: pointer;
+        //     }
+        // }
 
         .or {
             font-size: 14px;
@@ -361,17 +363,41 @@
         }
     }
 }
-.cart-items{ 
-    margin-top: 100px;
-}
-@media screen and (max-width:428px){
-    .cart{
-        margin: 0px;
-        margin-top: 90px;
-        .row{
+
+
+
+@media screen and (max-width:928px) {
+    .cart {
+        margin: 0;
+        margin-top: 80px;
+        padding-bottom: 50px;
+        .row {
             display: flex;
-            flex-direction:row;
-            
+            flex-direction: column;
+            justify-content: start;
+            width: 100%;
+        }
+
+        // .cart-right{
+        //     display: none;
+        // }
+        .cart-bottom {
+            display: none;
+        }
+        .cart-right{
+            .total-amount{
+                .place-order-button{
+                    
+                    button{
+                        position: fixed;
+                        bottom: 0;
+                        width: 100%;
+                        height: 50px;
+                        left: 0;
+                    }
+                }
+               
+            }
         }
     }
 }

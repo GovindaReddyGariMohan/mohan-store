@@ -1,7 +1,7 @@
 import './cart.scss'
 const Cartbottom = () => {
     const imag = [
-        {
+        { 
             imgUrl: 'https://constant.myntassets.com/checkout/assets/img/footer-bank-ssl.png'
         },
         {
