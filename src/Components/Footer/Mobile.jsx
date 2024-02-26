@@ -1,5 +1,5 @@
 import React from "react";
-import './Footer.css'
+import './footer.css'
 const Mobileapp = (props) => {
     const { images, title } = props;
     return (

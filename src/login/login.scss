@@ -3,18 +3,23 @@
     background-color: antiquewhite;
     height: 655px;
     width: 100%;
-    position: relative; 
+    position: relative;
     top: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 
     .signup-content {
+        
         position: absolute;
         top: 50px;
         background-color: white;
-        left: 430px;
         width: 40%;
-        height: 530px; 
+        height: 530px;
         text-align: start;
         bottom: 20px;
+        
 
         .input-field {
             padding: 30px;
@@ -47,30 +52,25 @@
 
         input {
             padding: 10px;
-            width: 500px;
+            width: 95%;
         }
     }
 
 }
 
 
-@media screen and (max-width:428px) {
+@media screen and (max-width:928px) {
     .signup {
         height: 505px;
-        .signup-content {
 
-            position: absolute;
+        .signup-content {
             top: 30px;
-            background-color: white;
-            left: 10px;
+           
             width: 370px;
             height: 460px;
-            text-align: start;
-            
-
             input {
                 padding: 10px;
-                width: 300px;
+                
             }
 
             .input-field {
@@ -86,132 +86,4 @@
     }
 
 }
-@media screen and (max-width:499px){
-    .signup {
-        height: 510px;
-       
-        .signup-content {
 
-            position: absolute;
-            top: 30px;
-            background-color: white;
-            left: 25px;
-            width: 390px;
-            height: 460px;
-            text-align: start;
-            
-
-            input {
-                padding: 10px;
-                width: 310px;
-            }
-
-            .input-field {
-                .help {
-                    font-size: 12px;
-                }
-
-                .terms-and-services {
-                    font-size: 11px;
-                }
-            }
-        }
-    }
-}
-@media screen and (max-width:699px){
-    .signup {
-        height: 540px;
-       
-        .signup-content {
-
-            position: absolute;
-            top: 30px;
-            background-color: white;
-            left: 15px;
-            width: 540px;
-            height: 460px;
-            text-align: start;
-            
-
-            input {
-                padding: 10px;
-                width: 410px;
-            }
-
-            .input-field {
-                .help {
-                    font-size: 12px;
-                }
-
-                .terms-and-services {
-                    font-size: 11px;
-                }
-            }
-        }
-    }
-}
-@media screen and (max-width:799px){
-    .signup {
-        height: 610px;
-       
-        .signup-content {
-
-            position: absolute;
-            top: 30px;
-            background-color: white;
-            right: 25px;
-            width: 600px;
-            height: 560px;
-           
-            
-
-            input {
-                padding: 15px 1px 15px 2px;
-                width: 530px;
-                font-size: 15px;
-            }
-
-            .input-field {
-                .help {
-                    font-size: 12px;
-                }
-
-                .terms-and-services {
-                    font-size: 11px;
-                }
-            }
-        }
-    }
-}
-@media screen and (max-width:1099px){
-    .signup {
-        height: 610px;
-       
-        .signup-content {
-            position: absolute;
-            top: 30px;
-            background-color: white;
-            left: 95px;
-            width: 600px;
-            height: 560px;
-            text-align: start;
-            
-
-            input {
-                padding: 15px 1px 15px 2px;
-                width: 530px;
-                font-size: 15px;
-            }
-
-            .input-field {
-                .help {
-                    font-size: 12px;
-                }
-
-                .terms-and-services {
-                    font-size: 11px;
-                }
-            }
-        }
-    }
-}

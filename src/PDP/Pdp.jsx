@@ -7,7 +7,7 @@ import Plpproducts from '../constants/plpPdpConstants';
 import { useDispatch } from 'react-redux';
 import { toggleProfileModal } from '../redux/actions/appActions';
 const Pdp = () => {
-    const prod = useLocation().pathname.split('/')[3]
+    const prod = useLocation().pathname.split('/')[3] 
     const { userId } = useParams();
     const userData = { userId }
     const objectName = useLocation().pathname.split("/")[2]

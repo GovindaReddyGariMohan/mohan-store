@@ -1,5 +1,5 @@
-import React, { Children, useState } from "react";
-import './Modal.scss'
+import React from "react";
+import './modal.scss'
 import closeIcon from "../../assets/close.png"
 const Modal = (props) => {
     const { Header, Body, children, close } = props

@@ -1,4 +1,4 @@
-import './Products.css';
+import './products.css';
 import ShopCategory from '../../constants/Shop-category';
 import { Link } from 'react-router-dom';
 const Categories = () => { 

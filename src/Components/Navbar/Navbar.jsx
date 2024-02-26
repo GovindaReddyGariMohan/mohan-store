@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import './Navbar.scss';
+import './navbar.scss';
 import { Link, useLocation } from "react-router-dom";
 import { useSelector } from "react-redux";
 import icon from '../../assets/store-logo.jpeg'
@@ -10,10 +10,34 @@ const Navbar = () => {
     const handleNavbar = () => {
         setActive(active ? false : true)
     }
+    const items = [
+        {
+            item: 'MEN',
+            to: 'shop/men',
+            className: 'Men',
+        },
+        {
+            item: 'WOMEN',
+            to: 'shop/womens',
+        },
+        {
+            item: 'KIDS',
+            to: 'shop/men',
+        },
+        {
+            item: 'HOME & LIVING',
+            to: 'shop/womens',
+        },
+        {
+            item: 'BEAUTY',
+            to: 'shop/men'
+        },
+
+    ]
     if (path === 'bag') {
         return (
             <div className="bag-nav-bar">
-                <Link to='/'> 
+                <Link to='/'>
                     <div className="nav-logo">
                         <img src={icon} alt="logo" />
                     </div>
@@ -31,22 +55,22 @@ const Navbar = () => {
         )
     } else {
         return (
-            <div className="nav-bar"> 
+            <div className="nav-bar">
 
                 <i className={active ? "fas fa-times " : "fas fa-bars active"} onClick={handleNavbar}></i>
                 <Link to='/'>
                     <div className="nav-logo">
                         <img src={icon} alt="logo" />
-                    </div> 
+                    </div>
                 </Link>
                 <div className="items">
                     <ul className={active ? "nav-items " : "active-item nav-items"} >
                         <li className="close-side-bar" onClick={() => setActive(false)}><i className="fa-solid fa-x"></i></li>
-                        <li onClick={() => setActive(false)} className="Men"><Link to='shop/men' >MEN</Link></li>
-                        <li onClick={() => setActive(false)}><Link to='shop/womens' >WOMEN</Link></li>
-                        <li onClick={() => setActive(false)}><Link to='shop/men' >KIDS</Link></li>
-                        <li onClick={() => setActive(false)}><Link to='shop/womens' >HOME & LIVING</Link></li>
-                        <li onClick={() => setActive(false)}><Link to='shop/men' >BEAUTY</Link></li>
+                        {
+                            items.map((value)=>{
+                               return <li onClick={() => setActive(false)} className={value.className} key={Math.random()}><Link to={value.to} >{value.item}</Link></li>
+                            })
+                        }
                         <li onClick={() => setActive(false)}><Link to='shop/womens' >STUDIO <sup className="new">NEW</sup></Link></li>
                     </ul>
                 </div>

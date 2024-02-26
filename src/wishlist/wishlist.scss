@@ -76,20 +76,31 @@
     }
 }
 
-@media screen and (max-width:428px) {
+@media screen and (max-width:928px) {
     .add-wishlist {
+        padding: 0px;
         .wishlist-items {
             .item {
+                border: solid 1px;
+                border-color: black;
+                width: 300px;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                position: relative;
+                flex-wrap: wrap;
                 img {
-                    max-width: 300px;
+                    max-width: 100%; 
                 }
+
                 .close-item {
-                    margin-left: 70px;
-                    bottom: 460px;
-                    
+                    position: absolute;
+                    top: 0;
+                    left: 270px;
+                    right: 0px;
                 }
             }
-
         }
     }
 }

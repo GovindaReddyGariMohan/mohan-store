@@ -16,7 +16,7 @@ const Pdpleft = (props) => {
       tempImgs[activindex + 1].isActive = true
     } else {
       tempImgs[0].isActive = true
-    }
+    } 
     setImages([...tempImgs])
   }
   const handlePrevevent = () => {
@@ -34,7 +34,7 @@ const Pdpleft = (props) => {
     } else {
       tempImgs[len].isActive = true
     }
-    setImages([...tempImgs])
+    setImages([...tempImgs]) 
   }
   return (
     <>

@@ -20,10 +20,12 @@ const Product = [
         linkUrl: 'shop/men/tshirt'
     },
     {
-        imgUrl: 'https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2023/11/16/86a4ca92-d0a3-4e9a-bb5d-84faa7dcaee41700074678922-American_Tourister-Delsey__Trolleys_bags_Starting_3099-9999-.png'
+        imgUrl: 'https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2023/11/16/86a4ca92-d0a3-4e9a-bb5d-84faa7dcaee41700074678922-American_Tourister-Delsey__Trolleys_bags_Starting_3099-9999-.png',
+        linkUrl: 'shop/men/watches'
     },
     {
-        imgUrl: 'https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2023/11/19/423b4f1a-86a4-447a-bf33-4da6759c986d1700368604612-image_png_512856874.png'
+        imgUrl: 'https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2023/11/19/423b4f1a-86a4-447a-bf33-4da6759c986d1700368604612-image_png_512856874.png',
+        linkUrl: 'shop/men/tshirt'
     },
     {
         imgUrl: 'https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2023/11/16/a8c2f233-bcec-45ac-ba48-486a0c7ffe691700074679100-Tommy_Hilfiger_Bestever_Collection_of_the_Season_Min_40.png',
@@ -38,7 +40,8 @@ const Product = [
         linkUrl: 'shop/men/watches'
     },
     {
-        imgUrl: 'https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2023/11/15/63184e3e-1a68-4641-966d-40bdb96812dc1700071730979-Allen_Solly-_Van_Heusen_-_More_-_Min_40_off.png'
+        imgUrl: 'https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2023/11/15/63184e3e-1a68-4641-966d-40bdb96812dc1700071730979-Allen_Solly-_Van_Heusen_-_More_-_Min_40_off.png',
+        linkUrl: 'shop/womens/kurtas'
     },
     {
         imgUrl: 'https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2023/11/15/3f69f524-a4b9-49d8-a48c-ac71de993a391700071730987-Athena-_Dennison_-_Min_60_off.png',
@@ -65,7 +68,8 @@ const Product = [
         linkUrl: 'shop/womens/kurtas'
     },
     {
-        imgUrl: 'https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2023/11/16/39480297-a063-4ca9-9726-6d8d8894bbd71700074678917-Allen_Solly-_Van_Heusen_-_more_min_40_off.png'
+        imgUrl: 'https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2023/11/16/39480297-a063-4ca9-9726-6d8d8894bbd71700074678917-Allen_Solly-_Van_Heusen_-_more_min_40_off.png',
+        linkUrl: 'shop/womens/kurtas'
     },
     {
         imgUrl: 'https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2023/11/16/258395ab-7787-444d-bb5d-31ddb6f63a651700074678927-Baggit-_Dressberry_-_more_Min_70_Off.png',

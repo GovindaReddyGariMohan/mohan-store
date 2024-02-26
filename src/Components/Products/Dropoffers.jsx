@@ -1,4 +1,4 @@
-import './Products.css';
+import './products.css';
 import Product from '../../constants/Shop_products';
 import { Link } from 'react-router-dom';
 const Dropoffers = () => {

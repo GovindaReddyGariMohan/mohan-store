@@ -1,5 +1,5 @@
-import React from "react";
-import './Posters.css'
+import React from "react"; 
+import './posters.css'
 const Coupans = () => {
     return (
         <div className="coupans">

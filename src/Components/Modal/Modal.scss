@@ -29,29 +29,27 @@
     }
 }
 
-@media screen and (max-width:500px) {
+@media screen and (max-width:950px) {
     .modal-container {
         .modal-ineer {
-            width: 90%;
-            margin: 0 auto;
-            position: relative;
-            top: 30%;
-            background-color: #fff;
-            z-index: 12345;
+            width: 80%;
+            .header{
+                justify-content:start;
+            }
         }
     }
 }
-@media screen and (max-width:550px){
-    .modal-container {
-        .modal-ineer {
-            width: 90%;
-            margin: 0 auto;
-            position: relative;
-            top: 30%;
-            background-color: #fff;
-            z-index: 12345;
-        }
-    }
-}
+// @media screen and (max-width:850px){
+//     .modal-container {
+//         .modal-ineer {
+//             width: 90%;
+//             margin: 0 auto;
+//             position: relative;
+//             top: 30%;
+//             background-color: #fff;
+//             z-index: 12345;
+//         }
+//     }
+// }
 
 

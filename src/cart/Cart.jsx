@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import './cart.scss'
 import Plpproducts from "../constants/plpPdpConstants";
-import Cartleft from "./cartLeft/CartLeft";
+import Cartleft from "./cartLeft/cartLeft";
 import Cartright from "./cartRight"; 
 import Cartbottom from "./cartBottom";
 import { useDispatch, useSelector } from "react-redux";

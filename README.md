@@ -2,6 +2,7 @@
 
 Demo url [https://govindareddygarimohan.github.io/mohan-store/](https://govindareddygarimohan.github.io/mohan-store/).
 
+## .js vs .jsx
 ## Available Scripts
 
 In the project directory, you can run:

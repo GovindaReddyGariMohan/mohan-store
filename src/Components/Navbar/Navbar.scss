@@ -1,6 +1,5 @@
 .nav-bar {
     display: flex;
-    gap: 50px;
     padding: 0px;
     box-shadow: 1px 0px 1px 1px;
     align-items: center;
@@ -9,6 +8,7 @@
     top: 0;
     width: 100%;
     z-index: 113545;
+    justify-content: space-around;
 }
 
 .nav-bar Link {
@@ -57,7 +57,7 @@
     height: 80px;
     width: 100px;
     cursor: pointer;
-    
+
 }
 
 .nav-search input {
@@ -125,15 +125,14 @@
 }
 
 
-@media screen and (max-width:1350px) {
+@media screen and (max-width:950px) {
     .nav-bar {
         padding: 8px 10px;
-  
+
         .nav-items,
         .nav-items2 {
             font-size: 10px;
         }
-        
 
         .nav-items {
             display: flex;
@@ -182,9 +181,11 @@
             height: 50px;
             width: 50px;
             cursor: pointer;
+            margin-left: -35%;
         }
     }
-    .nav-items2{
+
+    .nav-items2 {
         margin-right: 34px;
     }
 }

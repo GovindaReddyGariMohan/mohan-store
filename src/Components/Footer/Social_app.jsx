@@ -1,5 +1,5 @@
 import React from "react";
-import './Footer.css'
+import './footer.css'
 const Socialapp = (props) => {
 
     const { appLink, title } = props;

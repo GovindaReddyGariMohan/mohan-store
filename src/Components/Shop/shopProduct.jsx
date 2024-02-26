@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useLocation } from "react-router-dom";
 import catagory from "../../constants/shopConstants"
-import './Shopproduct.css';
+import './shopproduct.css';
 import SwitchComponent from "../Switchcomponent";
 const Shop = (props) => {
     const [data] = useState({ ...catagory })

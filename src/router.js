@@ -1,8 +1,8 @@
 import { useRoutes } from "react-router-dom";
 import Home from "./Home";
-import Cart from "./cart/cart";
+import Cart from "./cart/Cart";
 import Plp from "./PLP/Plp";
-import Shop from "./Components/Shop/Shopproduct";
+import Shop from "./Components/Shop/shopProduct";
 import Pdp from "./PDP/Pdp";
 import Wishlist from "./wishlist/Wishlist";
 import Login from "./login/Login";

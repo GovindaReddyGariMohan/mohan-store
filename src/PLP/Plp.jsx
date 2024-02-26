@@ -2,12 +2,12 @@ import React, { useEffect, useState } from "react";
 import { useLocation } from "react-router-dom";
 import Plpleft from "./plpLeft";
 import Plpright from "./plpRight";
-import Plptop from "./Plptop";
+import Plptop from "./plpTop";
 import Plpproducts from "../constants/plpPdpConstants";
 import { useDispatch } from "react-redux";
 import { toggleProfileModal } from "../redux/actions/appActions";
 
-const Plp = () => {
+const Plp = () => { 
     const objectName = useLocation().pathname.split("/")[2]
     const productName = useLocation().pathname.split("/")[3];
     const catagory = objectName

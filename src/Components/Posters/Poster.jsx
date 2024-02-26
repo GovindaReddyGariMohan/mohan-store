@@ -1,9 +1,9 @@
 import React from "react";
-import './Posters.css'
+import './posters.css'
 import {Link} from 'react-router-dom'
 const Posters = () => {
     
-    return (
+    return ( 
         <div className="poster">
             <div className="poster-offer">
                 <img src="https://assets.myntassets.com/f_webp,w_980,c_limit,fl_progressive,dpr_2.0/assets/images/2023/11/23/99cb1121-33ed-464c-997f-1e7a1e950cc31700744537200-MSB-Coupon-400.jpg" alt="poster" />

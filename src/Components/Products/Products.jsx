@@ -1,4 +1,4 @@
-import './Products.css';
+import './products.css';
 import Categories from "./Categories"
 import Dropoffers from "./Dropoffers"
 const Products = () => {

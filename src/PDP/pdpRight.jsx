@@ -1,6 +1,6 @@
 import React from "react";
 import './pdp.scss'
-import { useDispatch, useSelector } from "react-redux";
+import { useDispatch, useSelector } from "react-redux"; 
 import { addItem } from "../redux/actions/cartActions";
 import { addWishlist } from "../redux/actions/wishlistActions";
 const Pdpleft = (props) => {
@@ -26,7 +26,7 @@ const Pdpleft = (props) => {
         }, 500)
     }
     return (
-        <div className="order-details">
+        <div className="order-details"> 
             {
                 productDetails && productDetails.length && productDetails.map((val) => {
                     return (
@@ -43,7 +43,7 @@ const Pdpleft = (props) => {
                             </button>
                             <div className="add-btn">
                                 <button className="add-to-bag-button pointer" onClick={handleAddToCart}> <i className="fa-solid fa-briefcase"></i>  ADD TO BAG</button>
-                                <button className="wishlist" onClick={() => handleWishlist(val.id)}><i className="fa-regular fa-heart"></i> WISHLIST</button>
+                                <button className="wishlist pointer" onClick={() => handleWishlist(val.id)}><i className="fa-regular fa-heart"></i> WISHLIST</button>
                             </div>
                             <hr />
                             <p className="item-price"><b> <i className="fa-solid fa-indian-rupee-sign"></i> {val.price}</b></p>

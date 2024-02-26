@@ -1,6 +1,6 @@
-import './Footer.css';
+import './footer.css';
 import { useState } from 'react';
-import Switchfooter from './Switchfooter';
+import Switchfooter from './switchFooter';
 import Footervalue from '../../constants/Footer-constant';
 const Footer = () => {
     const [data] = useState({ ...Footervalue })
