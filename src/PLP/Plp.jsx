@@ -39,7 +39,7 @@ const Plp = () => {
 
 
     return (
-        <div>
+        <div className="plp"> 
             <div className="plp-top"><Plptop plpTop={sub} /></div>
             <div className="plp-container">
                 <div className="row plp-content">

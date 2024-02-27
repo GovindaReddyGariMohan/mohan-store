@@ -1,5 +1,5 @@
 import './wishlist.scss'
-import react, { useEffect, useState } from 'react'
+import react, { useEffect } from 'react'
 import { useDispatch, useSelector } from "react-redux";
 import Close from '../assets/close.png'
 import Plpproducts from '../constants/plpPdpConstants'

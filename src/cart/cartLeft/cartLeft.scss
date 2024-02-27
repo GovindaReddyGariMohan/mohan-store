@@ -1,7 +1,7 @@
 .cart-left {
     padding-top: 10px;
 
-    .header { 
+    .header {
         position: relative;
 
         img {
@@ -12,7 +12,7 @@
     }
 
     .product-size {
-        .imag-price del { 
+        .imag-price del {
             color: #94969F;
         }
 
@@ -102,7 +102,7 @@
             background-color: #f1616622;
         }
     }
-    
+
 
     .checkbox-wrap {
         margin-top: -20px;
@@ -266,38 +266,32 @@
     display: flex;
     justify-content: space-between;
     border-color: #94969f27;
-    flex-direction:row-reverse;
-    .img-checkbox[type=checkbox] {
-        position: relative;
-        bottom: 130px;
-        right: 60px;
-        accent-color: crimson;
-    }
+    flex-direction: row-reverse;
+
 }
 
 .remove-items {
-    padding: 10px;
+
     font-size: 25px;
     color: #94969F;
 }
-.cart-item{
-    .cart-images {
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-        align-items: center;
-        // gap: 20px;
-         margin: 10px;
-        // padding: 10px;
-      
-        img {
-            cursor: pointer;
-            height: 150px;
-            width: 150px;
-        }
+
+
+.cart-images {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+
+    img {
+        cursor: pointer;
+        height: 150px;
+        width: 150px;
     }
-    
 }
+
+
 
 
 
@@ -306,24 +300,19 @@
     padding-left: 10px;
     line-height: 25px;
 }
-@media screen and (max-width:928px){
-//    .available-offers{
-//     display: none;
-//    }
-//    .selected-items{
-//     display: none;
-//    }
-//    .cart-images-details{
-//     display: none;
-//    }
-//    .add-more-to-wishlist{
-//     display: none;
-//    }
-.cart-images {
-    img{
-    //    height: 100%;
-    //    width: 100%;
-     max-width: 150px;
+
+@media screen and (max-width:928px) {
+
+    .cart-images-details {
+        width: 300px;
+
+        .cart-images {
+
+            img {
+                max-width: 150px;
+            }
+        }
+
     }
-}
+
 }
