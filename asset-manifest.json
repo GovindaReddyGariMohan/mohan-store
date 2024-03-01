@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/mohan-store/static/css/main.cec77b90.css",
-    "main.js": "/mohan-store/static/js/main.b9c6518a.js",
+    "main.js": "/mohan-store/static/js/main.ccf28fff.js",
     "static/js/787.86e753dd.chunk.js": "/mohan-store/static/js/787.86e753dd.chunk.js",
-    "static/media/mohanResume.pdf": "/mohan-store/static/media/mohanResume.c7daa53a370d0a0b13cb.pdf",
     "static/media/AadhaarImag.jpeg": "/mohan-store/static/media/AadhaarImag.8f179ec9cdc8a7852475.jpeg",
+    "static/media/MohanResume.pdf": "/mohan-store/static/media/MohanResume.0f6781557c1f14400949.pdf",
     "static/media/store-logo.jpeg": "/mohan-store/static/media/store-logo.85c94550efd8817b573e.jpeg",
     "static/media/discount.png": "/mohan-store/static/media/discount.7ca5b422b753d5b4c3c8.png",
     "index.html": "/mohan-store/index.html",
     "main.cec77b90.css.map": "/mohan-store/static/css/main.cec77b90.css.map",
-    "main.b9c6518a.js.map": "/mohan-store/static/js/main.b9c6518a.js.map",
+    "main.ccf28fff.js.map": "/mohan-store/static/js/main.ccf28fff.js.map",
     "787.86e753dd.chunk.js.map": "/mohan-store/static/js/787.86e753dd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cec77b90.css",
-    "static/js/main.b9c6518a.js"
+    "static/js/main.ccf28fff.js"
   ]
 }
