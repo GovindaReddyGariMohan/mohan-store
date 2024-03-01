@@ -5,7 +5,7 @@ import Modal from '../Components/Modal/Modal';
 import Close from '../assets/close.png'
 import { useSelector, useDispatch } from 'react-redux';
 import { toggleProfileModal } from '../redux/actions/appActions';
-import Mohanresume from '../assets/mohanResume.pdf'
+import Mohanresume from '../assets/MohanResume.pdf'
 const Profile = () => {
     const { isProfileModalOpen } = useSelector((state) => state.app);
     const dispatch = useDispatch();
