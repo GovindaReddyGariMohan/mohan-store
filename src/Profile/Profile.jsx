@@ -25,7 +25,7 @@ const Profile = () => {
                             </div>
                             <div className='profile-information'>
                                 <span>I am React FullStack Developer Please Download My Profile</span>
-                                <a href={Mohanresume} download="Mohanresume" >
+                                <a href={Mohan-React-Resume} download="Mohanresume" >
                                     <button>Download</button>
                                 </a>
                             </div>
