@@ -5,7 +5,7 @@ import Modal from '../Components/Modal/Modal';
 import Close from '../assets/close.png'
 import { useSelector, useDispatch } from 'react-redux';
 import { toggleProfileModal } from '../redux/actions/appActions';
-import Mohanresume from '../assets/MohanResume.pdf'
+import Mohanresume from '../assets/Mohan-React-Resume.pdf'
 const Profile = () => {
     const { isProfileModalOpen } = useSelector((state) => state.app);
     const dispatch = useDispatch();
@@ -25,7 +25,7 @@ const Profile = () => {
                             </div>
                             <div className='profile-information'>
                                 <span>I am React FullStack Developer Please Download My Profile</span>
-                                <a href={Mohan-React-Resume} download="Mohanresume" >
+                                <a href={Mohanresume} download="Mohanresume" >
                                     <button>Download</button>
                                 </a>
                             </div>
