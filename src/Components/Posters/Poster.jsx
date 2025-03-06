@@ -9,8 +9,8 @@ const Posters = () => {
                 <img src="https://assets.myntassets.com/f_webp,w_980,c_limit,fl_progressive,dpr_2.0/assets/images/2023/11/23/99cb1121-33ed-464c-997f-1e7a1e950cc31700744537200-MSB-Coupon-400.jpg" alt="poster" />
             </div>
             <div className="poster-men-women">
-               <Link to='/shop/men'><img src="https://assets.myntassets.com/f_webp,w_490,c_limit,fl_progressive,dpr_2.0/assets/images/2023/11/23/3cf3ada5-9c28-411f-84d8-d7513cc109991700727091358-SALE-IS-LIVE_01.jpg" alt="men" /></Link>
-               <Link to='/shop/womens'><img src="https://assets.myntassets.com/f_webp,w_490,c_limit,fl_progressive,dpr_2.0/assets/images/2023/11/23/6a88095c-93a4-4ba9-bd84-be2bcb0e946e1700727091350-SALE-IS-LIVE_02.jpg" alt="women" /></Link>
+               <Link to='/shop/men'><img src="https://assets.myntassets.com/w_490,c_limit,fl_progressive,dpr_2.0/assets/images/2025/FEBRUARY/28/lh2K61ci_e76dbb84d7374ce9af719fe1e18bf81d.jpg" /></Link>
+               <Link to='/shop/womens'><img src="https://assets.myntassets.com/w_490,c_limit,fl_progressive,dpr_2.0/assets/images/2025/FEBRUARY/28/rY6himCz_14be1f133ba24d26a00fc44a36c33c2d.jpg" /></Link>
             </div>
         </div>
     )
